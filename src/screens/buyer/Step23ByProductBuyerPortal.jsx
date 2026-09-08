@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   Search, Filter, MapPin, Truck, CheckCircle2, ArrowRight, 
   Download, Calendar, Clock, CreditCard, ShieldCheck, 
@@ -91,10 +91,16 @@ export default function Step23ByProductBuyerPortal({
   } = useAgri();
 
   // Synchronized section: driven by byProductTab from Sidebar or internal navigation
-  const [internalSection, setInternalSection] = useState('listings');
-  const activeSection = byProductTab || internalSection;
+  const [activeSection, setActiveSectionState] = useState(byProductTab || 'listings');
+
+  useEffect(() => {
+    if (byProductTab) {
+      setActiveSectionState(byProductTab);
+    }
+  }, [byProductTab]);
+
   const setActiveSection = (section) => {
-    setInternalSection(section);
+    setActiveSectionState(section);
     if (setByProductTab) setByProductTab(section);
   };
 
