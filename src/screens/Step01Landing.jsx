@@ -300,7 +300,7 @@ export default function Step01Landing({ setStep, setTerminal, setRole, openAdmin
             </div>
           </div>
 
-          {/* Right Hero: Agriculture Marketplace Photo Banner */}
+          {/* Right Hero: Agriculture Marketplace Photo */}
           <div style={{ 
             position: 'relative', 
             borderRadius: 20, 
@@ -308,47 +308,19 @@ export default function Step01Landing({ setStep, setTerminal, setRole, openAdmin
             border: '1px solid #bbf7d0',
             boxShadow: '0 20px 40px -15px rgba(21, 128, 61, 0.22)',
             height: '100%',
-            minHeight: 400,
-            display: 'flex',
-            flexDirection: 'column',
-            justifyContent: 'flex-end',
+            minHeight: 420,
             background: '#f0fdf4'
           }}>
             <img 
               src={heroFarmingPhoto} 
               alt="Smart Agriculture and Direct Farmer Trading" 
               style={{ 
-                position: 'absolute',
-                top: 0,
-                left: 0,
                 width: '100%', 
                 height: '100%', 
                 objectFit: 'cover',
                 display: 'block'
               }}
             />
-            <div style={{
-              position: 'relative',
-              zIndex: 2,
-              background: 'linear-gradient(to top, rgba(15, 23, 42, 0.92) 0%, rgba(15, 23, 42, 0.65) 55%, transparent 100%)',
-              padding: '28px 22px 20px 22px',
-              color: '#ffffff'
-            }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8, flexWrap: 'wrap' }}>
-                <span className="badge badge-green" style={{ fontSize: '0.74rem', background: '#22c55e', color: '#ffffff', border: 'none', fontWeight: 700 }}>
-                  Smart Agri Grid
-                </span>
-                <span style={{ fontSize: '0.78rem', color: '#e2e8f0', fontWeight: 600 }}>
-                  Empowering 4.28L+ Cultivators
-                </span>
-              </div>
-              <div style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', letterSpacing: '-0.02em', marginBottom: 6 }}>
-                Direct Farm-to-Buyer Digital Ecosystem
-              </div>
-              <div style={{ fontSize: '0.8rem', color: '#cbd5e1', lineHeight: 1.4 }}>
-                Instant AI Crop Quality Grading • 100% Guaranteed Escrow Settlements • Zero Middlemen
-              </div>
-            </div>
           </div>
 
         </div>
