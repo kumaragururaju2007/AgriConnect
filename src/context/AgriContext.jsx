@@ -615,9 +615,11 @@ export function AgriProvider({ children }) {
   };
 
   // Toast Helper
-  const addToast = (toast) => {
+  const addToast = (toast, toastType = 'info') => {
     const id = Date.now() + Math.random();
-    const newToast = { id, ...toast };
+    const newToast = typeof toast === 'string'
+      ? { id, title: toast, message: '', type: toastType }
+      : { id, type: 'info', title: '', message: '', ...toast };
     setToasts((prev) => [newToast, ...prev].slice(0, 5));
 
     // Auto dismiss after 5s
