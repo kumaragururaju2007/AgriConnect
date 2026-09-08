@@ -5,6 +5,7 @@ import {
   Store, Lock, Calculator, Database, MapPin, Activity, Clock, FileCheck, Check
 } from 'lucide-react';
 import { useAgri } from '../context/AgriContext';
+import heroFarmingPhoto from '../assets/agri_hero_farming.jpg';
 
 export default function Step01Landing({ setStep, setTerminal, setRole, openAdminPortal }) {
   const { dbStatus, lots, mandiPrices, deals, grievances, switchRole } = useAgri();
@@ -299,67 +300,54 @@ export default function Step01Landing({ setStep, setTerminal, setRole, openAdmin
             </div>
           </div>
 
-          {/* Right Hero Card: Live Interactive Active Lot Preview */}
+          {/* Right Hero: Agriculture Marketplace Photo Banner */}
           <div style={{ 
-            background: '#ffffff', border: '1px solid #bbf7d0', borderRadius: 16, padding: '24px', 
-            boxShadow: '0 12px 30px -10px rgba(21, 128, 61, 0.15)' 
+            position: 'relative', 
+            borderRadius: 20, 
+            overflow: 'hidden', 
+            border: '1px solid #bbf7d0',
+            boxShadow: '0 20px 40px -15px rgba(21, 128, 61, 0.22)',
+            height: '100%',
+            minHeight: 400,
+            display: 'flex',
+            flexDirection: 'column',
+            justifyContent: 'flex-end',
+            background: '#f0fdf4'
           }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 14 }}>
-              <div>
-                <span style={{ fontSize: '0.72rem', color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.04em', fontWeight: 700 }}>
-                  Active Trade Contract • Lasalgaon APMC
+            <img 
+              src={heroFarmingPhoto} 
+              alt="Smart Agriculture and Direct Farmer Trading" 
+              style={{ 
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                width: '100%', 
+                height: '100%', 
+                objectFit: 'cover',
+                display: 'block'
+              }}
+            />
+            <div style={{
+              position: 'relative',
+              zIndex: 2,
+              background: 'linear-gradient(to top, rgba(15, 23, 42, 0.92) 0%, rgba(15, 23, 42, 0.65) 55%, transparent 100%)',
+              padding: '28px 22px 20px 22px',
+              color: '#ffffff'
+            }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8, flexWrap: 'wrap' }}>
+                <span className="badge badge-green" style={{ fontSize: '0.74rem', background: '#22c55e', color: '#ffffff', border: 'none', fontWeight: 700 }}>
+                  Smart Agri Grid
                 </span>
-                <h3 style={{ fontSize: '1.18rem', color: '#0f172a', fontWeight: 800, marginTop: 2 }}>
-                  Deal #AC-TXN-8841 (Lot #AC-892)
-                </h3>
+                <span style={{ fontSize: '0.78rem', color: '#e2e8f0', fontWeight: 600 }}>
+                  Empowering 4.28L+ Cultivators
+                </span>
               </div>
-              <span className="badge badge-green" style={{ fontSize: '0.7rem' }}>
-                ESCROW LOCKED
-              </span>
-            </div>
-
-            <div style={{ background: '#f8fafc', borderRadius: 10, padding: '14px', border: '1px solid #e2e8f0', marginBottom: 14 }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
-                <span style={{ fontSize: '0.82rem', color: '#475569' }}>Commodity</span>
-                <span style={{ fontSize: '0.86rem', fontWeight: 700, color: '#0f172a' }}>12 Tons Grade-A Red Onion (120 Qtl)</span>
+              <div style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff', letterSpacing: '-0.02em', marginBottom: 6 }}>
+                Direct Farm-to-Buyer Digital Ecosystem
               </div>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
-                <span style={{ fontSize: '0.82rem', color: '#475569' }}>Agreed B2B Price</span>
-                <span style={{ fontSize: '0.92rem', fontWeight: 800, color: '#15803d' }}>₹24,250 / Ton (₹2,425 / Qtl)</span>
+              <div style={{ fontSize: '0.8rem', color: '#cbd5e1', lineHeight: 1.4 }}>
+                Instant AI Crop Quality Grading • 100% Guaranteed Escrow Settlements • Zero Middlemen
               </div>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
-                <span style={{ fontSize: '0.82rem', color: '#475569' }}>Buyer Deposit in Escrow</span>
-                <span style={{ fontSize: '1.15rem', fontWeight: 900, color: '#0f172a' }}>₹2,91,000.00</span>
-              </div>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: '0.75rem', color: '#64748b' }}>
-                <span>Escrow Vault: #SBI-MH-ESC-8841029</span>
-                <span style={{ color: '#15803d', fontWeight: 700 }}>Verified & Secured</span>
-              </div>
-            </div>
-
-            {/* Escrow 5-Stage Mini Stepper */}
-            <div style={{ marginBottom: 16 }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.72rem', color: '#64748b', marginBottom: 6 }}>
-                <span>Milestone Progress (Stage 2 of 5)</span>
-                <span style={{ fontWeight: 700, color: '#15803d' }}>Dispatched for Inward Assaying</span>
-              </div>
-              <div style={{ width: '100%', height: 7, background: '#e2e8f0', borderRadius: 999, overflow: 'hidden' }}>
-                <div style={{ width: '40%', height: '100%', background: 'linear-gradient(90deg, #15803d, #22c55e)', borderRadius: 999 }}></div>
-              </div>
-            </div>
-
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 10 }}>
-              <button 
-                onClick={() => { setTerminal('farmer'); setStep(8); }}
-                className="btn-primary" style={{ justifyContent: 'center', fontSize: '0.82rem', padding: '9px 12px' }}>
-                <span>Inspect Escrow Timeline</span>
-                <ArrowRight size={14} />
-              </button>
-              <button 
-                onClick={() => { setTerminal('farmer'); setStep(6); }}
-                className="btn-secondary" style={{ justifyContent: 'center', fontSize: '0.82rem', padding: '9px 12px' }}>
-                <span>View AI Quality Cert</span>
-              </button>
             </div>
           </div>
 
