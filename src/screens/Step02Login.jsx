@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { 
   ShieldCheck, Phone, KeyRound, User, FileText, CheckCircle2, 
-  ArrowRight, Lock, Building2, MapPin, CreditCard, Sparkles, Database, UserPlus, LogIn,
+  ArrowRight, ArrowLeft, Lock, Building2, MapPin, CreditCard, Sparkles, Database, UserPlus, LogIn,
   Scale, X, HelpCircle, AlertCircle, Award
 } from 'lucide-react';
 import { useAgri } from '../context/AgriContext';
@@ -266,6 +266,33 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
   return (
     <div className="animate-slide-in" style={{ maxWidth: 840, margin: '0 auto', padding: '10px 0 40px' }}>
       
+      {/* Back to Home Button */}
+      <div style={{ marginBottom: 14 }}>
+        <button
+          id="login-back-to-home-btn"
+          onClick={() => setStep(1)}
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: 8,
+            padding: '8px 16px',
+            borderRadius: 10,
+            background: '#ffffff',
+            border: '1px solid #e2e8f0',
+            color: '#334155',
+            fontSize: '0.84rem',
+            fontWeight: 700,
+            cursor: 'pointer',
+            boxShadow: '0 1px 3px rgba(0,0,0,0.05)',
+            transition: 'all 0.2s ease'
+          }}
+          className="hover-card"
+        >
+          <ArrowLeft size={16} style={{ color: '#15803d' }} />
+          <span>Back to Home (मुख्यपृष्ठावर परत जा)</span>
+        </button>
+      </div>
+
       {/* Top Banner */}
       <div className="panel" style={{ padding: '28px', textAlign: 'center', marginBottom: 20 }}>
         <div style={{ display: 'inline-flex', alignItems: 'center', gap: 6, background: '#dcfce7', padding: '4px 14px', borderRadius: 999, border: '1px solid #bbf7d0', marginBottom: 12 }}>
