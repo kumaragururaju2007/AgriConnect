@@ -203,7 +203,7 @@ export default function Step23ByProductBuyerPortal({
     });
   };
 
-  // 5. Buyer selects a Transport option and confirms -> update status to TRANSPORT_ASSIGNED, lock transport escrow, notify Farmer
+  // 5. Buyer selects a Transport option and confirms -> update status to TRANSPORT_ASSIGNED, lock transport escrow, notify Farmer, and route to Farmgate Pickups
   const handleConfirmTransport = () => {
     assignByProductTransport(selectedLot.id, {
       transportChoice,
@@ -220,6 +220,15 @@ export default function Step23ByProductBuyerPortal({
       pickupDate,
       pickupTimeSlot,
       deliveryAddress
+    });
+    setTransportViewTab('pickups');
+    setActiveSection('pickups');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    addToast({
+      type: 'success',
+      role: 'buyer',
+      title: '🚚 Transport Confirmed & Farmgate Pickup Scheduled!',
+      message: `Pickup scheduled for ${pickupDate} (${pickupTimeSlot}). Assigned vehicle: ${selectedTruck.vehicleReg}`
     });
   };
 
@@ -845,9 +854,9 @@ export default function Step23ByProductBuyerPortal({
                           <button
                             onClick={() => {
                               setSelectedLotId(lot.id);
-                              setActiveSection(
-                                lot.status === BYPRODUCT_STAGES?.ESCROW_LOCKED_AWAITING_PAYMENT ? 'payment' : 'transport'
-                              );
+                              setTransportViewTab('pickups');
+                              setActiveSection('pickups');
+                              window.scrollTo({ top: 0, behavior: 'smooth' });
                             }}
                             style={{
                               width: '100%',
@@ -942,7 +951,9 @@ export default function Step23ByProductBuyerPortal({
                               <button
                                 onClick={() => {
                                   setSelectedLotId(lot.id);
-                                  setActiveSection('transport');
+                                  setTransportViewTab('pickups');
+                                  setActiveSection('pickups');
+                                  window.scrollTo({ top: 0, behavior: 'smooth' });
                                 }}
                                 style={{
                                   background: '#f1f5f9',
@@ -955,7 +966,7 @@ export default function Step23ByProductBuyerPortal({
                                   cursor: 'pointer'
                                 }}
                               >
-                                View Order
+                                View Pickups & Workflow
                               </button>
                             )}
                           </td>
@@ -2470,6 +2481,111 @@ export default function Step23ByProductBuyerPortal({
 
           {/* Active Scheduled Pickups List */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+            {/* Live lots from byProductLots with assigned transport */}
+            {byProductLots
+              .filter(lot => [
+                BYPRODUCT_STAGES?.TRANSPORT_ASSIGNED,
+                BYPRODUCT_STAGES?.PICKED_UP_IN_TRANSIT,
+                BYPRODUCT_STAGES?.DELIVERED_AWAITING_CONFIRMATION
+              ].includes(lot.status))
+              .map(lot => {
+                const statusBadge = getStatusBadge(lot.status);
+                const lotTruck = lot.escrow?.transporter || selectedTruck;
+                return (
+                  <div key={lot.id} style={{ background: '#ffffff', borderRadius: 14, border: '2px solid #bbf7d0', padding: 20, boxShadow: '0 2px 10px rgba(21,128,61,0.06)' }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 10, marginBottom: 14 }}>
+                      <div>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                          <span style={{ fontWeight: 800, fontSize: '0.95rem', color: '#0f172a' }}>Lot #{lot.id}</span>
+                          <span style={{ background: statusBadge.bg, color: statusBadge.color, padding: '2px 8px', borderRadius: 6, fontSize: '0.73rem', fontWeight: 800 }}>
+                            {statusBadge.label}
+                          </span>
+                          <span style={{ background: '#dcfce7', color: '#15803d', padding: '2px 6px', borderRadius: 4, fontSize: '0.68rem', fontWeight: 700 }}>LIVE</span>
+                        </div>
+                        <div style={{ fontSize: '0.88rem', fontWeight: 700, color: '#334155', marginTop: 4 }}>
+                          {lot.cropType} • <strong style={{ color: '#15803d' }}>{lot.quantityMT} MT</strong>
+                        </div>
+                      </div>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 6, background: '#f0fdf4', padding: '6px 12px', borderRadius: 8, border: '1px solid #bbf7d0', fontSize: '0.8rem', color: '#15803d', fontWeight: 600 }}>
+                        <MapPin size={13} />
+                        <span>{lot.village || 'Pimpalgaon Baswant'}</span>
+                      </div>
+                    </div>
+
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 12, background: '#f8fafc', padding: 14, borderRadius: 10, border: '1px solid #e2e8f0', fontSize: '0.82rem', marginBottom: 14 }}>
+                      <div>
+                        <div style={{ color: '#64748b', fontSize: '0.74rem' }}>Farmer:</div>
+                        <div style={{ fontWeight: 700, color: '#0f172a', marginTop: 2 }}>{lot.farmerName || 'Santosh Shinde'}</div>
+                        <div style={{ color: '#64748b', fontSize: '0.72rem' }}>{lot.village}, {lot.taluka}</div>
+                      </div>
+                      <div>
+                        <div style={{ color: '#64748b', fontSize: '0.74rem' }}>Assigned Hauler:</div>
+                        <div style={{ fontWeight: 700, color: '#0f172a', marginTop: 2 }}>{lotTruck?.driverName || selectedTruck.driverName}</div>
+                        <div style={{ color: '#1d4ed8', fontWeight: 700, fontSize: '0.76rem' }}>{lotTruck?.vehicleNumber || selectedTruck.vehicleReg}</div>
+                      </div>
+                      <div>
+                        <div style={{ color: '#64748b', fontSize: '0.74rem' }}>Scheduled Pickup:</div>
+                        <div style={{ fontWeight: 700, color: '#0f172a', marginTop: 2 }}>{lot.tracking?.scheduledDate || pickupDate}</div>
+                        <div style={{ color: '#64748b', fontSize: '0.72rem' }}>{lot.tracking?.timeSlot || pickupTimeSlot}</div>
+                      </div>
+                      <div>
+                        <div style={{ color: '#64748b', fontSize: '0.74rem' }}>Escrow:</div>
+                        <div style={{ fontWeight: 800, color: '#15803d', marginTop: 2 }}>₹{(lot.escrow?.productAmount || 0).toLocaleString('en-IN')}</div>
+                        <div style={{ fontSize: '0.72rem', color: '#64748b' }}>{lot.escrow?.productStatus || 'LOCKED'}</div>
+                      </div>
+                    </div>
+
+                    <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+                      {lot.status === BYPRODUCT_STAGES?.TRANSPORT_ASSIGNED && (
+                        <div style={{ flex: 1, padding: '9px 12px', background: '#eff6ff', border: '1px solid #bae6fd', borderRadius: 8, color: '#1d4ed8', fontSize: '0.8rem', fontWeight: 600, display: 'flex', alignItems: 'center', gap: 6 }}>
+                          <Clock size={14} /> Awaiting farmer dispatch from their portal
+                        </div>
+                      )}
+                      {lot.status === BYPRODUCT_STAGES?.PICKED_UP_IN_TRANSIT && (
+                        <button
+                          onClick={() => {
+                            setSelectedLotId(lot.id);
+                            arriveByProductDelivery(lot.id);
+                            addToast({ type: 'info', role: 'buyer', title: '📍 Arrival Confirmed', message: `Lot #${lot.id} marked delivered. Release escrow to complete.` });
+                          }}
+                          style={{ flex: 1, padding: '10px 14px', background: 'linear-gradient(135deg, #b45309, #92400e)', color: '#fff', border: 'none', borderRadius: 8, fontSize: '0.83rem', fontWeight: 800, cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6 }}
+                        >
+                          <MapPin size={15} /> 📍 Buyer: Confirm Consignment Received
+                        </button>
+                      )}
+                      {lot.status === BYPRODUCT_STAGES?.DELIVERED_AWAITING_CONFIRMATION && (
+                        <>
+                          <button
+                            onClick={() => {
+                              setSelectedLotId(lot.id);
+                              disputeByProductDelivery(lot.id, 'Quality rejection at facility');
+                            }}
+                            style={{ padding: '10px 14px', background: '#fff', border: '1.5px solid #f87171', color: '#dc2626', borderRadius: 8, fontSize: '0.83rem', fontWeight: 700, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 6 }}
+                          >
+                            <Scale size={15} /> Reject / Dispute
+                          </button>
+                          <button
+                            onClick={() => {
+                              setSelectedLotId(lot.id);
+                              confirmByProductDelivery(lot.id);
+                            }}
+                            style={{ flex: 1, padding: '10px 14px', background: 'linear-gradient(135deg, #15803d, #166534)', color: '#fff', border: 'none', borderRadius: 8, fontSize: '0.83rem', fontWeight: 800, cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6, boxShadow: '0 2px 6px rgba(21,128,61,0.3)' }}
+                          >
+                            <CheckCircle2 size={15} /> ✅ Buyer: Confirm Quality & Release Escrow (Auto-Complete)
+                          </button>
+                        </>
+                      )}
+                      <button
+                        onClick={() => addToast({ type: 'info', title: `GPS: Lot #${lot.id} vehicle on route.`, message: '' })}
+                        style={{ padding: '10px 14px', background: '#f8fafc', border: '1px solid #e2e8f0', color: '#475569', borderRadius: 8, fontSize: '0.8rem', fontWeight: 700, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 5 }}
+                      >
+                        <RefreshCw size={13} /> Track GPS
+                      </button>
+                    </div>
+                  </div>
+                );
+              })}
+
             {[
               {
                 id: 'BIO-PK-801', crop: 'Onion Stalks & Leaves', qty: '25 MT', farmer: 'Santosh Shinde',
