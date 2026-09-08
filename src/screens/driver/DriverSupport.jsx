@@ -32,7 +32,7 @@ export default function DriverSupport({ lang = 'en' }) {
               • Statutory Transporter Grievance & Assistance
             </span>
           </div>
-          <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: '6px 0 2px 0' }}>
+          <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: '6px 0 2px 0', color: '#ffffff' }}>
             Transportation & Logistics Helpdesk
           </h2>
           <p style={{ margin: 0, fontSize: '0.86rem', color: '#dbeafe' }}>

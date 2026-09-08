@@ -47,7 +47,7 @@ export default function DriverVehicleProfile({ lang = 'en' }) {
           </div>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
-              <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: 0 }}>
+              <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: 0, color: '#ffffff' }}>
                 {VEHICLE_DETAILS.reg_no}
               </h2>
               <span style={{

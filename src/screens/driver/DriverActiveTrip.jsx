@@ -168,7 +168,7 @@ export default function DriverActiveTrip({
               Deal: <strong style={{ color: '#38bdf8' }}>{job.deal_ref || 'AC-TXN-8841'}</strong>
             </span>
           </div>
-          <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: '8px 0 4px 0' }}>
+          <h2 style={{ fontSize: '1.45rem', fontWeight: 800, margin: '8px 0 4px 0', color: '#ffffff' }}>
             {job.commodity_summary || '150 Qtl Grade-A Red Onion (Nashik Gavran)'}
           </h2>
           <p style={{ margin: 0, fontSize: '0.85rem', color: '#cbd5e1' }}>
