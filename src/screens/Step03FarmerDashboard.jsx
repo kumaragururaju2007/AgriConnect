@@ -518,32 +518,70 @@ export default function Step03FarmerDashboard({ setStep, setTerminal }) {
           </div>
         </div>
 
-        {/* 3. Escrow Vault Locked */}
+        {/* 3. Total Earnings This Season */}
         <div className="panel" style={{ 
-          padding: '22px 20px', 
+          padding: '20px', 
           background: 'rgba(255, 255, 255, 0.78)', 
           backdropFilter: 'blur(16px)',
           WebkitBackdropFilter: 'blur(16px)',
           border: '1px solid rgba(255, 255, 255, 0.85)', 
           borderRadius: 16,
-          boxShadow: '0 8px 24px -3px rgba(15, 23, 42, 0.05), inset 0 1px 1.5px rgba(255, 255, 255, 0.95)'
+          boxShadow: '0 8px 24px -3px rgba(15, 23, 42, 0.05), inset 0 1px 1.5px rgba(255, 255, 255, 0.95)',
+          display: 'flex',
+          flexDirection: 'column',
+          justifyContent: 'space-between'
         }}>
-          <div style={{ fontSize: '0.68rem', fontWeight: 800, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-            STATE ESCROW VAULT
+          <div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div style={{ fontSize: '0.68rem', fontWeight: 800, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+                SEASON REVENUE
+              </div>
+              <span className="badge badge-green" style={{ fontSize: '0.62rem', padding: '1px 6px' }}>
+                ▲ +22.4%
+              </span>
+            </div>
+            <div style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-title)', marginTop: 2 }}>
+              Total Earnings This Season
+            </div>
+            <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, margin: '4px 0 0' }}>
+              <span style={{ fontSize: '1.8rem', fontWeight: 900, color: '#15803d', fontFamily: 'var(--font-heading)' }}>
+                ₹{(684250).toLocaleString('en-IN')}
+              </span>
+            </div>
           </div>
-          <div style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-title)', marginTop: 2 }}>
-            Guaranteed Settlement
+
+          {/* Small Sparkline Trend Graph */}
+          <div style={{ width: '100%', height: 32, margin: '4px 0 2px' }}>
+            <ResponsiveContainer width="100%" height="100%">
+              <AreaChart data={[
+                { m: 'M1', val: 120000 },
+                { m: 'M2', val: 245000 },
+                { m: 'M3', val: 390000 },
+                { m: 'M4', val: 510000 },
+                { m: 'M5', val: 684250 }
+              ]} margin={{ top: 2, right: 2, left: 2, bottom: 0 }}>
+                <defs>
+                  <linearGradient id="earningsSparkGrad" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stopColor="#22c55e" stopOpacity={0.45} />
+                    <stop offset="100%" stopColor="#22c55e" stopOpacity={0.0} />
+                  </linearGradient>
+                </defs>
+                <Area 
+                  type="monotone" 
+                  dataKey="val" 
+                  stroke="#16a34a" 
+                  strokeWidth={2} 
+                  fill="url(#earningsSparkGrad)" 
+                  dot={false}
+                  isAnimationActive={true}
+                />
+              </AreaChart>
+            </ResponsiveContainer>
           </div>
-          <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, margin: '6px 0 2px' }}>
-            <span style={{ fontSize: '1.8rem', fontWeight: 900, color: '#15803d', fontFamily: 'var(--font-heading)' }}>
-              ₹{lockedEscrowVal.toLocaleString('en-IN')}
-            </span>
-          </div>
-          <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
-            Deal #AC-TXN-8841 (AgroFresh)
-          </div>
-          <div style={{ fontSize: '0.7rem', color: '#15803d', fontWeight: 700, marginTop: 4 }}>
-            Stage {activeEscrowDeal?.current_stage || 2} of 5 in Progress
+
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: '0.72rem', color: 'var(--text-secondary)' }}>
+            <span>Across <strong>4 completed deals</strong></span>
+            <span style={{ color: '#15803d', fontWeight: 700 }}>100% Escrow Settled</span>
           </div>
         </div>
 
