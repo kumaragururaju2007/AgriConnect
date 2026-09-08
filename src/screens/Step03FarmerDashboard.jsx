@@ -456,8 +456,8 @@ export default function Step03FarmerDashboard({ setStep, setTerminal }) {
       {/* VIEW B: DASHBOARD METRICS & OVERVIEW */}
       {activeTab === 'overview' && (
       <div>
-      {/* 4 Key Dashboard Metric Cards with Glassmorphism */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16, marginBottom: 24 }}>
+      {/* 3 Key Dashboard Metric Cards with Glassmorphism */}
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16, marginBottom: 24 }}>
         
         {/* 1. Benchmark Rate */}
         <div className="panel" style={{ 
@@ -585,35 +585,7 @@ export default function Step03FarmerDashboard({ setStep, setTerminal }) {
           </div>
         </div>
 
-        {/* 4. Trust & Statutory Protection */}
-        <div className="panel" style={{ 
-          padding: '22px 20px', 
-          background: 'rgba(255, 255, 255, 0.78)', 
-          backdropFilter: 'blur(16px)',
-          WebkitBackdropFilter: 'blur(16px)',
-          border: '1px solid rgba(255, 255, 255, 0.85)', 
-          borderRadius: 16,
-          boxShadow: '0 8px 24px -3px rgba(15, 23, 42, 0.05), inset 0 1px 1.5px rgba(255, 255, 255, 0.95)'
-        }}>
-          <div style={{ fontSize: '0.68rem', fontWeight: 800, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
-            APMC REPUTATION
-          </div>
-          <div style={{ fontSize: '0.85rem', fontWeight: 600, color: 'var(--text-title)', marginTop: 2 }}>
-            Farmer Trust Score
-          </div>
-          <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, margin: '6px 0 2px' }}>
-            <span style={{ fontSize: '1.8rem', fontWeight: 900, color: '#15803d', fontFamily: 'var(--font-heading)' }}>
-              98 <span style={{ fontSize: '1rem', color: 'var(--text-muted)' }}>/ 100</span>
-            </span>
-            <span className="badge badge-green" style={{ fontSize: '0.62rem' }}>TIER 1</span>
-          </div>
-          <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
-            <strong>100% Escrow Delivery Rate</strong>
-          </div>
-          <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)', marginTop: 4 }}>
-            MahaAPMC Act Sec 31-B Protected
-          </div>
-        </div>
+
 
       </div>
 
