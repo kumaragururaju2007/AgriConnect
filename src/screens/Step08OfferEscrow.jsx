@@ -598,18 +598,11 @@ export default function Step08OfferEscrow({ setStep, setTerminal, currentRole, l
                   <th style={{ padding: '10px 12px' }}>FARMER</th>
                   <th style={{ padding: '10px 12px' }}>TOTAL PAID (SPLIT)</th>
                   <th style={{ padding: '10px 12px' }}>ESCROW STATUS</th>
-                  <th style={{ padding: '10px 12px' }}>DELIVERY STATUS</th>
-                  <th style={{ padding: '10px 12px', textAlign: 'right' }}>INSPECTION & RELEASE ACTION</th>
                 </tr>
               </thead>
               <tbody>
                 {filteredDeals.map((deal) => {
                   const statusInfo = getStandardEscrowStatus(deal);
-                  const isDelivered = deal.delivery_status === 'delivered' || deal.current_stage === 4;
-                  const isReleased = statusInfo.code === 'Completed — Funds Released';
-                  const isDisputed = statusInfo.code === 'Disputed';
-                  const isReleasing = releasingDealRef === deal.deal_ref;
-                  const isSimulating = simulatingDealRef === deal.deal_ref;
 
                   const prodAmt = deal.product_amount || (deal.agreed_price * deal.quantity_qtl) || 291000;
                   const transAmt = deal.transport_amount || 8450;
@@ -653,111 +646,6 @@ export default function Step08OfferEscrow({ setStep, setTerminal, currentRole, l
                         {deal.razorpay_transfer_farmer_id && (
                           <div style={{ fontSize: '0.68rem', color: '#15803d', marginTop: 4, fontFamily: 'monospace' }}>
                             Trf: {deal.razorpay_transfer_farmer_id}
-                          </div>
-                        )}
-                      </td>
-
-                      <td style={{ padding: '14px 12px' }}>
-                        {isDelivered ? (
-                          <span style={{ background: '#fef3c7', color: '#b45309', padding: '3px 8px', borderRadius: 6, fontSize: '0.72rem', fontWeight: 800, display: 'inline-flex', alignItems: 'center', gap: 4 }}>
-                            <Truck size={12} /> Delivered at Hub
-                          </span>
-                        ) : isReleased ? (
-                          <span style={{ background: '#dcfce7', color: '#15803d', padding: '3px 8px', borderRadius: 6, fontSize: '0.72rem', fontWeight: 800 }}>
-                            ✓ Inspected & Accepted
-                          </span>
-                        ) : isDisputed ? (
-                          <span style={{ background: '#fee2e2', color: '#dc2626', padding: '3px 8px', borderRadius: 6, fontSize: '0.72rem', fontWeight: 800 }}>
-                            Inspection Rejected
-                          </span>
-                        ) : (
-                          <div style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
-                            <span style={{ background: '#f1f5f9', color: '#475569', padding: '3px 8px', borderRadius: 6, fontSize: '0.72rem', fontWeight: 700, display: 'inline-flex', alignItems: 'center', gap: 4 }}>
-                              <Clock size={12} /> Produce In Transit
-                            </span>
-                            {/* Test Helper to Simulate Arrival */}
-                            <button
-                              onClick={() => handleSimulateArrival(deal)}
-                              disabled={isSimulating}
-                              style={{
-                                background: '#f0fdf4', border: '1px solid #bbf7d0', color: '#15803d',
-                                fontSize: '0.65rem', fontWeight: 700, padding: '2px 6px', borderRadius: 4, cursor: 'pointer'
-                              }}
-                              title="Test trigger: Mark arrived so you can test inspection approval immediately"
-                            >
-                              {isSimulating ? 'Simulating...' : '⚡ Simulate Hub Arrival'}
-                            </button>
-                          </div>
-                        )}
-                      </td>
-
-                      <td style={{ padding: '14px 12px', textAlign: 'right' }}>
-                        {isReleased ? (
-                          <div style={{ color: '#15803d', fontWeight: 800, fontSize: '0.76rem', display: 'flex', alignItems: 'center', justifyContent: 'flex-end', gap: 4 }}>
-                            <CheckCircle2 size={16} />
-                            <span>Escrow Released (Transfers API)</span>
-                          </div>
-                        ) : isDisputed ? (
-                          <div style={{ color: '#dc2626', fontWeight: 700, fontSize: '0.76rem' }}>
-                            Escrow Frozen (Dispute Active)
-                          </div>
-                        ) : (
-                          <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end' }}>
-                            {/* UPI / BharatQR Button */}
-                            <button
-                              onClick={() => setQrModalDeal(deal)}
-                              style={{
-                                padding: '6px 10px', borderRadius: 6, fontSize: '0.74rem', fontWeight: 700,
-                                background: '#eff6ff', border: '1px solid #bfdbfe', color: '#1d4ed8', cursor: 'pointer',
-                                display: 'flex', alignItems: 'center', gap: 4
-                              }}
-                              title="Scan dynamic UPI QR Code with GPay, PhonePe, Paytm"
-                            >
-                              <QrCode size={13} />
-                              <span>UPI QR</span>
-                            </button>
-
-                            {/* Reject / Raise Dispute Button */}
-                            <button
-                              onClick={() => setDisputeModalDeal(deal)}
-                              style={{
-                                padding: '6px 12px', borderRadius: 6, fontSize: '0.74rem', fontWeight: 700,
-                                background: '#ffffff', border: '1px solid #fca5a5', color: '#dc2626', cursor: 'pointer',
-                                display: 'flex', alignItems: 'center', gap: 4
-                              }}
-                            >
-                              <AlertTriangle size={13} />
-                              <span>Reject / Dispute</span>
-                            </button>
-
-                            {/* CONDITIONAL APPROVE DELIVERY & RELEASE PAYMENT BUTTON */}
-                            {isDelivered ? (
-                              <button
-                                onClick={() => handleApproveRelease(deal)}
-                                disabled={isReleasing}
-                                style={{
-                                  padding: '7px 14px', borderRadius: 6, fontSize: '0.76rem', fontWeight: 800,
-                                  background: '#15803d', border: 'none', color: '#ffffff', cursor: 'pointer',
-                                  display: 'flex', alignItems: 'center', gap: 5, boxShadow: '0 2px 8px rgba(21,128,61,0.25)'
-                                }}
-                              >
-                                <CheckCircle2 size={14} />
-                                <span>{isReleasing ? 'Executing Transfers...' : 'Approve Delivery & Release Payment'}</span>
-                              </button>
-                            ) : (
-                              <button
-                                disabled
-                                style={{
-                                  padding: '7px 12px', borderRadius: 6, fontSize: '0.74rem', fontWeight: 700,
-                                  background: '#f1f5f9', border: '1px solid #cbd5e1', color: '#94a3b8', cursor: 'not-allowed',
-                                  display: 'flex', alignItems: 'center', gap: 4
-                                }}
-                                title="Available only once shipment reaches destination hub"
-                              >
-                                <Lock size={12} />
-                                <span>Approve (Awaiting Delivery)</span>
-                              </button>
-                            )}
                           </div>
                         )}
                       </td>
