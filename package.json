@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "node server/server.js",
     "server": "node server/server.js",
     "db:init": "node server/initDb.js",
     "dev:all": "concurrently \"node server/server.js\" \"vite\"",

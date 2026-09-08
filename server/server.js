@@ -1,6 +1,8 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { query, isPgConnected } from './db.js';
 import { gradeLotImages, get_model_for_crop, CROP_MODEL_MAP, MODEL_CONFIGS, GradingError } from './gradingService.js';
 import agmarknetService from './agmarknetService.js';
@@ -2213,8 +2215,29 @@ app.get(['/api/v1/ratings', '/api/ratings'], async (req, res) => {
   res.json(memoryStore.ratings);
 });
 
-app.listen(PORT, () => {
-  console.log(`🌾 [AgriConnect Server] Backend API running at http://localhost:${PORT}`);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const distPath = path.resolve(__dirname, '../dist');
+
+// Serve static frontend assets from Vite build in production
+app.use(express.static(distPath));
+
+// SPA catch-all handler for client routing (excluding /api routes)
+app.use((req, res, next) => {
+  if (req.method !== 'GET' || req.path.startsWith('/api')) {
+    return res.status(404).json({ error: 'Endpoint not found' });
+  }
+  const indexPath = path.join(distPath, 'index.html');
+  res.sendFile(indexPath, (err) => {
+    if (err) {
+      next(err);
+    }
+  });
+});
+
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`🌾 [AgriConnect Server] Backend API & Frontend running at http://0.0.0.0:${PORT}`);
   console.log(`📊 PostgreSQL status: ${isPgConnected() ? 'CONNECTED (Port 5432)' : 'INITIALIZING...'}`);
 });
+
 
