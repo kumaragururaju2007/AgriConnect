@@ -39,6 +39,11 @@ export const DICTIONARY = {
 
   // Institutional Header
   "Government of Maharashtra": { mr: "महाराष्ट्र शासन", hi: "महाराष्ट्र सरकार", ta: "அரசு வேளாண்மை துறை" },
+  "Government of Maharashtra Initiative": { mr: "महाराष्ट्र शासन उपक्रम", hi: "महाराष्ट्र सरकार की पहल", ta: "மகாராஷ்டிர அரசு முயற்சி" },
+  "MSInS Innovation Sandbox": { mr: "MSInS नाविन्यता सँडबॉक्स", hi: "MSInS इनोवेशन सैंडबॉक्स", ta: "MSInS கண்டுபிடிப்பு தளம்" },
+  "Fair Prices.": { mr: "योग्य बाजारभाव.", hi: "उचित मूल्य.", ta: "நியாயமான விலை." },
+  "Verified Buyers.": { mr: "प्रमाणित खरेदीदार.", hi: "सत्यापित खरीदार.", ta: "சரிபார்க்கப்பட்ட வாங்குபவர்கள்." },
+  "Guaranteed Escrow.": { mr: "हमीयुक्त एस्क्रो सुरक्षा.", hi: "गारंटीड एस्क्रो सुरक्षा.", ta: "உத்தரவாதமான எஸ்க்ரோ." },
   "Agriculture Dept & Maharashtra State Innovation Society (MSInS)": { 
     mr: "कृषी विभाग आणि महाराष्ट्र राज्य नाविन्यता सोसायटी (MSInS)", 
     hi: "कृषि विभाग एवं महाराष्ट्र राज्य इनोवेशन सोसाइटी (MSInS)",
@@ -160,6 +165,9 @@ export const DICTIONARY = {
   "Active": { mr: "सक्रिय", hi: "सक्रिय", ta: "செயலில்" }
 };
 
+// Module-level WeakMap to safely track original text of DOM Text nodes without touching parent elements
+const origTextNodeMap = new WeakMap();
+
 class TranslationEngine {
   constructor() {
     this.currentLang = localStorage.getItem('agri_lang') || 'en';
@@ -264,15 +272,14 @@ class TranslationEngine {
 
     // Process nodes
     nodesToTranslate.forEach((node) => {
-      const rawText = node.nodeValue;
+      if (!origTextNodeMap.has(node)) {
+        origTextNodeMap.set(node, node.nodeValue);
+      }
+      const rawText = origTextNodeMap.get(node);
       const trimmed = rawText.trim();
 
       // Check exact dictionary match
       if (DICTIONARY[trimmed] && DICTIONARY[trimmed][lang]) {
-        const parent = node.parentElement;
-        if (parent && !parent.getAttribute('data-orig-text')) {
-          parent.setAttribute('data-orig-text', trimmed);
-        }
         node.nodeValue = rawText.replace(trimmed, DICTIONARY[trimmed][lang]);
         return;
       }
@@ -282,10 +289,6 @@ class TranslationEngine {
       let matched = false;
       for (const [key, trans] of Object.entries(DICTIONARY)) {
         if (key.length > 3 && modifiedText.includes(key) && trans[lang]) {
-          const parent = node.parentElement;
-          if (parent && !parent.getAttribute('data-orig-text')) {
-            parent.setAttribute('data-orig-text', rawText);
-          }
           modifiedText = modifiedText.replaceAll(key, trans[lang]);
           matched = true;
         }
@@ -311,13 +314,33 @@ class TranslationEngine {
   restoreEnglish() {
     if (typeof document === 'undefined') return;
 
-    // Restore text nodes
-    document.querySelectorAll('[data-orig-text]').forEach((el) => {
-      const orig = el.getAttribute('data-orig-text');
-      if (orig) {
-        el.textContent = orig;
-        el.removeAttribute('data-orig-text');
+    // Restore text nodes directly without replacing parent.textContent (which destroys <br>, <span>, icons)
+    const walker = document.createTreeWalker(
+      document.body,
+      NodeFilter.SHOW_TEXT,
+      {
+        acceptNode: (node) => {
+          const parent = node.parentElement;
+          if (!parent) return NodeFilter.FILTER_REJECT;
+          const tag = parent.tagName.toLowerCase();
+          if (['script', 'style', 'textarea', 'code', 'pre'].includes(tag)) {
+            return NodeFilter.FILTER_REJECT;
+          }
+          return NodeFilter.FILTER_ACCEPT;
+        }
       }
+    );
+
+    let currentNode;
+    while ((currentNode = walker.nextNode())) {
+      if (origTextNodeMap.has(currentNode)) {
+        currentNode.nodeValue = origTextNodeMap.get(currentNode);
+      }
+    }
+
+    // Clean up any legacy parent attributes
+    document.querySelectorAll('[data-orig-text]').forEach((el) => {
+      el.removeAttribute('data-orig-text');
     });
 
     // Restore placeholders
