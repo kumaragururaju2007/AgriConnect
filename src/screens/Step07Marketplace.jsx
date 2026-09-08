@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   Search, Filter, ShieldCheck, Users, ArrowRight, 
   Sparkles, CheckCircle2, TrendingUp, Building2, MapPin, Award, Database, Package,
@@ -49,8 +49,15 @@ export default function Step07Marketplace({ setStep, setTerminal, buyerTab = 'lo
   const [kycLockTargetLot, setKycLockTargetLot] = useState(null);
 
   // Active View Tab: 'lots' | 'directory' | 'negotiations' | 'pickups' | 'ratings' | 'rfqs'
-  const [internalTab, setInternalTab] = useState('lots');
-  const currentTab = buyerTab || internalTab;
+  const [internalTab, setInternalTab] = useState(buyerTab || 'lots');
+
+  useEffect(() => {
+    if (buyerTab) {
+      setInternalTab(buyerTab);
+    }
+  }, [buyerTab]);
+
+  const currentTab = internalTab;
   const handleTabChange = (tab) => {
     setInternalTab(tab);
     if (setBuyerTab) setBuyerTab(tab);

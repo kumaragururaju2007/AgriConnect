@@ -219,7 +219,7 @@ function fetchAgmarknetPage(offset = 0, limit = 100) {
   return new Promise((resolve, reject) => {
     const url = `https://api.data.gov.in/resource/${RESOURCE_ID}?api-key=${API_KEY}&format=json&limit=${limit}&offset=${offset}&filters%5Bstate%5D=Maharashtra`;
     
-    https.get(url, (res) => {
+    const req = https.get(url, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
@@ -230,7 +230,13 @@ function fetchAgmarknetPage(offset = 0, limit = 100) {
           reject(new Error(`Failed to parse data.gov.in response: ${data.substring(0, 150)}`));
         }
       });
-    }).on('error', reject);
+    });
+
+    req.setTimeout(8000, () => {
+      req.destroy(new Error('Agmarknet data.gov.in request timeout after 8000ms'));
+    });
+
+    req.on('error', reject);
   });
 }
 

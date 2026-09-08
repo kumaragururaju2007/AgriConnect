@@ -104,7 +104,7 @@ export default function DriverActiveTrip({
       if (onMarkDelivered) {
         await onMarkDelivered(job, photoProofUrl, deliveryNotes);
       }
-      setCurrentStage(7);
+      setCurrentStage(6);
       if (onOpenRatingModal) {
         setTimeout(() => {
           onOpenRatingModal({

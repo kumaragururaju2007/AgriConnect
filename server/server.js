@@ -1919,16 +1919,19 @@ app.get(['/api/v1/drivers/jobs/nearby', '/api/drivers/jobs/nearby'], async (req,
 
 // B. All delivery jobs
 app.get(['/api/v1/delivery-jobs', '/api/delivery-jobs'], async (req, res) => {
-  const { driver_id, deal_ref, status } = req.query;
+  const { driver_id, deal_ref, status, ref_id, role } = req.query;
+  const effectiveDriverId = driver_id || (role === 'driver' && ref_id ? ref_id : null);
+  const effectiveDealRef = deal_ref || (role !== 'driver' && ref_id ? ref_id : null);
+
   try {
     let sql = 'SELECT * FROM delivery_jobs WHERE 1=1';
     const params = [];
-    if (driver_id) {
-      params.push(driver_id);
+    if (effectiveDriverId) {
+      params.push(effectiveDriverId);
       sql += ` AND driver_id::text = $${params.length}`;
     }
-    if (deal_ref) {
-      params.push(deal_ref);
+    if (effectiveDealRef) {
+      params.push(effectiveDealRef);
       sql += ` AND deal_ref = $${params.length}`;
     }
     if (status) {
@@ -1941,8 +1944,8 @@ app.get(['/api/v1/delivery-jobs', '/api/delivery-jobs'], async (req, res) => {
   } catch (e) {}
 
   let jobs = memoryStore.delivery_jobs;
-  if (driver_id) jobs = jobs.filter(j => String(j.driver_id) === String(driver_id));
-  if (deal_ref) jobs = jobs.filter(j => j.deal_ref === deal_ref);
+  if (effectiveDriverId) jobs = jobs.filter(j => String(j.driver_id) === String(effectiveDriverId));
+  if (effectiveDealRef) jobs = jobs.filter(j => j.deal_ref === effectiveDealRef);
   if (status) jobs = jobs.filter(j => j.status === status);
   res.json(jobs);
 });
@@ -2104,8 +2107,8 @@ app.post(['/api/v1/delivery-jobs/:id/confirm', '/api/delivery-jobs/:id/confirm']
     }
     deal = deal || memoryStore.deals[0];
 
-    const lotPrice = Number(deal.total_escrow_amount || (deal.agreed_price * deal.quantity_qtl) || 291000);
     const deliveryFee = Number(job.delivery_fee || 8450);
+    const lotPrice = Number(deal.product_amount || (deal.agreed_price && deal.quantity_qtl ? deal.agreed_price * deal.quantity_qtl : 0) || (deal.total_escrow_amount ? deal.total_escrow_amount - deliveryFee : 291000));
 
     // Update job status to confirmed
     await query(

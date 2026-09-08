@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   Truck, Navigation, ShieldCheck, MapPin, Clock, CheckCircle2, 
   AlertCircle, Camera, Star, ArrowRight, DollarSign, RefreshCw, 
@@ -52,11 +52,18 @@ export default function Step17DriverPortal({
   } = useAgri();
 
   // Active tab state in sync with sidebar
-  const [internalTab, setInternalTab] = useState('home');
-  const activeTab = driverTab || internalTab;
+  const [internalTab, setInternalTab] = useState(driverTab || 'home');
+
+  useEffect(() => {
+    if (driverTab) {
+      setInternalTab(driverTab);
+    }
+  }, [driverTab]);
+
+  const activeTab = internalTab;
   const setActiveTab = (tab) => {
-    if (setDriverTab) setDriverTab(tab);
     setInternalTab(tab);
+    if (setDriverTab) setDriverTab(tab);
   };
 
   // Selected driver job ID (supports switching between active loads)
