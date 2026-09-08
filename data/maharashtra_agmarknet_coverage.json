@@ -1,0 +1,665 @@
+{
+  "metadata": {
+    "generated_at": "2026-09-06T05:46:38.914Z",
+    "data_source": "data.gov.in (Agmarknet Current Daily Price API)",
+    "resource_id": "9ef84268-d588-465a-a308-a864a43d0070",
+    "api_total_records": 25,
+    "records_analyzed": 25,
+    "constraint_check": "100% verified against actual API responses; zero estimated, fabricated, or padded rows"
+  },
+  "coverage_summary": {
+    "total_maharashtra_districts": 36,
+    "reporting_districts_count": 2,
+    "reporting_districts_pct": "5.6%",
+    "non_reporting_districts_count": 34,
+    "reporting_districts": [
+      "Palghar",
+      "Pune"
+    ],
+    "non_reporting_districts": [
+      "Ahmednagar",
+      "Akola",
+      "Amravati",
+      "Aurangabad (Chhatrapati Sambhajinagar)",
+      "Beed",
+      "Bhandara",
+      "Buldhana",
+      "Chandrapur",
+      "Dhule",
+      "Gadchiroli",
+      "Gondia",
+      "Hingoli",
+      "Jalgaon",
+      "Jalna",
+      "Kolhapur",
+      "Latur",
+      "Mumbai City",
+      "Mumbai Suburban",
+      "Nagpur",
+      "Nanded",
+      "Nandurbar",
+      "Nashik",
+      "Osmanabad (Dharashiv)",
+      "Parbhani",
+      "Raigad",
+      "Ratnagiri",
+      "Sangli",
+      "Satara",
+      "Sindhudurg",
+      "Solapur",
+      "Thane",
+      "Wardha",
+      "Washim",
+      "Yavatmal"
+    ],
+    "total_reporting_markets": 3,
+    "reporting_markets": [
+      "Pune(Pimpri)",
+      "Pune(Moshi)",
+      "APMC Palghar"
+    ],
+    "total_reporting_commodities": 19,
+    "reporting_commodities": [
+      "Bottle gourd",
+      "Garlic",
+      "Peas Wet",
+      "Guar",
+      "Green Chilli",
+      "Cauliflower",
+      "Rice",
+      "Bhindi(Ladies Finger)",
+      "Ridgeguard(Tori)",
+      "Beetroot",
+      "Cucumbar(Kheera)",
+      "Ginger(Green)",
+      "Potato",
+      "Beans",
+      "Onion",
+      "Tomato",
+      "Bitter gourd",
+      "Cabbage",
+      "Brinjal"
+    ]
+  },
+  "price_statistics_strictly_over_actual_records": {
+    "total_valid_price_rows": 25,
+    "min_modal_price": 750,
+    "max_modal_price": 10000,
+    "average_modal_price": 3636,
+    "note": "Computed strictly over the 25 records returned by the API; no synthetic values added."
+  },
+  "districts": {
+    "Ahmednagar": {
+      "district_name": "Ahmednagar",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Akola": {
+      "district_name": "Akola",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Amravati": {
+      "district_name": "Amravati",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Aurangabad (Chhatrapati Sambhajinagar)": {
+      "district_name": "Aurangabad (Chhatrapati Sambhajinagar)",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Beed": {
+      "district_name": "Beed",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Bhandara": {
+      "district_name": "Bhandara",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Buldhana": {
+      "district_name": "Buldhana",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Chandrapur": {
+      "district_name": "Chandrapur",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Dhule": {
+      "district_name": "Dhule",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Gadchiroli": {
+      "district_name": "Gadchiroli",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Gondia": {
+      "district_name": "Gondia",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Hingoli": {
+      "district_name": "Hingoli",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Jalgaon": {
+      "district_name": "Jalgaon",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Jalna": {
+      "district_name": "Jalna",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Kolhapur": {
+      "district_name": "Kolhapur",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Latur": {
+      "district_name": "Latur",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Mumbai City": {
+      "district_name": "Mumbai City",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Mumbai Suburban": {
+      "district_name": "Mumbai Suburban",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Nagpur": {
+      "district_name": "Nagpur",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Nanded": {
+      "district_name": "Nanded",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Nandurbar": {
+      "district_name": "Nandurbar",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Nashik": {
+      "district_name": "Nashik",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Osmanabad (Dharashiv)": {
+      "district_name": "Osmanabad (Dharashiv)",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Palghar": {
+      "district_name": "Palghar",
+      "status": "reporting",
+      "total_records": 1,
+      "total_markets": 1,
+      "markets": {
+        "APMC Palghar": {
+          "market_name": "APMC Palghar",
+          "total_commodities": 1,
+          "commodities": [
+            {
+              "commodity": "Rice",
+              "variety": "1009 Kar",
+              "grade": "Local",
+              "min_price": 4600,
+              "max_price": 4600,
+              "modal_price": 4600,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            }
+          ]
+        }
+      }
+    },
+    "Parbhani": {
+      "district_name": "Parbhani",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Pune": {
+      "district_name": "Pune",
+      "status": "reporting",
+      "total_records": 24,
+      "total_markets": 2,
+      "markets": {
+        "Pune(Pimpri)": {
+          "market_name": "Pune(Pimpri)",
+          "total_commodities": 12,
+          "commodities": [
+            {
+              "commodity": "Bottle gourd",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 2000,
+              "max_price": 2000,
+              "modal_price": 2000,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Cauliflower",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 1500,
+              "max_price": 1500,
+              "modal_price": 1500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Green Chilli",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 2000,
+              "max_price": 3000,
+              "modal_price": 2500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Beetroot",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 2000,
+              "max_price": 2500,
+              "modal_price": 2250,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Cucumbar(Kheera)",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 1400,
+              "max_price": 2000,
+              "modal_price": 1700,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Bhindi(Ladies Finger)",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 4000,
+              "max_price": 4000,
+              "modal_price": 4000,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Beans",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 4000,
+              "max_price": 5000,
+              "modal_price": 4500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Onion",
+              "variety": "Local",
+              "grade": "Local",
+              "min_price": 3000,
+              "max_price": 4500,
+              "modal_price": 3750,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Bitter gourd",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 3000,
+              "max_price": 3000,
+              "modal_price": 3000,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Cabbage",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 1000,
+              "max_price": 1200,
+              "modal_price": 1100,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Tomato",
+              "variety": "Local",
+              "grade": "Local",
+              "min_price": 1000,
+              "max_price": 1600,
+              "modal_price": 1300,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Brinjal",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 3000,
+              "max_price": 3000,
+              "modal_price": 3000,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            }
+          ]
+        },
+        "Pune(Moshi)": {
+          "market_name": "Pune(Moshi)",
+          "total_commodities": 12,
+          "commodities": [
+            {
+              "commodity": "Garlic",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 10000,
+              "max_price": 10000,
+              "modal_price": 10000,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Peas Wet",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 7000,
+              "max_price": 10000,
+              "modal_price": 8500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Guar",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 5000,
+              "max_price": 6000,
+              "modal_price": 5500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Green Chilli",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 3000,
+              "max_price": 4000,
+              "modal_price": 3500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Bhindi(Ladies Finger)",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 3000,
+              "max_price": 3500,
+              "modal_price": 3250,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Ridgeguard(Tori)",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 4000,
+              "max_price": 5000,
+              "modal_price": 4500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Ginger(Green)",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 8000,
+              "max_price": 9000,
+              "modal_price": 8500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Potato",
+              "variety": "Local",
+              "grade": "Local",
+              "min_price": 900,
+              "max_price": 1000,
+              "modal_price": 950,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Bottle gourd",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 2000,
+              "max_price": 2500,
+              "modal_price": 2250,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Beans",
+              "variety": "Other",
+              "grade": "Local",
+              "min_price": 4000,
+              "max_price": 5000,
+              "modal_price": 4500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Onion",
+              "variety": "Local",
+              "grade": "Local",
+              "min_price": 3000,
+              "max_price": 4000,
+              "modal_price": 3500,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            },
+            {
+              "commodity": "Tomato",
+              "variety": "Local",
+              "grade": "Local",
+              "min_price": 500,
+              "max_price": 1000,
+              "modal_price": 750,
+              "arrival_quantity": null,
+              "arrival_quantity_note": "Not provided in data.gov.in resource 9ef84268-d588-465a-a308-a864a43d0070 schema",
+              "arrival_date": "06/09/2026",
+              "state": "Maharashtra"
+            }
+          ]
+        }
+      }
+    },
+    "Raigad": {
+      "district_name": "Raigad",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Ratnagiri": {
+      "district_name": "Ratnagiri",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Sangli": {
+      "district_name": "Sangli",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Satara": {
+      "district_name": "Satara",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Sindhudurg": {
+      "district_name": "Sindhudurg",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Solapur": {
+      "district_name": "Solapur",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Thane": {
+      "district_name": "Thane",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Wardha": {
+      "district_name": "Wardha",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Washim": {
+      "district_name": "Washim",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    },
+    "Yavatmal": {
+      "district_name": "Yavatmal",
+      "status": "no data reported",
+      "total_records": 0,
+      "total_markets": 0,
+      "markets": {}
+    }
+  }
+}

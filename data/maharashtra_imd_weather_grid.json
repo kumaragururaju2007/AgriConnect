@@ -1,0 +1,7146 @@
+{
+  "nashik": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 29.5,
+      "temp_min": 21.9,
+      "rainfall_mm": 17.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 31.9,
+      "temp_min": 23,
+      "rainfall_mm": 0.5,
+      "humidity_pct": 63.8,
+      "district": "Nashik"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 33.7,
+      "temp_min": 24.8,
+      "rainfall_mm": 4.4,
+      "humidity_pct": 66.1,
+      "district": "Nashik"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 31.7,
+      "temp_min": 23.4,
+      "rainfall_mm": 1.3,
+      "humidity_pct": 68.7,
+      "district": "Nashik"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 29.2,
+      "temp_min": 20.7,
+      "rainfall_mm": 18.5,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 27.7,
+      "temp_min": 20,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 31.9,
+      "temp_min": 24,
+      "rainfall_mm": 3.5,
+      "humidity_pct": 63.3,
+      "district": "Nashik"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 33.7,
+      "temp_min": 25.2,
+      "rainfall_mm": 6.4,
+      "humidity_pct": 60.9,
+      "district": "Nashik"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 34.3,
+      "temp_min": 25.5,
+      "rainfall_mm": 5.5,
+      "humidity_pct": 67.6,
+      "district": "Nashik"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 28.6,
+      "temp_min": 20.5,
+      "rainfall_mm": 11.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 33.9,
+      "temp_min": 25.4,
+      "rainfall_mm": 8.8,
+      "humidity_pct": 66.6,
+      "district": "Nashik"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 34.2,
+      "temp_min": 26.1,
+      "rainfall_mm": 9.5,
+      "humidity_pct": 64.1,
+      "district": "Nashik"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 29.6,
+      "temp_min": 21.1,
+      "rainfall_mm": 13.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 29.8,
+      "temp_min": 21.5,
+      "rainfall_mm": 10.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 31.5,
+      "temp_min": 23.4,
+      "rainfall_mm": 1.5,
+      "humidity_pct": 60.1,
+      "district": "Nashik"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 29.6,
+      "temp_min": 21,
+      "rainfall_mm": 10.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 29.5,
+      "temp_min": 21.3,
+      "rainfall_mm": 13.2,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 34.5,
+      "temp_min": 26.6,
+      "rainfall_mm": 3.4,
+      "humidity_pct": 62.2,
+      "district": "Nashik"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 32.8,
+      "temp_min": 24.8,
+      "rainfall_mm": 8.7,
+      "humidity_pct": 59.1,
+      "district": "Nashik"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 29.6,
+      "temp_min": 20.7,
+      "rainfall_mm": 11.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 33.2,
+      "temp_min": 24.2,
+      "rainfall_mm": 3.5,
+      "humidity_pct": 65.1,
+      "district": "Nashik"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 29.9,
+      "temp_min": 21.9,
+      "rainfall_mm": 11.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 34,
+      "temp_min": 24.8,
+      "rainfall_mm": 9.5,
+      "humidity_pct": 62.5,
+      "district": "Nashik"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 34.1,
+      "temp_min": 25.6,
+      "rainfall_mm": 8.3,
+      "humidity_pct": 67.3,
+      "district": "Nashik"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 31.6,
+      "temp_min": 23.7,
+      "rainfall_mm": 6.5,
+      "humidity_pct": 65.9,
+      "district": "Nashik"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 32.2,
+      "temp_min": 24.6,
+      "rainfall_mm": 2.4,
+      "humidity_pct": 67.6,
+      "district": "Nashik"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 32,
+      "temp_min": 24,
+      "rainfall_mm": 2.6,
+      "humidity_pct": 62.6,
+      "district": "Nashik"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 29.7,
+      "temp_min": 21.8,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 29.3,
+      "temp_min": 20.5,
+      "rainfall_mm": 18.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 34.3,
+      "temp_min": 25.8,
+      "rainfall_mm": 7.8,
+      "humidity_pct": 66.8,
+      "district": "Nashik"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 29.3,
+      "temp_min": 19.9,
+      "rainfall_mm": 33.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 27.4,
+      "temp_min": 19.8,
+      "rainfall_mm": 23.9,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 28.6,
+      "temp_min": 20.2,
+      "rainfall_mm": 33.5,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 28,
+      "temp_min": 19.1,
+      "rainfall_mm": 16.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 27.4,
+      "temp_min": 19.2,
+      "rainfall_mm": 34.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 27.3,
+      "temp_min": 19.4,
+      "rainfall_mm": 27,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 29.2,
+      "temp_min": 20.9,
+      "rainfall_mm": 33.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 29,
+      "temp_min": 21,
+      "rainfall_mm": 23.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 28.7,
+      "temp_min": 20.6,
+      "rainfall_mm": 16.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 28.8,
+      "temp_min": 21.2,
+      "rainfall_mm": 33.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 28.3,
+      "temp_min": 19.4,
+      "rainfall_mm": 33.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 28,
+      "temp_min": 19.3,
+      "rainfall_mm": 33.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 27.5,
+      "temp_min": 19.5,
+      "rainfall_mm": 27.4,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 28.7,
+      "temp_min": 20.9,
+      "rainfall_mm": 30,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 29.6,
+      "temp_min": 21.1,
+      "rainfall_mm": 30.9,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 29.1,
+      "temp_min": 20.8,
+      "rainfall_mm": 33.4,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 27.1,
+      "temp_min": 18.5,
+      "rainfall_mm": 29.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 28.3,
+      "temp_min": 20.5,
+      "rainfall_mm": 32.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 29.9,
+      "temp_min": 21.6,
+      "rainfall_mm": 19.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 28.4,
+      "temp_min": 19.3,
+      "rainfall_mm": 30.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 27.1,
+      "temp_min": 19.3,
+      "rainfall_mm": 24.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 27.1,
+      "temp_min": 19.5,
+      "rainfall_mm": 23.4,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 29.8,
+      "temp_min": 21.3,
+      "rainfall_mm": 16.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 29.2,
+      "temp_min": 21,
+      "rainfall_mm": 27,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 27.2,
+      "temp_min": 18.3,
+      "rainfall_mm": 19.5,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 27.6,
+      "temp_min": 18.5,
+      "rainfall_mm": 27.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 27.6,
+      "temp_min": 18.9,
+      "rainfall_mm": 17,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 27.6,
+      "temp_min": 19,
+      "rainfall_mm": 25.2,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 28.4,
+      "temp_min": 19.6,
+      "rainfall_mm": 18.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 27.3,
+      "temp_min": 19.8,
+      "rainfall_mm": 27,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 28.4,
+      "temp_min": 20.8,
+      "rainfall_mm": 19.2,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 27.5,
+      "temp_min": 19.9,
+      "rainfall_mm": 20.5,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 29,
+      "temp_min": 20.5,
+      "rainfall_mm": 21.2,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 28,
+      "temp_min": 19.6,
+      "rainfall_mm": 24.2,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 27.5,
+      "temp_min": 18.4,
+      "rainfall_mm": 21.9,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 29.9,
+      "temp_min": 22.3,
+      "rainfall_mm": 16.4,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 27.2,
+      "temp_min": 18.5,
+      "rainfall_mm": 24.5,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 27.1,
+      "temp_min": 17.6,
+      "rainfall_mm": 19.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 27.1,
+      "temp_min": 19.2,
+      "rainfall_mm": 18.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 29.1,
+      "temp_min": 20.1,
+      "rainfall_mm": 24.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 29.2,
+      "temp_min": 20.1,
+      "rainfall_mm": 18.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 28.3,
+      "temp_min": 19.6,
+      "rainfall_mm": 35.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 29.5,
+      "temp_min": 21.2,
+      "rainfall_mm": 15.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 29.5,
+      "temp_min": 21.2,
+      "rainfall_mm": 34.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 27.2,
+      "temp_min": 18.6,
+      "rainfall_mm": 16.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 28.7,
+      "temp_min": 20.3,
+      "rainfall_mm": 18.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 28.4,
+      "temp_min": 20.7,
+      "rainfall_mm": 24.9,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 29.6,
+      "temp_min": 21.1,
+      "rainfall_mm": 16.8,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 27.4,
+      "temp_min": 19.7,
+      "rainfall_mm": 17.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 29.5,
+      "temp_min": 20.2,
+      "rainfall_mm": 18.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 29,
+      "temp_min": 20.5,
+      "rainfall_mm": 23.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 27.1,
+      "temp_min": 17.8,
+      "rainfall_mm": 22.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 28.8,
+      "temp_min": 21,
+      "rainfall_mm": 35.2,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 28.7,
+      "temp_min": 20.8,
+      "rainfall_mm": 21.4,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 28.5,
+      "temp_min": 20.8,
+      "rainfall_mm": 25.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 27.7,
+      "temp_min": 19,
+      "rainfall_mm": 25,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 27.1,
+      "temp_min": 18.3,
+      "rainfall_mm": 35,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 27.4,
+      "temp_min": 19.3,
+      "rainfall_mm": 28.4,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 27.6,
+      "temp_min": 19.7,
+      "rainfall_mm": 24.1,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 27.6,
+      "temp_min": 19,
+      "rainfall_mm": 23.2,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 29.3,
+      "temp_min": 20.5,
+      "rainfall_mm": 23.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 29.9,
+      "temp_min": 22.3,
+      "rainfall_mm": 17.5,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 28.5,
+      "temp_min": 19.2,
+      "rainfall_mm": 27.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 29.4,
+      "temp_min": 21.9,
+      "rainfall_mm": 15.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 27,
+      "temp_min": 19.1,
+      "rainfall_mm": 22,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 29.5,
+      "temp_min": 20.3,
+      "rainfall_mm": 15,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 29.9,
+      "temp_min": 20.8,
+      "rainfall_mm": 21.3,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 29.4,
+      "temp_min": 20,
+      "rainfall_mm": 24.7,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 29.9,
+      "temp_min": 21,
+      "rainfall_mm": 27.6,
+      "humidity_pct": 84,
+      "district": "Nashik"
+    }
+  },
+  "pune": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 28.7,
+      "temp_min": 20.6,
+      "rainfall_mm": 14.8,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 27.4,
+      "temp_min": 18.2,
+      "rainfall_mm": 14.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 27.5,
+      "temp_min": 18.8,
+      "rainfall_mm": 11.2,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 33.3,
+      "temp_min": 25.2,
+      "rainfall_mm": 1.5,
+      "humidity_pct": 67,
+      "district": "Pune"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 33.7,
+      "temp_min": 25.2,
+      "rainfall_mm": 6,
+      "humidity_pct": 61.9,
+      "district": "Pune"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 34.4,
+      "temp_min": 26,
+      "rainfall_mm": 0.3,
+      "humidity_pct": 63.2,
+      "district": "Pune"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 28.5,
+      "temp_min": 20.1,
+      "rainfall_mm": 18.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 27.9,
+      "temp_min": 18.6,
+      "rainfall_mm": 10.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 33.1,
+      "temp_min": 24.7,
+      "rainfall_mm": 7.3,
+      "humidity_pct": 66.8,
+      "district": "Pune"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 33,
+      "temp_min": 24.3,
+      "rainfall_mm": 3.2,
+      "humidity_pct": 64.9,
+      "district": "Pune"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 33.3,
+      "temp_min": 25.5,
+      "rainfall_mm": 0,
+      "humidity_pct": 60.8,
+      "district": "Pune"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 29.2,
+      "temp_min": 20.1,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 33.9,
+      "temp_min": 24.8,
+      "rainfall_mm": 0.2,
+      "humidity_pct": 64.5,
+      "district": "Pune"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 29.9,
+      "temp_min": 20.8,
+      "rainfall_mm": 11.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 27.5,
+      "temp_min": 20,
+      "rainfall_mm": 16.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 27.2,
+      "temp_min": 19.6,
+      "rainfall_mm": 18.4,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 31.5,
+      "temp_min": 23.2,
+      "rainfall_mm": 0,
+      "humidity_pct": 67.9,
+      "district": "Pune"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 32.1,
+      "temp_min": 23.5,
+      "rainfall_mm": 3.8,
+      "humidity_pct": 68.2,
+      "district": "Pune"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 32.9,
+      "temp_min": 25.3,
+      "rainfall_mm": 8.2,
+      "humidity_pct": 68.6,
+      "district": "Pune"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 28.8,
+      "temp_min": 21.1,
+      "rainfall_mm": 12.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 29.3,
+      "temp_min": 21.3,
+      "rainfall_mm": 19.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 33.3,
+      "temp_min": 24.1,
+      "rainfall_mm": 6.2,
+      "humidity_pct": 60.7,
+      "district": "Pune"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 27.7,
+      "temp_min": 18.6,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 33.8,
+      "temp_min": 24.6,
+      "rainfall_mm": 1.8,
+      "humidity_pct": 60.1,
+      "district": "Pune"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 33.4,
+      "temp_min": 25.7,
+      "rainfall_mm": 3.6,
+      "humidity_pct": 59.5,
+      "district": "Pune"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 29.3,
+      "temp_min": 20.5,
+      "rainfall_mm": 14.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 27.8,
+      "temp_min": 19.6,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 32.6,
+      "temp_min": 23.8,
+      "rainfall_mm": 0.8,
+      "humidity_pct": 66.8,
+      "district": "Pune"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 33.2,
+      "temp_min": 24.8,
+      "rainfall_mm": 7,
+      "humidity_pct": 64.7,
+      "district": "Pune"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 28.6,
+      "temp_min": 19.6,
+      "rainfall_mm": 19,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 27.4,
+      "temp_min": 18.6,
+      "rainfall_mm": 20.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 28.5,
+      "temp_min": 19.3,
+      "rainfall_mm": 25.7,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 29.8,
+      "temp_min": 20.6,
+      "rainfall_mm": 31.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 28.7,
+      "temp_min": 20,
+      "rainfall_mm": 16.8,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 28.9,
+      "temp_min": 20.4,
+      "rainfall_mm": 20.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 28.2,
+      "temp_min": 19.9,
+      "rainfall_mm": 30.4,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 29.3,
+      "temp_min": 20.7,
+      "rainfall_mm": 23.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 28.6,
+      "temp_min": 20.4,
+      "rainfall_mm": 17.7,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 28.7,
+      "temp_min": 20,
+      "rainfall_mm": 22.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 29.6,
+      "temp_min": 21.9,
+      "rainfall_mm": 24.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 29.3,
+      "temp_min": 20.2,
+      "rainfall_mm": 19.2,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 29,
+      "temp_min": 20.9,
+      "rainfall_mm": 35.2,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 27.8,
+      "temp_min": 20.1,
+      "rainfall_mm": 28.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 27.9,
+      "temp_min": 19.6,
+      "rainfall_mm": 22.8,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 29.9,
+      "temp_min": 21.3,
+      "rainfall_mm": 25.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 27.5,
+      "temp_min": 18.7,
+      "rainfall_mm": 30.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 28.7,
+      "temp_min": 20.7,
+      "rainfall_mm": 22.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 27.3,
+      "temp_min": 17.8,
+      "rainfall_mm": 16.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 29.8,
+      "temp_min": 20.4,
+      "rainfall_mm": 29,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 28.9,
+      "temp_min": 20,
+      "rainfall_mm": 21.8,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 28.1,
+      "temp_min": 19.1,
+      "rainfall_mm": 26.4,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 29.5,
+      "temp_min": 21.1,
+      "rainfall_mm": 23.7,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 28,
+      "temp_min": 19.9,
+      "rainfall_mm": 27.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 28.6,
+      "temp_min": 19.3,
+      "rainfall_mm": 20.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 27.6,
+      "temp_min": 19,
+      "rainfall_mm": 15.7,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 27.6,
+      "temp_min": 19.4,
+      "rainfall_mm": 33.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 28.3,
+      "temp_min": 20.8,
+      "rainfall_mm": 16.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 27.2,
+      "temp_min": 18.9,
+      "rainfall_mm": 15.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 29.1,
+      "temp_min": 21.1,
+      "rainfall_mm": 30.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 27.7,
+      "temp_min": 20,
+      "rainfall_mm": 18.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 28.2,
+      "temp_min": 20.5,
+      "rainfall_mm": 34.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 27.7,
+      "temp_min": 19.7,
+      "rainfall_mm": 28.2,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 29.1,
+      "temp_min": 20.4,
+      "rainfall_mm": 28.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 29,
+      "temp_min": 21.3,
+      "rainfall_mm": 18.4,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 27.7,
+      "temp_min": 19.4,
+      "rainfall_mm": 23,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 29.6,
+      "temp_min": 20.8,
+      "rainfall_mm": 21.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 28,
+      "temp_min": 19.5,
+      "rainfall_mm": 25,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 29.8,
+      "temp_min": 20.9,
+      "rainfall_mm": 30.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 29.6,
+      "temp_min": 22.1,
+      "rainfall_mm": 27,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 27.8,
+      "temp_min": 18.3,
+      "rainfall_mm": 21.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 28.8,
+      "temp_min": 19.4,
+      "rainfall_mm": 32.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 27.4,
+      "temp_min": 18.8,
+      "rainfall_mm": 35,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 29,
+      "temp_min": 20.2,
+      "rainfall_mm": 35.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 28.5,
+      "temp_min": 19.6,
+      "rainfall_mm": 30.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 27.9,
+      "temp_min": 19.9,
+      "rainfall_mm": 27,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 29.6,
+      "temp_min": 20.5,
+      "rainfall_mm": 22.2,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 28.5,
+      "temp_min": 19.4,
+      "rainfall_mm": 34.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 29,
+      "temp_min": 20.8,
+      "rainfall_mm": 25.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 27.8,
+      "temp_min": 19.4,
+      "rainfall_mm": 32.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 27.3,
+      "temp_min": 19.6,
+      "rainfall_mm": 32.3,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 29.1,
+      "temp_min": 20.2,
+      "rainfall_mm": 16.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 29.5,
+      "temp_min": 20.9,
+      "rainfall_mm": 17.8,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 28.3,
+      "temp_min": 20,
+      "rainfall_mm": 27.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 27.7,
+      "temp_min": 18.3,
+      "rainfall_mm": 15.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 29.2,
+      "temp_min": 20.1,
+      "rainfall_mm": 28.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 29.2,
+      "temp_min": 20,
+      "rainfall_mm": 17.2,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 27.8,
+      "temp_min": 18.6,
+      "rainfall_mm": 34,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 27.5,
+      "temp_min": 19,
+      "rainfall_mm": 31.1,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 28.1,
+      "temp_min": 19.5,
+      "rainfall_mm": 18.8,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 27.4,
+      "temp_min": 19.8,
+      "rainfall_mm": 32.7,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 28.7,
+      "temp_min": 20.9,
+      "rainfall_mm": 33.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 29,
+      "temp_min": 20.9,
+      "rainfall_mm": 35.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 27,
+      "temp_min": 19.2,
+      "rainfall_mm": 29.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 30,
+      "temp_min": 21.7,
+      "rainfall_mm": 27.9,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 29.6,
+      "temp_min": 20.6,
+      "rainfall_mm": 24.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 28.4,
+      "temp_min": 20.3,
+      "rainfall_mm": 21.5,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 27.4,
+      "temp_min": 18.7,
+      "rainfall_mm": 14.7,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 29.4,
+      "temp_min": 21.3,
+      "rainfall_mm": 13,
+      "humidity_pct": 84,
+      "district": "Pune"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 28.8,
+      "temp_min": 20.2,
+      "rainfall_mm": 22.6,
+      "humidity_pct": 84,
+      "district": "Pune"
+    }
+  },
+  "ahmednagar": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 31.7,
+      "temp_min": 23.6,
+      "rainfall_mm": 9.9,
+      "humidity_pct": 66.8,
+      "district": "Ahmednagar"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 34,
+      "temp_min": 25.5,
+      "rainfall_mm": 0,
+      "humidity_pct": 64.5,
+      "district": "Ahmednagar"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 27.6,
+      "temp_min": 19.5,
+      "rainfall_mm": 14.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 29.1,
+      "temp_min": 20.8,
+      "rainfall_mm": 13.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 29.2,
+      "temp_min": 20.2,
+      "rainfall_mm": 14,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 27.3,
+      "temp_min": 18.2,
+      "rainfall_mm": 14,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 27.2,
+      "temp_min": 19.6,
+      "rainfall_mm": 14.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 27.3,
+      "temp_min": 18.7,
+      "rainfall_mm": 10.3,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 33.6,
+      "temp_min": 25.1,
+      "rainfall_mm": 0.7,
+      "humidity_pct": 64.4,
+      "district": "Ahmednagar"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 28.7,
+      "temp_min": 19.7,
+      "rainfall_mm": 12.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 32,
+      "temp_min": 23.9,
+      "rainfall_mm": 6.3,
+      "humidity_pct": 63,
+      "district": "Ahmednagar"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 31.7,
+      "temp_min": 24.1,
+      "rainfall_mm": 5.1,
+      "humidity_pct": 66.1,
+      "district": "Ahmednagar"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 28.1,
+      "temp_min": 20,
+      "rainfall_mm": 12.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 27.3,
+      "temp_min": 19.3,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 33.9,
+      "temp_min": 24.6,
+      "rainfall_mm": 5.1,
+      "humidity_pct": 68.4,
+      "district": "Ahmednagar"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 34,
+      "temp_min": 25.5,
+      "rainfall_mm": 0.1,
+      "humidity_pct": 63.5,
+      "district": "Ahmednagar"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 27.2,
+      "temp_min": 19.2,
+      "rainfall_mm": 15.3,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 34.5,
+      "temp_min": 26,
+      "rainfall_mm": 1.6,
+      "humidity_pct": 60.9,
+      "district": "Ahmednagar"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 33.5,
+      "temp_min": 24.9,
+      "rainfall_mm": 8.5,
+      "humidity_pct": 62.2,
+      "district": "Ahmednagar"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 33.3,
+      "temp_min": 24.2,
+      "rainfall_mm": 0.7,
+      "humidity_pct": 63.7,
+      "district": "Ahmednagar"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 28.8,
+      "temp_min": 19.5,
+      "rainfall_mm": 10.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 34.2,
+      "temp_min": 25.8,
+      "rainfall_mm": 1,
+      "humidity_pct": 59.3,
+      "district": "Ahmednagar"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 33.5,
+      "temp_min": 25.1,
+      "rainfall_mm": 0.4,
+      "humidity_pct": 68.3,
+      "district": "Ahmednagar"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 34,
+      "temp_min": 25,
+      "rainfall_mm": 3.2,
+      "humidity_pct": 62.8,
+      "district": "Ahmednagar"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 28.1,
+      "temp_min": 20.5,
+      "rainfall_mm": 10.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 28.9,
+      "temp_min": 19.5,
+      "rainfall_mm": 14.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 32.8,
+      "temp_min": 24.1,
+      "rainfall_mm": 0,
+      "humidity_pct": 61.2,
+      "district": "Ahmednagar"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 28.2,
+      "temp_min": 18.9,
+      "rainfall_mm": 14.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 31.8,
+      "temp_min": 24.1,
+      "rainfall_mm": 9.2,
+      "humidity_pct": 61.1,
+      "district": "Ahmednagar"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 33.4,
+      "temp_min": 24.5,
+      "rainfall_mm": 4.3,
+      "humidity_pct": 62.4,
+      "district": "Ahmednagar"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 29,
+      "temp_min": 20.8,
+      "rainfall_mm": 22.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 30,
+      "temp_min": 22.3,
+      "rainfall_mm": 27.3,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 29.9,
+      "temp_min": 21.4,
+      "rainfall_mm": 27.5,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 29.1,
+      "temp_min": 19.9,
+      "rainfall_mm": 26.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 29.8,
+      "temp_min": 21.5,
+      "rainfall_mm": 20.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 27.8,
+      "temp_min": 18.5,
+      "rainfall_mm": 29.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 28.8,
+      "temp_min": 21,
+      "rainfall_mm": 21.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 27.2,
+      "temp_min": 18.9,
+      "rainfall_mm": 23.3,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 29.3,
+      "temp_min": 20.7,
+      "rainfall_mm": 17.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 28.8,
+      "temp_min": 19.6,
+      "rainfall_mm": 15.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 28.2,
+      "temp_min": 20.5,
+      "rainfall_mm": 29.6,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 29.7,
+      "temp_min": 20.2,
+      "rainfall_mm": 19.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 28.8,
+      "temp_min": 20.2,
+      "rainfall_mm": 19.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 28.4,
+      "temp_min": 20.1,
+      "rainfall_mm": 16.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 28.3,
+      "temp_min": 19.3,
+      "rainfall_mm": 24.6,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 28.5,
+      "temp_min": 19.2,
+      "rainfall_mm": 11.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 27.1,
+      "temp_min": 18.5,
+      "rainfall_mm": 11.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 27.8,
+      "temp_min": 19.8,
+      "rainfall_mm": 16,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 28.8,
+      "temp_min": 21.2,
+      "rainfall_mm": 23.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 29.5,
+      "temp_min": 20.4,
+      "rainfall_mm": 25.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 28.8,
+      "temp_min": 19.4,
+      "rainfall_mm": 24.6,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 27.2,
+      "temp_min": 19.2,
+      "rainfall_mm": 18.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 28.4,
+      "temp_min": 19.7,
+      "rainfall_mm": 24.6,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 29.7,
+      "temp_min": 21.3,
+      "rainfall_mm": 23.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 28.4,
+      "temp_min": 20.7,
+      "rainfall_mm": 19.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 28,
+      "temp_min": 20.1,
+      "rainfall_mm": 21.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 29,
+      "temp_min": 20.8,
+      "rainfall_mm": 20.3,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 27.4,
+      "temp_min": 19.4,
+      "rainfall_mm": 22.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 27.1,
+      "temp_min": 19,
+      "rainfall_mm": 22.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 27.4,
+      "temp_min": 18.8,
+      "rainfall_mm": 17.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 27.1,
+      "temp_min": 19.5,
+      "rainfall_mm": 22.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 28.5,
+      "temp_min": 20.8,
+      "rainfall_mm": 25.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 27.1,
+      "temp_min": 17.7,
+      "rainfall_mm": 19.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 27.2,
+      "temp_min": 18.5,
+      "rainfall_mm": 18.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 28.8,
+      "temp_min": 19.4,
+      "rainfall_mm": 21.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 29.9,
+      "temp_min": 21.1,
+      "rainfall_mm": 27.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 28.3,
+      "temp_min": 19.3,
+      "rainfall_mm": 14.3,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 27,
+      "temp_min": 19.3,
+      "rainfall_mm": 29.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 27.5,
+      "temp_min": 18.9,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 27.4,
+      "temp_min": 19.1,
+      "rainfall_mm": 22.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 27.4,
+      "temp_min": 18,
+      "rainfall_mm": 18.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 27.6,
+      "temp_min": 19.4,
+      "rainfall_mm": 13.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 27.7,
+      "temp_min": 20.1,
+      "rainfall_mm": 14.3,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 29.7,
+      "temp_min": 20.6,
+      "rainfall_mm": 19.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 29.5,
+      "temp_min": 21,
+      "rainfall_mm": 28.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 29.1,
+      "temp_min": 20.1,
+      "rainfall_mm": 28,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 28.3,
+      "temp_min": 19.9,
+      "rainfall_mm": 25.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 29,
+      "temp_min": 19.9,
+      "rainfall_mm": 23.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 28.9,
+      "temp_min": 21.2,
+      "rainfall_mm": 10.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 28,
+      "temp_min": 19.4,
+      "rainfall_mm": 16.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 27.1,
+      "temp_min": 18.7,
+      "rainfall_mm": 20.1,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 27,
+      "temp_min": 18.8,
+      "rainfall_mm": 18.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 27.5,
+      "temp_min": 18.9,
+      "rainfall_mm": 21.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 27.2,
+      "temp_min": 18.2,
+      "rainfall_mm": 23.7,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 28.2,
+      "temp_min": 20.1,
+      "rainfall_mm": 11.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 27.1,
+      "temp_min": 19.3,
+      "rainfall_mm": 10.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 28.6,
+      "temp_min": 20.6,
+      "rainfall_mm": 25,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 27.4,
+      "temp_min": 19.3,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 27,
+      "temp_min": 18.9,
+      "rainfall_mm": 27.9,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 28.6,
+      "temp_min": 20,
+      "rainfall_mm": 10.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 32.8,
+      "temp_min": 24.3,
+      "rainfall_mm": 10,
+      "humidity_pct": 60,
+      "district": "Ahmednagar"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 29.6,
+      "temp_min": 21.7,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 29.8,
+      "temp_min": 21.3,
+      "rainfall_mm": 19.5,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 27.3,
+      "temp_min": 19,
+      "rainfall_mm": 18,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 27.5,
+      "temp_min": 19.2,
+      "rainfall_mm": 15,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 27.6,
+      "temp_min": 18.4,
+      "rainfall_mm": 23.2,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 29.7,
+      "temp_min": 20.3,
+      "rainfall_mm": 13.4,
+      "humidity_pct": 84,
+      "district": "Ahmednagar"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 33.9,
+      "temp_min": 25.4,
+      "rainfall_mm": 7.2,
+      "humidity_pct": 67.9,
+      "district": "Ahmednagar"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 31.8,
+      "temp_min": 22.8,
+      "rainfall_mm": 7.8,
+      "humidity_pct": 65.9,
+      "district": "Ahmednagar"
+    }
+  },
+  "solapur": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 28,
+      "temp_min": 20,
+      "rainfall_mm": 10.8,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 29.7,
+      "temp_min": 21.3,
+      "rainfall_mm": 12.8,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 29.4,
+      "temp_min": 20,
+      "rainfall_mm": 12.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 32.7,
+      "temp_min": 24.9,
+      "rainfall_mm": 6.1,
+      "humidity_pct": 60.6,
+      "district": "Solapur"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 33.1,
+      "temp_min": 24.8,
+      "rainfall_mm": 3.2,
+      "humidity_pct": 66.5,
+      "district": "Solapur"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 34.5,
+      "temp_min": 26.5,
+      "rainfall_mm": 0,
+      "humidity_pct": 63.5,
+      "district": "Solapur"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 34.2,
+      "temp_min": 24.9,
+      "rainfall_mm": 0,
+      "humidity_pct": 62.3,
+      "district": "Solapur"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 32.4,
+      "temp_min": 24.3,
+      "rainfall_mm": 1.9,
+      "humidity_pct": 68.4,
+      "district": "Solapur"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 29.9,
+      "temp_min": 20.7,
+      "rainfall_mm": 13.6,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 28.7,
+      "temp_min": 20.3,
+      "rainfall_mm": 10.8,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 34.5,
+      "temp_min": 26.9,
+      "rainfall_mm": 0,
+      "humidity_pct": 60.3,
+      "district": "Solapur"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 32.1,
+      "temp_min": 22.7,
+      "rainfall_mm": 0,
+      "humidity_pct": 60.7,
+      "district": "Solapur"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 32.8,
+      "temp_min": 24.9,
+      "rainfall_mm": 0,
+      "humidity_pct": 61.6,
+      "district": "Solapur"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 33.8,
+      "temp_min": 25.5,
+      "rainfall_mm": 0,
+      "humidity_pct": 61.4,
+      "district": "Solapur"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 29.9,
+      "temp_min": 20.4,
+      "rainfall_mm": 16.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 33,
+      "temp_min": 24.3,
+      "rainfall_mm": 8.2,
+      "humidity_pct": 66.6,
+      "district": "Solapur"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 28.2,
+      "temp_min": 20.7,
+      "rainfall_mm": 13.3,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 32.7,
+      "temp_min": 24.5,
+      "rainfall_mm": 3.7,
+      "humidity_pct": 68.7,
+      "district": "Solapur"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 32.3,
+      "temp_min": 23.4,
+      "rainfall_mm": 9.2,
+      "humidity_pct": 61.2,
+      "district": "Solapur"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 33.3,
+      "temp_min": 24,
+      "rainfall_mm": 1.2,
+      "humidity_pct": 68.6,
+      "district": "Solapur"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 27.7,
+      "temp_min": 20.2,
+      "rainfall_mm": 15.2,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 34,
+      "temp_min": 25.8,
+      "rainfall_mm": 5.8,
+      "humidity_pct": 61.5,
+      "district": "Solapur"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 29.1,
+      "temp_min": 20.4,
+      "rainfall_mm": 12.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 31.5,
+      "temp_min": 23.1,
+      "rainfall_mm": 2.6,
+      "humidity_pct": 68.5,
+      "district": "Solapur"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 33.1,
+      "temp_min": 24.4,
+      "rainfall_mm": 0,
+      "humidity_pct": 65.2,
+      "district": "Solapur"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 29.9,
+      "temp_min": 21,
+      "rainfall_mm": 15.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 27.3,
+      "temp_min": 19.4,
+      "rainfall_mm": 11.6,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 27.9,
+      "temp_min": 19.3,
+      "rainfall_mm": 10.2,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 34.1,
+      "temp_min": 26.4,
+      "rainfall_mm": 4.9,
+      "humidity_pct": 68.3,
+      "district": "Solapur"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 32.5,
+      "temp_min": 24,
+      "rainfall_mm": 1.7,
+      "humidity_pct": 66.8,
+      "district": "Solapur"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 29.5,
+      "temp_min": 20.7,
+      "rainfall_mm": 14.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 29.9,
+      "temp_min": 21.6,
+      "rainfall_mm": 22.8,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 27.1,
+      "temp_min": 17.8,
+      "rainfall_mm": 15,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 27.3,
+      "temp_min": 19.8,
+      "rainfall_mm": 18.2,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 32.6,
+      "temp_min": 23.8,
+      "rainfall_mm": 7.7,
+      "humidity_pct": 64.7,
+      "district": "Solapur"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 27.3,
+      "temp_min": 19.2,
+      "rainfall_mm": 19.2,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 28.8,
+      "temp_min": 19.9,
+      "rainfall_mm": 19.6,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 29,
+      "temp_min": 19.8,
+      "rainfall_mm": 14.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 28.8,
+      "temp_min": 19.9,
+      "rainfall_mm": 16.1,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 27.6,
+      "temp_min": 18.2,
+      "rainfall_mm": 20.6,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 29.5,
+      "temp_min": 21.6,
+      "rainfall_mm": 18.9,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 28.2,
+      "temp_min": 20.2,
+      "rainfall_mm": 21,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 28.6,
+      "temp_min": 20.6,
+      "rainfall_mm": 14,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 28.5,
+      "temp_min": 19.5,
+      "rainfall_mm": 23.7,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 28.8,
+      "temp_min": 19.8,
+      "rainfall_mm": 22.8,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 31.9,
+      "temp_min": 23,
+      "rainfall_mm": 7.9,
+      "humidity_pct": 64.4,
+      "district": "Solapur"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 29.5,
+      "temp_min": 21.8,
+      "rainfall_mm": 11.7,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 27.8,
+      "temp_min": 19.4,
+      "rainfall_mm": 23.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 28.1,
+      "temp_min": 20.1,
+      "rainfall_mm": 17.9,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 28.5,
+      "temp_min": 19.7,
+      "rainfall_mm": 14.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 27.6,
+      "temp_min": 19.3,
+      "rainfall_mm": 13.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 27.6,
+      "temp_min": 20,
+      "rainfall_mm": 21.3,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 29,
+      "temp_min": 19.5,
+      "rainfall_mm": 21,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 27.9,
+      "temp_min": 19.4,
+      "rainfall_mm": 10.1,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 32.4,
+      "temp_min": 23,
+      "rainfall_mm": 5.2,
+      "humidity_pct": 59.9,
+      "district": "Solapur"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 31.8,
+      "temp_min": 24.2,
+      "rainfall_mm": 5.3,
+      "humidity_pct": 66,
+      "district": "Solapur"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 27.8,
+      "temp_min": 20,
+      "rainfall_mm": 22.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 29.5,
+      "temp_min": 20.6,
+      "rainfall_mm": 17.7,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 34.1,
+      "temp_min": 25.8,
+      "rainfall_mm": 8.9,
+      "humidity_pct": 68.2,
+      "district": "Solapur"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 27.7,
+      "temp_min": 20.1,
+      "rainfall_mm": 17.9,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 29.2,
+      "temp_min": 20.9,
+      "rainfall_mm": 15,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 32.8,
+      "temp_min": 25,
+      "rainfall_mm": 5.5,
+      "humidity_pct": 68.3,
+      "district": "Solapur"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 31.5,
+      "temp_min": 23.7,
+      "rainfall_mm": 7.1,
+      "humidity_pct": 59.8,
+      "district": "Solapur"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 29.8,
+      "temp_min": 21.4,
+      "rainfall_mm": 18.9,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 29,
+      "temp_min": 19.6,
+      "rainfall_mm": 10.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 33.3,
+      "temp_min": 24.7,
+      "rainfall_mm": 9.6,
+      "humidity_pct": 67.3,
+      "district": "Solapur"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 34,
+      "temp_min": 24.6,
+      "rainfall_mm": 6.4,
+      "humidity_pct": 64.3,
+      "district": "Solapur"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 29.2,
+      "temp_min": 20.3,
+      "rainfall_mm": 13,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 27.9,
+      "temp_min": 19.5,
+      "rainfall_mm": 19,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 29.3,
+      "temp_min": 20.5,
+      "rainfall_mm": 23.2,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 33.7,
+      "temp_min": 25.4,
+      "rainfall_mm": 9.3,
+      "humidity_pct": 66.7,
+      "district": "Solapur"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 31.7,
+      "temp_min": 23.1,
+      "rainfall_mm": 4.7,
+      "humidity_pct": 68.1,
+      "district": "Solapur"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 34.2,
+      "temp_min": 26.3,
+      "rainfall_mm": 6.6,
+      "humidity_pct": 59.8,
+      "district": "Solapur"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 28.4,
+      "temp_min": 20.3,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 27.2,
+      "temp_min": 17.9,
+      "rainfall_mm": 14.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 32.9,
+      "temp_min": 23.4,
+      "rainfall_mm": 9.9,
+      "humidity_pct": 67.7,
+      "district": "Solapur"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 28.9,
+      "temp_min": 20.1,
+      "rainfall_mm": 14.4,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 32.5,
+      "temp_min": 24.1,
+      "rainfall_mm": 5.1,
+      "humidity_pct": 68.7,
+      "district": "Solapur"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 33.4,
+      "temp_min": 24.7,
+      "rainfall_mm": 6.3,
+      "humidity_pct": 63.3,
+      "district": "Solapur"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 34.2,
+      "temp_min": 25.1,
+      "rainfall_mm": 4.9,
+      "humidity_pct": 62.7,
+      "district": "Solapur"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 31.7,
+      "temp_min": 23.4,
+      "rainfall_mm": 9.1,
+      "humidity_pct": 65.3,
+      "district": "Solapur"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 29.8,
+      "temp_min": 20.4,
+      "rainfall_mm": 17.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 27.5,
+      "temp_min": 19.4,
+      "rainfall_mm": 13,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 28.1,
+      "temp_min": 20.1,
+      "rainfall_mm": 19.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 34.3,
+      "temp_min": 26.5,
+      "rainfall_mm": 9,
+      "humidity_pct": 64.3,
+      "district": "Solapur"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 28.6,
+      "temp_min": 20.9,
+      "rainfall_mm": 18.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 27.7,
+      "temp_min": 19.5,
+      "rainfall_mm": 22.2,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 28.3,
+      "temp_min": 20.1,
+      "rainfall_mm": 20.3,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 33.1,
+      "temp_min": 25.6,
+      "rainfall_mm": 5.3,
+      "humidity_pct": 59.3,
+      "district": "Solapur"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 29.6,
+      "temp_min": 20.7,
+      "rainfall_mm": 10.3,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 29.4,
+      "temp_min": 21.1,
+      "rainfall_mm": 20,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 27.1,
+      "temp_min": 18.8,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 33.6,
+      "temp_min": 24.9,
+      "rainfall_mm": 9.9,
+      "humidity_pct": 64.8,
+      "district": "Solapur"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 28.6,
+      "temp_min": 19.8,
+      "rainfall_mm": 18.7,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 32.4,
+      "temp_min": 23.4,
+      "rainfall_mm": 5.9,
+      "humidity_pct": 63.1,
+      "district": "Solapur"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 28.4,
+      "temp_min": 20.8,
+      "rainfall_mm": 12.6,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 33.5,
+      "temp_min": 25.1,
+      "rainfall_mm": 9.7,
+      "humidity_pct": 66.3,
+      "district": "Solapur"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 33.9,
+      "temp_min": 24.5,
+      "rainfall_mm": 5.2,
+      "humidity_pct": 62.5,
+      "district": "Solapur"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 27.4,
+      "temp_min": 19.6,
+      "rainfall_mm": 19.5,
+      "humidity_pct": 84,
+      "district": "Solapur"
+    }
+  },
+  "latur": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 30,
+      "temp_min": 22.3,
+      "rainfall_mm": 17,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 34,
+      "temp_min": 25.6,
+      "rainfall_mm": 7.5,
+      "humidity_pct": 61.5,
+      "district": "Latur"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 28.1,
+      "temp_min": 20.4,
+      "rainfall_mm": 17.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 31.6,
+      "temp_min": 22.6,
+      "rainfall_mm": 1.8,
+      "humidity_pct": 64.2,
+      "district": "Latur"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 34,
+      "temp_min": 25.4,
+      "rainfall_mm": 5.6,
+      "humidity_pct": 65.6,
+      "district": "Latur"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 28.6,
+      "temp_min": 19.3,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 32.6,
+      "temp_min": 24.7,
+      "rainfall_mm": 5.3,
+      "humidity_pct": 68.2,
+      "district": "Latur"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 32.3,
+      "temp_min": 22.9,
+      "rainfall_mm": 4.6,
+      "humidity_pct": 65.1,
+      "district": "Latur"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 33.3,
+      "temp_min": 24.6,
+      "rainfall_mm": 4.8,
+      "humidity_pct": 65,
+      "district": "Latur"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 29.5,
+      "temp_min": 21.9,
+      "rainfall_mm": 14.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 33.1,
+      "temp_min": 24.8,
+      "rainfall_mm": 7.5,
+      "humidity_pct": 64.7,
+      "district": "Latur"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 33.7,
+      "temp_min": 25.8,
+      "rainfall_mm": 4.9,
+      "humidity_pct": 67.4,
+      "district": "Latur"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 28.2,
+      "temp_min": 20.1,
+      "rainfall_mm": 13.7,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 32.1,
+      "temp_min": 23.9,
+      "rainfall_mm": 5.4,
+      "humidity_pct": 62.3,
+      "district": "Latur"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 34.2,
+      "temp_min": 24.7,
+      "rainfall_mm": 0.9,
+      "humidity_pct": 65.9,
+      "district": "Latur"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 32.7,
+      "temp_min": 24.7,
+      "rainfall_mm": 5.5,
+      "humidity_pct": 64.7,
+      "district": "Latur"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 31.8,
+      "temp_min": 22.3,
+      "rainfall_mm": 4.6,
+      "humidity_pct": 66.7,
+      "district": "Latur"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 29.8,
+      "temp_min": 20.8,
+      "rainfall_mm": 17.9,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 29.5,
+      "temp_min": 21.7,
+      "rainfall_mm": 15,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 28.2,
+      "temp_min": 19.1,
+      "rainfall_mm": 10.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 31.7,
+      "temp_min": 24,
+      "rainfall_mm": 3.3,
+      "humidity_pct": 59.8,
+      "district": "Latur"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 32.9,
+      "temp_min": 24.7,
+      "rainfall_mm": 7.6,
+      "humidity_pct": 68.1,
+      "district": "Latur"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 31.9,
+      "temp_min": 24.3,
+      "rainfall_mm": 0,
+      "humidity_pct": 67.9,
+      "district": "Latur"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 27.6,
+      "temp_min": 18.5,
+      "rainfall_mm": 12.8,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 29.1,
+      "temp_min": 20.6,
+      "rainfall_mm": 14.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 32,
+      "temp_min": 23.8,
+      "rainfall_mm": 7,
+      "humidity_pct": 66.9,
+      "district": "Latur"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 31.9,
+      "temp_min": 22.7,
+      "rainfall_mm": 9.6,
+      "humidity_pct": 62.5,
+      "district": "Latur"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 33.1,
+      "temp_min": 24,
+      "rainfall_mm": 5.6,
+      "humidity_pct": 62.3,
+      "district": "Latur"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 27.2,
+      "temp_min": 17.8,
+      "rainfall_mm": 13.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 27.4,
+      "temp_min": 19.2,
+      "rainfall_mm": 12.7,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 30,
+      "temp_min": 22.3,
+      "rainfall_mm": 15.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 29.5,
+      "temp_min": 21.4,
+      "rainfall_mm": 11.7,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 28.8,
+      "temp_min": 19.8,
+      "rainfall_mm": 13.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 27.5,
+      "temp_min": 18.6,
+      "rainfall_mm": 12.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 27.4,
+      "temp_min": 18.2,
+      "rainfall_mm": 17.3,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 27.9,
+      "temp_min": 20.1,
+      "rainfall_mm": 18.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 27.7,
+      "temp_min": 18.5,
+      "rainfall_mm": 18.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 29.3,
+      "temp_min": 21.2,
+      "rainfall_mm": 10.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 28.5,
+      "temp_min": 19.7,
+      "rainfall_mm": 17.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 27.2,
+      "temp_min": 17.7,
+      "rainfall_mm": 20,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 28.2,
+      "temp_min": 19.3,
+      "rainfall_mm": 26.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 29,
+      "temp_min": 20.3,
+      "rainfall_mm": 18.4,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 28.6,
+      "temp_min": 19.5,
+      "rainfall_mm": 11,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 29.4,
+      "temp_min": 19.9,
+      "rainfall_mm": 25.3,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 29.9,
+      "temp_min": 22.2,
+      "rainfall_mm": 19.3,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 28.1,
+      "temp_min": 19.7,
+      "rainfall_mm": 19.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 28.2,
+      "temp_min": 19.9,
+      "rainfall_mm": 21.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 28.8,
+      "temp_min": 20.9,
+      "rainfall_mm": 18.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 29,
+      "temp_min": 21.4,
+      "rainfall_mm": 11,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 30,
+      "temp_min": 20.8,
+      "rainfall_mm": 29.4,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 28.5,
+      "temp_min": 19.9,
+      "rainfall_mm": 12.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 29,
+      "temp_min": 20.8,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 28.3,
+      "temp_min": 20.7,
+      "rainfall_mm": 16.4,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 27.2,
+      "temp_min": 18.4,
+      "rainfall_mm": 20.3,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 27.8,
+      "temp_min": 18.4,
+      "rainfall_mm": 11.9,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 28.8,
+      "temp_min": 21.2,
+      "rainfall_mm": 26.4,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 29,
+      "temp_min": 21.4,
+      "rainfall_mm": 22.3,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 28.6,
+      "temp_min": 20.5,
+      "rainfall_mm": 22.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 29.6,
+      "temp_min": 20.4,
+      "rainfall_mm": 22.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 29.8,
+      "temp_min": 22,
+      "rainfall_mm": 18.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 29.7,
+      "temp_min": 20.6,
+      "rainfall_mm": 12.8,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 29.9,
+      "temp_min": 22,
+      "rainfall_mm": 18.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 27.5,
+      "temp_min": 19.4,
+      "rainfall_mm": 11.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 29,
+      "temp_min": 21,
+      "rainfall_mm": 18.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 29.5,
+      "temp_min": 21.8,
+      "rainfall_mm": 10.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 27,
+      "temp_min": 17.5,
+      "rainfall_mm": 15.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 28.2,
+      "temp_min": 20.6,
+      "rainfall_mm": 28.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 28.6,
+      "temp_min": 20.9,
+      "rainfall_mm": 18.9,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 29.1,
+      "temp_min": 21.1,
+      "rainfall_mm": 16.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 28.7,
+      "temp_min": 20.8,
+      "rainfall_mm": 22,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 27.3,
+      "temp_min": 18.6,
+      "rainfall_mm": 27.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 27.7,
+      "temp_min": 18.7,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 28.1,
+      "temp_min": 19.7,
+      "rainfall_mm": 13,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 28.9,
+      "temp_min": 20,
+      "rainfall_mm": 18.9,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 28.4,
+      "temp_min": 18.9,
+      "rainfall_mm": 25,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 29.8,
+      "temp_min": 20.5,
+      "rainfall_mm": 21.9,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 28.8,
+      "temp_min": 21.3,
+      "rainfall_mm": 19,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 27.1,
+      "temp_min": 19.4,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 28.3,
+      "temp_min": 19.7,
+      "rainfall_mm": 25.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 28.4,
+      "temp_min": 20.4,
+      "rainfall_mm": 15,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 29.9,
+      "temp_min": 20.6,
+      "rainfall_mm": 15.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 30,
+      "temp_min": 20.6,
+      "rainfall_mm": 15.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 29.8,
+      "temp_min": 21.9,
+      "rainfall_mm": 20.4,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 29,
+      "temp_min": 19.6,
+      "rainfall_mm": 22.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 27.3,
+      "temp_min": 18.6,
+      "rainfall_mm": 24.6,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 29,
+      "temp_min": 20.9,
+      "rainfall_mm": 21.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 29.3,
+      "temp_min": 20.1,
+      "rainfall_mm": 24.9,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 28.5,
+      "temp_min": 20.8,
+      "rainfall_mm": 20.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 29.2,
+      "temp_min": 20.2,
+      "rainfall_mm": 17.5,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 28.6,
+      "temp_min": 21.1,
+      "rainfall_mm": 12,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 27.4,
+      "temp_min": 19.8,
+      "rainfall_mm": 10.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 28.7,
+      "temp_min": 20.4,
+      "rainfall_mm": 24,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 27.3,
+      "temp_min": 19,
+      "rainfall_mm": 20.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 33.7,
+      "temp_min": 25,
+      "rainfall_mm": 6.7,
+      "humidity_pct": 64.8,
+      "district": "Latur"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 28.8,
+      "temp_min": 20.2,
+      "rainfall_mm": 19.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 33.6,
+      "temp_min": 25.1,
+      "rainfall_mm": 6.5,
+      "humidity_pct": 66.3,
+      "district": "Latur"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 27.8,
+      "temp_min": 19.9,
+      "rainfall_mm": 24.1,
+      "humidity_pct": 84,
+      "district": "Latur"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 34.4,
+      "temp_min": 26.4,
+      "rainfall_mm": 6.5,
+      "humidity_pct": 65.3,
+      "district": "Latur"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 28.6,
+      "temp_min": 21.1,
+      "rainfall_mm": 13.2,
+      "humidity_pct": 84,
+      "district": "Latur"
+    }
+  },
+  "akola": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 31.9,
+      "temp_min": 23.7,
+      "rainfall_mm": 1.7,
+      "humidity_pct": 67.3,
+      "district": "Akola"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 29.8,
+      "temp_min": 21.4,
+      "rainfall_mm": 11.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 28.2,
+      "temp_min": 19.9,
+      "rainfall_mm": 13.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 31.8,
+      "temp_min": 23.9,
+      "rainfall_mm": 9.4,
+      "humidity_pct": 67.4,
+      "district": "Akola"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 34.2,
+      "temp_min": 26.3,
+      "rainfall_mm": 3.5,
+      "humidity_pct": 62.9,
+      "district": "Akola"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 34.4,
+      "temp_min": 26,
+      "rainfall_mm": 6.4,
+      "humidity_pct": 66.9,
+      "district": "Akola"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 34.2,
+      "temp_min": 26.7,
+      "rainfall_mm": 1.7,
+      "humidity_pct": 68.8,
+      "district": "Akola"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 31.6,
+      "temp_min": 23.2,
+      "rainfall_mm": 8.5,
+      "humidity_pct": 68.4,
+      "district": "Akola"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 29.2,
+      "temp_min": 19.8,
+      "rainfall_mm": 14,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 33.9,
+      "temp_min": 26,
+      "rainfall_mm": 7.4,
+      "humidity_pct": 60,
+      "district": "Akola"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 34.4,
+      "temp_min": 26.3,
+      "rainfall_mm": 8.5,
+      "humidity_pct": 62.4,
+      "district": "Akola"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 32.6,
+      "temp_min": 23.3,
+      "rainfall_mm": 3,
+      "humidity_pct": 68.8,
+      "district": "Akola"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 29.6,
+      "temp_min": 21.6,
+      "rainfall_mm": 15.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 29.2,
+      "temp_min": 19.8,
+      "rainfall_mm": 17.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 32.5,
+      "temp_min": 23.1,
+      "rainfall_mm": 5.2,
+      "humidity_pct": 66.7,
+      "district": "Akola"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 27.1,
+      "temp_min": 18.6,
+      "rainfall_mm": 14.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 32.3,
+      "temp_min": 23.9,
+      "rainfall_mm": 8.8,
+      "humidity_pct": 60.4,
+      "district": "Akola"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 28.6,
+      "temp_min": 20.3,
+      "rainfall_mm": 12.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 28.1,
+      "temp_min": 20.6,
+      "rainfall_mm": 10.9,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 33.9,
+      "temp_min": 25,
+      "rainfall_mm": 9.4,
+      "humidity_pct": 68.2,
+      "district": "Akola"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 32.2,
+      "temp_min": 24.2,
+      "rainfall_mm": 7.7,
+      "humidity_pct": 68.4,
+      "district": "Akola"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 27.4,
+      "temp_min": 19,
+      "rainfall_mm": 14.7,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 31.5,
+      "temp_min": 23.4,
+      "rainfall_mm": 3.7,
+      "humidity_pct": 64.3,
+      "district": "Akola"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 29.2,
+      "temp_min": 20.7,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 28.1,
+      "temp_min": 18.9,
+      "rainfall_mm": 10.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 28.2,
+      "temp_min": 19.5,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 29.3,
+      "temp_min": 20.8,
+      "rainfall_mm": 16,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 34.1,
+      "temp_min": 26.5,
+      "rainfall_mm": 7.3,
+      "humidity_pct": 64.4,
+      "district": "Akola"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 31.9,
+      "temp_min": 22.8,
+      "rainfall_mm": 0.5,
+      "humidity_pct": 62,
+      "district": "Akola"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 29.2,
+      "temp_min": 20.2,
+      "rainfall_mm": 16.9,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 28.8,
+      "temp_min": 20.6,
+      "rainfall_mm": 16.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 27.2,
+      "temp_min": 18.9,
+      "rainfall_mm": 25.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 27.1,
+      "temp_min": 18.5,
+      "rainfall_mm": 14.9,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 28.1,
+      "temp_min": 19.7,
+      "rainfall_mm": 20.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 28.1,
+      "temp_min": 19.3,
+      "rainfall_mm": 17.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 27.9,
+      "temp_min": 20.3,
+      "rainfall_mm": 18,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 29.6,
+      "temp_min": 21.7,
+      "rainfall_mm": 29.7,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 29.4,
+      "temp_min": 21.1,
+      "rainfall_mm": 23.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 29.6,
+      "temp_min": 20.1,
+      "rainfall_mm": 13.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 28.8,
+      "temp_min": 20.2,
+      "rainfall_mm": 24.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 28.6,
+      "temp_min": 20.9,
+      "rainfall_mm": 24.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 27.1,
+      "temp_min": 18.1,
+      "rainfall_mm": 23.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 27,
+      "temp_min": 18.1,
+      "rainfall_mm": 22.4,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 29.4,
+      "temp_min": 20.4,
+      "rainfall_mm": 12.4,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 29.7,
+      "temp_min": 21.4,
+      "rainfall_mm": 25.7,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 29.1,
+      "temp_min": 21,
+      "rainfall_mm": 29.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 27.3,
+      "temp_min": 19.7,
+      "rainfall_mm": 13.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 29,
+      "temp_min": 21.2,
+      "rainfall_mm": 13.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 29.7,
+      "temp_min": 21.9,
+      "rainfall_mm": 14.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 29.3,
+      "temp_min": 19.9,
+      "rainfall_mm": 21.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 27,
+      "temp_min": 19.3,
+      "rainfall_mm": 12.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 29.5,
+      "temp_min": 20.4,
+      "rainfall_mm": 22.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 27.3,
+      "temp_min": 19.1,
+      "rainfall_mm": 22.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 29.1,
+      "temp_min": 20.6,
+      "rainfall_mm": 25.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 27.2,
+      "temp_min": 18.4,
+      "rainfall_mm": 15.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 27.4,
+      "temp_min": 18.4,
+      "rainfall_mm": 29.4,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 27.8,
+      "temp_min": 19.2,
+      "rainfall_mm": 11.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 29,
+      "temp_min": 20.2,
+      "rainfall_mm": 27.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 29.9,
+      "temp_min": 21,
+      "rainfall_mm": 24.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 29,
+      "temp_min": 20.7,
+      "rainfall_mm": 11.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 27.1,
+      "temp_min": 17.9,
+      "rainfall_mm": 27.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 29.1,
+      "temp_min": 19.8,
+      "rainfall_mm": 27.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 28.3,
+      "temp_min": 19.7,
+      "rainfall_mm": 22.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 29.2,
+      "temp_min": 20.4,
+      "rainfall_mm": 29.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 28.6,
+      "temp_min": 19.4,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 28.4,
+      "temp_min": 19.3,
+      "rainfall_mm": 16.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 28.9,
+      "temp_min": 20.9,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 29.3,
+      "temp_min": 20,
+      "rainfall_mm": 19.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 29.5,
+      "temp_min": 20.9,
+      "rainfall_mm": 18.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 29.9,
+      "temp_min": 20.9,
+      "rainfall_mm": 10.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 27,
+      "temp_min": 18.6,
+      "rainfall_mm": 27.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 28.3,
+      "temp_min": 19.8,
+      "rainfall_mm": 25.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 27,
+      "temp_min": 19.4,
+      "rainfall_mm": 17.2,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 29.3,
+      "temp_min": 20.5,
+      "rainfall_mm": 20.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 28.2,
+      "temp_min": 19.9,
+      "rainfall_mm": 11.7,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 28.4,
+      "temp_min": 19.7,
+      "rainfall_mm": 20,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 29,
+      "temp_min": 21.3,
+      "rainfall_mm": 11.3,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 27.5,
+      "temp_min": 18.5,
+      "rainfall_mm": 13.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 28.3,
+      "temp_min": 20,
+      "rainfall_mm": 17.4,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 29.3,
+      "temp_min": 21,
+      "rainfall_mm": 25.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 27.1,
+      "temp_min": 17.7,
+      "rainfall_mm": 10.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 28.9,
+      "temp_min": 19.7,
+      "rainfall_mm": 22.7,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 29.4,
+      "temp_min": 20.3,
+      "rainfall_mm": 15.4,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 27.8,
+      "temp_min": 19.2,
+      "rainfall_mm": 24.4,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 29.6,
+      "temp_min": 20.5,
+      "rainfall_mm": 14.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 29.6,
+      "temp_min": 21.6,
+      "rainfall_mm": 29.7,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 28.9,
+      "temp_min": 21,
+      "rainfall_mm": 24.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 29.1,
+      "temp_min": 21,
+      "rainfall_mm": 21.7,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 27.9,
+      "temp_min": 18.7,
+      "rainfall_mm": 28.5,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 29.8,
+      "temp_min": 22.1,
+      "rainfall_mm": 26.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 29.6,
+      "temp_min": 21.2,
+      "rainfall_mm": 20.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 29.6,
+      "temp_min": 20.4,
+      "rainfall_mm": 23.1,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 29.6,
+      "temp_min": 21.9,
+      "rainfall_mm": 13.6,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 31.6,
+      "temp_min": 23.9,
+      "rainfall_mm": 7.5,
+      "humidity_pct": 59.1,
+      "district": "Akola"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 27.3,
+      "temp_min": 19.4,
+      "rainfall_mm": 19.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 27.7,
+      "temp_min": 18.3,
+      "rainfall_mm": 11.4,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 29,
+      "temp_min": 21.4,
+      "rainfall_mm": 25.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 33.8,
+      "temp_min": 24.3,
+      "rainfall_mm": 6.6,
+      "humidity_pct": 65.8,
+      "district": "Akola"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 29.5,
+      "temp_min": 21,
+      "rainfall_mm": 24.8,
+      "humidity_pct": 84,
+      "district": "Akola"
+    }
+  },
+  "amravati": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 32.8,
+      "temp_min": 23.9,
+      "rainfall_mm": 1.3,
+      "humidity_pct": 63.9,
+      "district": "Amravati"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 27.3,
+      "temp_min": 19.4,
+      "rainfall_mm": 14.3,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 32.2,
+      "temp_min": 24,
+      "rainfall_mm": 9.5,
+      "humidity_pct": 67.3,
+      "district": "Amravati"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 32.8,
+      "temp_min": 23.8,
+      "rainfall_mm": 1.9,
+      "humidity_pct": 68.2,
+      "district": "Amravati"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 32.2,
+      "temp_min": 23.9,
+      "rainfall_mm": 7.7,
+      "humidity_pct": 65.2,
+      "district": "Amravati"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 32,
+      "temp_min": 22.8,
+      "rainfall_mm": 6.9,
+      "humidity_pct": 62.9,
+      "district": "Amravati"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 34.3,
+      "temp_min": 25.1,
+      "rainfall_mm": 1.2,
+      "humidity_pct": 68.4,
+      "district": "Amravati"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 33.3,
+      "temp_min": 25.6,
+      "rainfall_mm": 3.7,
+      "humidity_pct": 61.3,
+      "district": "Amravati"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 33,
+      "temp_min": 23.8,
+      "rainfall_mm": 0,
+      "humidity_pct": 65.3,
+      "district": "Amravati"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 28.9,
+      "temp_min": 19.6,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 27.8,
+      "temp_min": 19.1,
+      "rainfall_mm": 10.6,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 33,
+      "temp_min": 24.2,
+      "rainfall_mm": 4.2,
+      "humidity_pct": 59.2,
+      "district": "Amravati"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 33.3,
+      "temp_min": 25.7,
+      "rainfall_mm": 0,
+      "humidity_pct": 67.5,
+      "district": "Amravati"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 34,
+      "temp_min": 24.5,
+      "rainfall_mm": 4.3,
+      "humidity_pct": 65.6,
+      "district": "Amravati"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 33.3,
+      "temp_min": 24.9,
+      "rainfall_mm": 6.5,
+      "humidity_pct": 65.6,
+      "district": "Amravati"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 34.3,
+      "temp_min": 25.9,
+      "rainfall_mm": 0,
+      "humidity_pct": 65.5,
+      "district": "Amravati"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 31.9,
+      "temp_min": 23,
+      "rainfall_mm": 1.5,
+      "humidity_pct": 60.3,
+      "district": "Amravati"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 33.9,
+      "temp_min": 25.4,
+      "rainfall_mm": 0,
+      "humidity_pct": 62,
+      "district": "Amravati"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 32.5,
+      "temp_min": 25,
+      "rainfall_mm": 0,
+      "humidity_pct": 63.7,
+      "district": "Amravati"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 29.3,
+      "temp_min": 19.9,
+      "rainfall_mm": 12.9,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 33.8,
+      "temp_min": 26,
+      "rainfall_mm": 5.3,
+      "humidity_pct": 66.6,
+      "district": "Amravati"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 31.8,
+      "temp_min": 23.8,
+      "rainfall_mm": 2.2,
+      "humidity_pct": 69,
+      "district": "Amravati"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 29.6,
+      "temp_min": 20.7,
+      "rainfall_mm": 17.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 28.7,
+      "temp_min": 19.7,
+      "rainfall_mm": 15.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 33.8,
+      "temp_min": 24.4,
+      "rainfall_mm": 5,
+      "humidity_pct": 63.5,
+      "district": "Amravati"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 27,
+      "temp_min": 18.8,
+      "rainfall_mm": 17,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 29.9,
+      "temp_min": 21.2,
+      "rainfall_mm": 14.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 28.9,
+      "temp_min": 19.7,
+      "rainfall_mm": 13.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 33.9,
+      "temp_min": 25.8,
+      "rainfall_mm": 7.8,
+      "humidity_pct": 64.7,
+      "district": "Amravati"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 33.6,
+      "temp_min": 24.1,
+      "rainfall_mm": 5.4,
+      "humidity_pct": 63.3,
+      "district": "Amravati"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 27.3,
+      "temp_min": 18,
+      "rainfall_mm": 11.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 27.1,
+      "temp_min": 19,
+      "rainfall_mm": 18.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 29.4,
+      "temp_min": 20.1,
+      "rainfall_mm": 12.9,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 27.2,
+      "temp_min": 18,
+      "rainfall_mm": 16.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 28.5,
+      "temp_min": 20.2,
+      "rainfall_mm": 26.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 28.6,
+      "temp_min": 19.8,
+      "rainfall_mm": 12.8,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 29.9,
+      "temp_min": 21.9,
+      "rainfall_mm": 26.9,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 27.5,
+      "temp_min": 18.6,
+      "rainfall_mm": 26.5,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 27.3,
+      "temp_min": 19.2,
+      "rainfall_mm": 17.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 27.8,
+      "temp_min": 20,
+      "rainfall_mm": 29,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 29.1,
+      "temp_min": 21.5,
+      "rainfall_mm": 25.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 29.9,
+      "temp_min": 22.1,
+      "rainfall_mm": 10.2,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 28.1,
+      "temp_min": 19.5,
+      "rainfall_mm": 22,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 29.7,
+      "temp_min": 21,
+      "rainfall_mm": 18.8,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 29.5,
+      "temp_min": 21.6,
+      "rainfall_mm": 16,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 29.1,
+      "temp_min": 20.2,
+      "rainfall_mm": 10.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 28.2,
+      "temp_min": 19.4,
+      "rainfall_mm": 20.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 29.6,
+      "temp_min": 20.6,
+      "rainfall_mm": 21,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 28.5,
+      "temp_min": 20.8,
+      "rainfall_mm": 22.6,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 27.7,
+      "temp_min": 19,
+      "rainfall_mm": 24.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 27.2,
+      "temp_min": 18.5,
+      "rainfall_mm": 28.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 27.4,
+      "temp_min": 19.9,
+      "rainfall_mm": 25.6,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 27.5,
+      "temp_min": 19,
+      "rainfall_mm": 12.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 28.7,
+      "temp_min": 19.9,
+      "rainfall_mm": 19.5,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 29.3,
+      "temp_min": 20.6,
+      "rainfall_mm": 15.2,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 29.9,
+      "temp_min": 22.3,
+      "rainfall_mm": 29,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 28.6,
+      "temp_min": 20.5,
+      "rainfall_mm": 24.2,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 29,
+      "temp_min": 20.8,
+      "rainfall_mm": 26.5,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 27.9,
+      "temp_min": 20,
+      "rainfall_mm": 20.6,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 29.5,
+      "temp_min": 21.3,
+      "rainfall_mm": 10.2,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 28.4,
+      "temp_min": 20.8,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 28.4,
+      "temp_min": 19.3,
+      "rainfall_mm": 13.9,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 27.4,
+      "temp_min": 19.4,
+      "rainfall_mm": 11.6,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 28.5,
+      "temp_min": 20.7,
+      "rainfall_mm": 25,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 27.5,
+      "temp_min": 18.2,
+      "rainfall_mm": 10.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 27.6,
+      "temp_min": 19.8,
+      "rainfall_mm": 14.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 27.7,
+      "temp_min": 18.9,
+      "rainfall_mm": 26.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 29.8,
+      "temp_min": 21,
+      "rainfall_mm": 27.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 27.1,
+      "temp_min": 17.7,
+      "rainfall_mm": 20.8,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 28,
+      "temp_min": 18.9,
+      "rainfall_mm": 23.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 29.1,
+      "temp_min": 20.9,
+      "rainfall_mm": 14.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 28.5,
+      "temp_min": 19.1,
+      "rainfall_mm": 18.6,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 27.6,
+      "temp_min": 19.4,
+      "rainfall_mm": 29.2,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 28,
+      "temp_min": 19.1,
+      "rainfall_mm": 13.9,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 27.9,
+      "temp_min": 19,
+      "rainfall_mm": 28.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 29.9,
+      "temp_min": 20.7,
+      "rainfall_mm": 21.9,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 27.9,
+      "temp_min": 19.4,
+      "rainfall_mm": 25.2,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 27.9,
+      "temp_min": 19.2,
+      "rainfall_mm": 15,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 29.6,
+      "temp_min": 20.6,
+      "rainfall_mm": 27.9,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 28.4,
+      "temp_min": 19.6,
+      "rainfall_mm": 28.8,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 27.6,
+      "temp_min": 20,
+      "rainfall_mm": 24.3,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 27.9,
+      "temp_min": 19.8,
+      "rainfall_mm": 14,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 27.7,
+      "temp_min": 18.8,
+      "rainfall_mm": 12.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 29.1,
+      "temp_min": 20.6,
+      "rainfall_mm": 19,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 28.6,
+      "temp_min": 19.9,
+      "rainfall_mm": 26.8,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 28.6,
+      "temp_min": 19.8,
+      "rainfall_mm": 18.3,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 27.4,
+      "temp_min": 19.7,
+      "rainfall_mm": 15.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 28.5,
+      "temp_min": 20.2,
+      "rainfall_mm": 18.7,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 27.5,
+      "temp_min": 18.2,
+      "rainfall_mm": 22.3,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 28.5,
+      "temp_min": 19.9,
+      "rainfall_mm": 28.8,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 28.5,
+      "temp_min": 20.6,
+      "rainfall_mm": 25.5,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 28,
+      "temp_min": 20,
+      "rainfall_mm": 23.2,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 32.2,
+      "temp_min": 24.5,
+      "rainfall_mm": 8.6,
+      "humidity_pct": 62.8,
+      "district": "Amravati"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 28.2,
+      "temp_min": 20.6,
+      "rainfall_mm": 20.6,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 27.4,
+      "temp_min": 19.6,
+      "rainfall_mm": 22,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 28.5,
+      "temp_min": 19.9,
+      "rainfall_mm": 18.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 27.4,
+      "temp_min": 19.3,
+      "rainfall_mm": 13.1,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 28.7,
+      "temp_min": 19.9,
+      "rainfall_mm": 23.4,
+      "humidity_pct": 84,
+      "district": "Amravati"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 32.9,
+      "temp_min": 25,
+      "rainfall_mm": 6.9,
+      "humidity_pct": 59.9,
+      "district": "Amravati"
+    }
+  },
+  "jalna": {
+    "01/06/2026": {
+      "date": "01/06/2026",
+      "iso_date": "2026-06-01",
+      "temp_max": 27.1,
+      "temp_min": 18.7,
+      "rainfall_mm": 11.4,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "02/06/2026": {
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02",
+      "temp_max": 28.5,
+      "temp_min": 19.8,
+      "rainfall_mm": 12.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "03/06/2026": {
+      "date": "03/06/2026",
+      "iso_date": "2026-06-03",
+      "temp_max": 32.7,
+      "temp_min": 25.1,
+      "rainfall_mm": 4.5,
+      "humidity_pct": 59.8,
+      "district": "Jalna"
+    },
+    "04/06/2026": {
+      "date": "04/06/2026",
+      "iso_date": "2026-06-04",
+      "temp_max": 27.9,
+      "temp_min": 19.8,
+      "rainfall_mm": 14.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "05/06/2026": {
+      "date": "05/06/2026",
+      "iso_date": "2026-06-05",
+      "temp_max": 32.3,
+      "temp_min": 24.2,
+      "rainfall_mm": 4.7,
+      "humidity_pct": 64.6,
+      "district": "Jalna"
+    },
+    "06/06/2026": {
+      "date": "06/06/2026",
+      "iso_date": "2026-06-06",
+      "temp_max": 34.4,
+      "temp_min": 25.3,
+      "rainfall_mm": 6,
+      "humidity_pct": 65.6,
+      "district": "Jalna"
+    },
+    "07/06/2026": {
+      "date": "07/06/2026",
+      "iso_date": "2026-06-07",
+      "temp_max": 31.9,
+      "temp_min": 23.7,
+      "rainfall_mm": 2.9,
+      "humidity_pct": 61.9,
+      "district": "Jalna"
+    },
+    "08/06/2026": {
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08",
+      "temp_max": 34,
+      "temp_min": 25.1,
+      "rainfall_mm": 0.3,
+      "humidity_pct": 64.6,
+      "district": "Jalna"
+    },
+    "09/06/2026": {
+      "date": "09/06/2026",
+      "iso_date": "2026-06-09",
+      "temp_max": 32.2,
+      "temp_min": 22.9,
+      "rainfall_mm": 1.5,
+      "humidity_pct": 60.4,
+      "district": "Jalna"
+    },
+    "10/06/2026": {
+      "date": "10/06/2026",
+      "iso_date": "2026-06-10",
+      "temp_max": 33.8,
+      "temp_min": 26.2,
+      "rainfall_mm": 7.9,
+      "humidity_pct": 59.5,
+      "district": "Jalna"
+    },
+    "11/06/2026": {
+      "date": "11/06/2026",
+      "iso_date": "2026-06-11",
+      "temp_max": 33.5,
+      "temp_min": 24.3,
+      "rainfall_mm": 0,
+      "humidity_pct": 64.4,
+      "district": "Jalna"
+    },
+    "12/06/2026": {
+      "date": "12/06/2026",
+      "iso_date": "2026-06-12",
+      "temp_max": 33.8,
+      "temp_min": 26.1,
+      "rainfall_mm": 7.5,
+      "humidity_pct": 63.6,
+      "district": "Jalna"
+    },
+    "13/06/2026": {
+      "date": "13/06/2026",
+      "iso_date": "2026-06-13",
+      "temp_max": 33.3,
+      "temp_min": 25,
+      "rainfall_mm": 0,
+      "humidity_pct": 64.3,
+      "district": "Jalna"
+    },
+    "14/06/2026": {
+      "date": "14/06/2026",
+      "iso_date": "2026-06-14",
+      "temp_max": 33.1,
+      "temp_min": 24.4,
+      "rainfall_mm": 6.6,
+      "humidity_pct": 68,
+      "district": "Jalna"
+    },
+    "15/06/2026": {
+      "date": "15/06/2026",
+      "iso_date": "2026-06-15",
+      "temp_max": 27.2,
+      "temp_min": 18.7,
+      "rainfall_mm": 14,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "16/06/2026": {
+      "date": "16/06/2026",
+      "iso_date": "2026-06-16",
+      "temp_max": 27.4,
+      "temp_min": 19.7,
+      "rainfall_mm": 16.9,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "17/06/2026": {
+      "date": "17/06/2026",
+      "iso_date": "2026-06-17",
+      "temp_max": 28.5,
+      "temp_min": 20.1,
+      "rainfall_mm": 16,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "18/06/2026": {
+      "date": "18/06/2026",
+      "iso_date": "2026-06-18",
+      "temp_max": 32.3,
+      "temp_min": 24.7,
+      "rainfall_mm": 2,
+      "humidity_pct": 60.1,
+      "district": "Jalna"
+    },
+    "19/06/2026": {
+      "date": "19/06/2026",
+      "iso_date": "2026-06-19",
+      "temp_max": 32.3,
+      "temp_min": 23.5,
+      "rainfall_mm": 0.2,
+      "humidity_pct": 60.4,
+      "district": "Jalna"
+    },
+    "20/06/2026": {
+      "date": "20/06/2026",
+      "iso_date": "2026-06-20",
+      "temp_max": 30,
+      "temp_min": 21.4,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "21/06/2026": {
+      "date": "21/06/2026",
+      "iso_date": "2026-06-21",
+      "temp_max": 33.3,
+      "temp_min": 25.4,
+      "rainfall_mm": 7.7,
+      "humidity_pct": 62.4,
+      "district": "Jalna"
+    },
+    "22/06/2026": {
+      "date": "22/06/2026",
+      "iso_date": "2026-06-22",
+      "temp_max": 27.1,
+      "temp_min": 18.8,
+      "rainfall_mm": 16.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "23/06/2026": {
+      "date": "23/06/2026",
+      "iso_date": "2026-06-23",
+      "temp_max": 34.1,
+      "temp_min": 24.6,
+      "rainfall_mm": 3.7,
+      "humidity_pct": 62.3,
+      "district": "Jalna"
+    },
+    "24/06/2026": {
+      "date": "24/06/2026",
+      "iso_date": "2026-06-24",
+      "temp_max": 31.8,
+      "temp_min": 23.9,
+      "rainfall_mm": 0,
+      "humidity_pct": 68.9,
+      "district": "Jalna"
+    },
+    "25/06/2026": {
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25",
+      "temp_max": 33.3,
+      "temp_min": 24.5,
+      "rainfall_mm": 5.1,
+      "humidity_pct": 64.1,
+      "district": "Jalna"
+    },
+    "26/06/2026": {
+      "date": "26/06/2026",
+      "iso_date": "2026-06-26",
+      "temp_max": 34.2,
+      "temp_min": 26.6,
+      "rainfall_mm": 4.7,
+      "humidity_pct": 61.7,
+      "district": "Jalna"
+    },
+    "27/06/2026": {
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27",
+      "temp_max": 32.3,
+      "temp_min": 23.8,
+      "rainfall_mm": 5,
+      "humidity_pct": 67.6,
+      "district": "Jalna"
+    },
+    "28/06/2026": {
+      "date": "28/06/2026",
+      "iso_date": "2026-06-28",
+      "temp_max": 34,
+      "temp_min": 26,
+      "rainfall_mm": 5.9,
+      "humidity_pct": 60.1,
+      "district": "Jalna"
+    },
+    "29/06/2026": {
+      "date": "29/06/2026",
+      "iso_date": "2026-06-29",
+      "temp_max": 33.9,
+      "temp_min": 26,
+      "rainfall_mm": 2.7,
+      "humidity_pct": 68.6,
+      "district": "Jalna"
+    },
+    "30/06/2026": {
+      "date": "30/06/2026",
+      "iso_date": "2026-06-30",
+      "temp_max": 32.6,
+      "temp_min": 24.2,
+      "rainfall_mm": 6.9,
+      "humidity_pct": 62.7,
+      "district": "Jalna"
+    },
+    "01/07/2026": {
+      "date": "01/07/2026",
+      "iso_date": "2026-07-01",
+      "temp_max": 29.5,
+      "temp_min": 21.3,
+      "rainfall_mm": 29.9,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "02/07/2026": {
+      "date": "02/07/2026",
+      "iso_date": "2026-07-02",
+      "temp_max": 27.5,
+      "temp_min": 18.9,
+      "rainfall_mm": 17.9,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "03/07/2026": {
+      "date": "03/07/2026",
+      "iso_date": "2026-07-03",
+      "temp_max": 27.8,
+      "temp_min": 19.5,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "04/07/2026": {
+      "date": "04/07/2026",
+      "iso_date": "2026-07-04",
+      "temp_max": 29.2,
+      "temp_min": 20.6,
+      "rainfall_mm": 28.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "05/07/2026": {
+      "date": "05/07/2026",
+      "iso_date": "2026-07-05",
+      "temp_max": 29.9,
+      "temp_min": 21,
+      "rainfall_mm": 11.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "06/07/2026": {
+      "date": "06/07/2026",
+      "iso_date": "2026-07-06",
+      "temp_max": 28.2,
+      "temp_min": 19.9,
+      "rainfall_mm": 11,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "07/07/2026": {
+      "date": "07/07/2026",
+      "iso_date": "2026-07-07",
+      "temp_max": 29.8,
+      "temp_min": 21,
+      "rainfall_mm": 18.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "08/07/2026": {
+      "date": "08/07/2026",
+      "iso_date": "2026-07-08",
+      "temp_max": 27.8,
+      "temp_min": 18.7,
+      "rainfall_mm": 28.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "09/07/2026": {
+      "date": "09/07/2026",
+      "iso_date": "2026-07-09",
+      "temp_max": 29,
+      "temp_min": 21.1,
+      "rainfall_mm": 18.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "10/07/2026": {
+      "date": "10/07/2026",
+      "iso_date": "2026-07-10",
+      "temp_max": 28.4,
+      "temp_min": 20.1,
+      "rainfall_mm": 21,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "11/07/2026": {
+      "date": "11/07/2026",
+      "iso_date": "2026-07-11",
+      "temp_max": 27.8,
+      "temp_min": 20.1,
+      "rainfall_mm": 19,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "12/07/2026": {
+      "date": "12/07/2026",
+      "iso_date": "2026-07-12",
+      "temp_max": 29.6,
+      "temp_min": 21.2,
+      "rainfall_mm": 26.8,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "13/07/2026": {
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13",
+      "temp_max": 27.1,
+      "temp_min": 19.6,
+      "rainfall_mm": 18.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "14/07/2026": {
+      "date": "14/07/2026",
+      "iso_date": "2026-07-14",
+      "temp_max": 28.6,
+      "temp_min": 20.9,
+      "rainfall_mm": 13,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "15/07/2026": {
+      "date": "15/07/2026",
+      "iso_date": "2026-07-15",
+      "temp_max": 27.5,
+      "temp_min": 19.7,
+      "rainfall_mm": 18.4,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "16/07/2026": {
+      "date": "16/07/2026",
+      "iso_date": "2026-07-16",
+      "temp_max": 29.6,
+      "temp_min": 21.7,
+      "rainfall_mm": 10.8,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "17/07/2026": {
+      "date": "17/07/2026",
+      "iso_date": "2026-07-17",
+      "temp_max": 29.1,
+      "temp_min": 20,
+      "rainfall_mm": 10.9,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "18/07/2026": {
+      "date": "18/07/2026",
+      "iso_date": "2026-07-18",
+      "temp_max": 28.8,
+      "temp_min": 19.9,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "19/07/2026": {
+      "date": "19/07/2026",
+      "iso_date": "2026-07-19",
+      "temp_max": 29.7,
+      "temp_min": 21.3,
+      "rainfall_mm": 23.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "20/07/2026": {
+      "date": "20/07/2026",
+      "iso_date": "2026-07-20",
+      "temp_max": 29.5,
+      "temp_min": 21.4,
+      "rainfall_mm": 27.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "21/07/2026": {
+      "date": "21/07/2026",
+      "iso_date": "2026-07-21",
+      "temp_max": 27.4,
+      "temp_min": 18.6,
+      "rainfall_mm": 28.1,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "22/07/2026": {
+      "date": "22/07/2026",
+      "iso_date": "2026-07-22",
+      "temp_max": 29.9,
+      "temp_min": 21.4,
+      "rainfall_mm": 10.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "23/07/2026": {
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23",
+      "temp_max": 29.9,
+      "temp_min": 22.2,
+      "rainfall_mm": 15.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "24/07/2026": {
+      "date": "24/07/2026",
+      "iso_date": "2026-07-24",
+      "temp_max": 27.3,
+      "temp_min": 18.5,
+      "rainfall_mm": 10.7,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "25/07/2026": {
+      "date": "25/07/2026",
+      "iso_date": "2026-07-25",
+      "temp_max": 29.5,
+      "temp_min": 21.2,
+      "rainfall_mm": 19.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "26/07/2026": {
+      "date": "26/07/2026",
+      "iso_date": "2026-07-26",
+      "temp_max": 28.5,
+      "temp_min": 20.1,
+      "rainfall_mm": 13.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "27/07/2026": {
+      "date": "27/07/2026",
+      "iso_date": "2026-07-27",
+      "temp_max": 29.5,
+      "temp_min": 20.4,
+      "rainfall_mm": 28.4,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "28/07/2026": {
+      "date": "28/07/2026",
+      "iso_date": "2026-07-28",
+      "temp_max": 29.9,
+      "temp_min": 20.5,
+      "rainfall_mm": 28.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "29/07/2026": {
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29",
+      "temp_max": 27.7,
+      "temp_min": 18.4,
+      "rainfall_mm": 20.4,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "30/07/2026": {
+      "date": "30/07/2026",
+      "iso_date": "2026-07-30",
+      "temp_max": 29.6,
+      "temp_min": 20.7,
+      "rainfall_mm": 23.4,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "31/07/2026": {
+      "date": "31/07/2026",
+      "iso_date": "2026-07-31",
+      "temp_max": 28.9,
+      "temp_min": 21.3,
+      "rainfall_mm": 15.8,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "01/08/2026": {
+      "date": "01/08/2026",
+      "iso_date": "2026-08-01",
+      "temp_max": 29,
+      "temp_min": 20.7,
+      "rainfall_mm": 26.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "02/08/2026": {
+      "date": "02/08/2026",
+      "iso_date": "2026-08-02",
+      "temp_max": 28.8,
+      "temp_min": 21.2,
+      "rainfall_mm": 27.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "03/08/2026": {
+      "date": "03/08/2026",
+      "iso_date": "2026-08-03",
+      "temp_max": 28.2,
+      "temp_min": 19.9,
+      "rainfall_mm": 14,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "04/08/2026": {
+      "date": "04/08/2026",
+      "iso_date": "2026-08-04",
+      "temp_max": 27.4,
+      "temp_min": 18.4,
+      "rainfall_mm": 12.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "05/08/2026": {
+      "date": "05/08/2026",
+      "iso_date": "2026-08-05",
+      "temp_max": 29,
+      "temp_min": 20.2,
+      "rainfall_mm": 17.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "06/08/2026": {
+      "date": "06/08/2026",
+      "iso_date": "2026-08-06",
+      "temp_max": 28.6,
+      "temp_min": 19.4,
+      "rainfall_mm": 19.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "07/08/2026": {
+      "date": "07/08/2026",
+      "iso_date": "2026-08-07",
+      "temp_max": 28.1,
+      "temp_min": 18.6,
+      "rainfall_mm": 12.9,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "08/08/2026": {
+      "date": "08/08/2026",
+      "iso_date": "2026-08-08",
+      "temp_max": 29.4,
+      "temp_min": 21.9,
+      "rainfall_mm": 10.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "09/08/2026": {
+      "date": "09/08/2026",
+      "iso_date": "2026-08-09",
+      "temp_max": 27.3,
+      "temp_min": 17.9,
+      "rainfall_mm": 27.8,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "10/08/2026": {
+      "date": "10/08/2026",
+      "iso_date": "2026-08-10",
+      "temp_max": 28.9,
+      "temp_min": 19.7,
+      "rainfall_mm": 16.7,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "11/08/2026": {
+      "date": "11/08/2026",
+      "iso_date": "2026-08-11",
+      "temp_max": 29.3,
+      "temp_min": 20.5,
+      "rainfall_mm": 20.9,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "12/08/2026": {
+      "date": "12/08/2026",
+      "iso_date": "2026-08-12",
+      "temp_max": 28,
+      "temp_min": 18.7,
+      "rainfall_mm": 17.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "13/08/2026": {
+      "date": "13/08/2026",
+      "iso_date": "2026-08-13",
+      "temp_max": 29.2,
+      "temp_min": 20.8,
+      "rainfall_mm": 28,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "14/08/2026": {
+      "date": "14/08/2026",
+      "iso_date": "2026-08-14",
+      "temp_max": 28.8,
+      "temp_min": 20.3,
+      "rainfall_mm": 23.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "15/08/2026": {
+      "date": "15/08/2026",
+      "iso_date": "2026-08-15",
+      "temp_max": 29.7,
+      "temp_min": 21.7,
+      "rainfall_mm": 16,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "16/08/2026": {
+      "date": "16/08/2026",
+      "iso_date": "2026-08-16",
+      "temp_max": 29.7,
+      "temp_min": 20.7,
+      "rainfall_mm": 29,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "17/08/2026": {
+      "date": "17/08/2026",
+      "iso_date": "2026-08-17",
+      "temp_max": 29.7,
+      "temp_min": 21.9,
+      "rainfall_mm": 22.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "18/08/2026": {
+      "date": "18/08/2026",
+      "iso_date": "2026-08-18",
+      "temp_max": 27.2,
+      "temp_min": 19.4,
+      "rainfall_mm": 25,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "19/08/2026": {
+      "date": "19/08/2026",
+      "iso_date": "2026-08-19",
+      "temp_max": 27,
+      "temp_min": 18.4,
+      "rainfall_mm": 12.3,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "20/08/2026": {
+      "date": "20/08/2026",
+      "iso_date": "2026-08-20",
+      "temp_max": 29.7,
+      "temp_min": 20.5,
+      "rainfall_mm": 26.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "21/08/2026": {
+      "date": "21/08/2026",
+      "iso_date": "2026-08-21",
+      "temp_max": 28.1,
+      "temp_min": 18.9,
+      "rainfall_mm": 17.6,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "22/08/2026": {
+      "date": "22/08/2026",
+      "iso_date": "2026-08-22",
+      "temp_max": 28.9,
+      "temp_min": 20.4,
+      "rainfall_mm": 18.8,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "23/08/2026": {
+      "date": "23/08/2026",
+      "iso_date": "2026-08-23",
+      "temp_max": 27.8,
+      "temp_min": 19.3,
+      "rainfall_mm": 14.7,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "24/08/2026": {
+      "date": "24/08/2026",
+      "iso_date": "2026-08-24",
+      "temp_max": 28.5,
+      "temp_min": 19.9,
+      "rainfall_mm": 29.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "25/08/2026": {
+      "date": "25/08/2026",
+      "iso_date": "2026-08-25",
+      "temp_max": 27.3,
+      "temp_min": 19.8,
+      "rainfall_mm": 15.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "26/08/2026": {
+      "date": "26/08/2026",
+      "iso_date": "2026-08-26",
+      "temp_max": 29.3,
+      "temp_min": 21.6,
+      "rainfall_mm": 26,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "27/08/2026": {
+      "date": "27/08/2026",
+      "iso_date": "2026-08-27",
+      "temp_max": 27.8,
+      "temp_min": 20.3,
+      "rainfall_mm": 19.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "28/08/2026": {
+      "date": "28/08/2026",
+      "iso_date": "2026-08-28",
+      "temp_max": 29.2,
+      "temp_min": 20.9,
+      "rainfall_mm": 27.1,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "29/08/2026": {
+      "date": "29/08/2026",
+      "iso_date": "2026-08-29",
+      "temp_max": 29,
+      "temp_min": 19.5,
+      "rainfall_mm": 26.4,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "30/08/2026": {
+      "date": "30/08/2026",
+      "iso_date": "2026-08-30",
+      "temp_max": 28.2,
+      "temp_min": 19,
+      "rainfall_mm": 13.1,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "31/08/2026": {
+      "date": "31/08/2026",
+      "iso_date": "2026-08-31",
+      "temp_max": 28.3,
+      "temp_min": 20.2,
+      "rainfall_mm": 12.7,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "01/09/2026": {
+      "date": "01/09/2026",
+      "iso_date": "2026-09-01",
+      "temp_max": 27.1,
+      "temp_min": 18.7,
+      "rainfall_mm": 17.1,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "02/09/2026": {
+      "date": "02/09/2026",
+      "iso_date": "2026-09-02",
+      "temp_max": 28.6,
+      "temp_min": 19.7,
+      "rainfall_mm": 24,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "03/09/2026": {
+      "date": "03/09/2026",
+      "iso_date": "2026-09-03",
+      "temp_max": 27.5,
+      "temp_min": 19.9,
+      "rainfall_mm": 14.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "04/09/2026": {
+      "date": "04/09/2026",
+      "iso_date": "2026-09-04",
+      "temp_max": 33.9,
+      "temp_min": 25.1,
+      "rainfall_mm": 9.2,
+      "humidity_pct": 62.1,
+      "district": "Jalna"
+    },
+    "05/09/2026": {
+      "date": "05/09/2026",
+      "iso_date": "2026-09-05",
+      "temp_max": 27.3,
+      "temp_min": 18.6,
+      "rainfall_mm": 14.2,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "06/09/2026": {
+      "date": "06/09/2026",
+      "iso_date": "2026-09-06",
+      "temp_max": 29.3,
+      "temp_min": 20.6,
+      "rainfall_mm": 14.5,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    },
+    "07/09/2026": {
+      "date": "07/09/2026",
+      "iso_date": "2026-09-07",
+      "temp_max": 28,
+      "temp_min": 19.5,
+      "rainfall_mm": 22.9,
+      "humidity_pct": 84,
+      "district": "Jalna"
+    }
+  }
+}

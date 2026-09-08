@@ -1,0 +1,2613 @@
+APMC Act Oversight
+Governed under Maharashtra
+
+APMC Regulation & Development
+
+Act, 1963.
+Emergency Desk: 1800-120-8040
+Nashik APMC Node
+Overview
+Farmers Directory
+Verified Buyers & Traders
+Grievances & Arbitration 4
+Price Feeds & Mandis
+Escrow Audits & Settlement
+Reports & Analytics
+System Settings & Policy
+
+Controls
+AgriConnect
+APMC Officer Gateway
+SECURE
+Government of Maharashtra • MSInS Smart India Hackathon AgriMarket Central Oversight Grid Kisan Helpline: 1800-180-1551
+Mandi
+
+Feeds
+
+Live
+11:42:08
+
+AM IST Back: 11 Farmer Profile Step 12 of 12: APMC Officer Dashboard Flow Complete
+STATUTORY REDRESSAL ALERT • MAHARASHTRA APMC ACT SEC 31-B URGENT
+3 grievances approaching statutory 48h SLA deadline in Niphad & Malegaon jurisdictions. Automated
+
+buyer escrow holds enforced under Rule 24.
+Open Priority Docket
+SUPERVISED DIVISION
+Nashik 
+Division (5 
+Districts / 
+34 Mandis)
+Directorate of Agricultural Marketing •
+Nashik Administrative Division • APMC-REG-MH-04A
+Executive Mandi Oversight
+
+& Redressal Grid
+e-NAM
+
+Grid:
+
+Synced
+99.8% 96.2%
+Verified Farmer Base
+4,28,940 +14.2%
+
+MoM
+MahaDBT & PM-Kisan
+
+authenticated cultivators
+Div.
+
+Mandate:
+
+95%
+98.6% Aadhaar &
+
+7/12 Land Synced
+Active Yard Listings
+12,480
+
+Lots • ₹142.8 Cr
+
+Market
+
+Valuation
+84,200 MT
+
+Physical
+
+Produce
+Grade-A
+
+Assayed: 71.4%
+100% e-
+
+Weighed
+Regional
+
+Mandi Price
+
+Trend
+Benchmark price discovery vs
+
+MSP floor threshold
+₹2,600
+₹2,300
+₹2,000
+₹1,700
+18 Nov 19 Nov 20 Nov 21 Nov
++28.6% above
+24 Nov 2024 (Today)
+Nashik: ₹2,380/Q
+Ah'nagar: ₹2,190/Q
+22 Nov 23 Nov 24 Nov
+Inter-district spread:
+
+₹190/Qtl
+Value (₹
+
+Cr)
+Vol
+
+(MT)
+DBT Cleared to Farmer In-Transit Escrow (24h)
+1. Nashik APMC (Lasalgaon /
+
+Pimpalgaon)
+₹34.2 Cr (32,400
+
+MT)
+2. Pune APMC (Gultekdi /
+
+Manchar)
+₹21.8 Cr (19,200
+
+MT)
+3. Ahmednagar (Rahuri /
+
+Kopargaon)
+₹14.6 Cr (13,800
+
+MT)
+4. Jalgaon APMC (Banana & Pulses)
+₹9.8 Cr (10,200 MT)
+₹6.4 Cr (7,100 MT)
+6. Solapur APMC (Pomegranate &
+
+Jowar)
+₹4.8 Cr (5,600
+
+MT)
+Nashik: ₹2,380
+MSP Floor: ₹1,850
+Nashik Mandi premium 
+MSP floor.
+Weighbridge
+
+Telemetry
+214 of 215 Calibrated IoT
+
+Scales
+₹/Quintal
+Nashik Red Onion (Garwa) 7D 30D
+Pune: ₹2,240 Ahmednagar: ₹2,190
+Assayer AI
+
+Validation
+AGMARKNET Conformity
+
+Match
+CROP SEASON
+Kharif MKT 2024 • Nov
+Cleared Escrow
+
+Volume
+₹84.62
+
+Cr
+This
+
+Month
+18,920 Deals settled • 100%
+
+Escrow backed
+Avg Settlement: 1.8
+
+hrs via DBT
+Zero
+
+Default
+Statutory
+
+Arbitration Cases
+RULE
+
+31-B
+14
+
+Active
+Dockets
+3 at critical risk (< 6h
+
+remaining) • 11 on track
+Auto-freeze
+
+Active
+Inspect Risk
+
+Queue
+STATUTORY 5MSP . Dhule APMC BENCHMARK ₹(Chilli 1,850& Cotton)
+Direct DBT
+
+Success
+Zero Gateway Latency via
+
+PFMS
+District Escrow Trade
+
+Clearance
+Cleared DBT payments vs active in
+transit escrow
+TOTAL VAULT IN-ESCROW
+₹91.2 Cr
+99.4%
+Export Division Dossier
+GOVT 1% CESS REALIZED
+₹84.6 Lakh
+Statutory SLA
+
+Compliance
+3 Cases in Urgent Risk
+
+Window
+मराठी | EN | दी
+APMC Divisional
+
+Commissioner •
+
+Nashik
+Dr. Vikram
+
+Patil, IAS
+89.3%
+Real time enforcement docket under Maharashtra APMC Act, Section 31-B. Automated
+
+buyer account freeze on 48 hour SLA expiration.
+Grievance SLA Compliance & Inspector
+
+Assignment
+All
+
+(14)
+At Risk
+
+(3)
+Export Audit Report
+Breached
+
+(1)
+On Track
+
+(10)
+Filter by Grievance ID, Lot #, or Farmer Name...
+All Dispute Categories
+DOCKET ID &
+
+REF
+APMC
+
+JURISDICTION
+CATEGORY
+All APMC Sub-Yards
+TIME
+
+OPEN /
+
+TIMER
+STATUTORY
+
+SLA
+ESCROW
+
+FREEZE
+Showing 5 of 14 priority dockets
+ASSIGNED
+
+ARBITRATOR
+STATUTORY
+
+ORDER
+#GRV-2024-
+
+0419
+Txn: #AC-TXN-
+
+8841 (Lot
+
+#9912)
+Farmer: Eknath
+
+Shinde (Aadhaar:
+
+*3841)
+Nashik
+
+Division
+Dindori Sub Yard
+
+Gate 2
+Assayer Grade
+
+Rejection
+44.8 hrs
+
+open
+03h 12m
+
+left
+At Risk
+
+(<4h)
+₹2,91,000
+Auto-Frozen
+Adv. S. Kulkarni
+Chief Arbitrator
+Summon
+
+Assayer
+#GRV-2024-
+
+0392
+Txn: #AC-TXN-
+
+8720 (Lot
+
+#9780)
+Farmer: Baburao
+
+Gaikwad
+Malegaon
+
+Mandi
+Sayane Grain
+
+Yard
+Tare Weight
+
+Discrepancy
+56.2 hrs
+
+open
+-08h 12m
+
+BREACH
+SLA
+
+Breached
+₹1,84,500
+Trader Account
+
+Locked
+P. Deshmukh
+Mkt Inspector #12
+Issue DBT
+
+Order
+#GRV-2024-
+
+0428
+Txn: #AC-TXN-
+
+8902 (Lot
+
+#10041)
+Farmer: Ramesh
+
+Pawar
+Pune
+
+(Gultekdi)
+Onion Platform 4
+Payment Cleared
+
+Gate Discrepancy
+11.4 hrs
+
+open
+36h 36m
+
+left
+On Track
+₹4,12,000
+Escrow Intact
+V. Jadhav
+APMC Secretary
+Review File
+#GRV-2024-
+
+0431
+Txn: #AC-TXN-
+
+8914 (Lot
+
+#10065)
+Farmer: Santosh
+
+Mhaske
+Lasalgaon
+
+APMC
+Main Trading
+
+Shed B
+Moisture Content
+
+Rebate
+19.0 hrs
+
+open
+29h 00m
+
+left
+On Track
+₹74,500
+Escrow Intact
+M. Chaudhari
+Quality Assayer
+Review File
+#GRV-2024-
+
+0412
+Txn: #AC-TXN-
+
+8810 (Lot
+
+#9894)
+Farmer: Vijay
+
+Thombre
+Ahmednagar
+
+APMC
+Rahuri Market
+
+Yard
+Buyer Acceptance
+
+Refusal
+42.5 hrs
+
+open
+05h 30m
+
+left
+At Risk
+
+(<6h)
+₹1,45,000
+Auto-Frozen
+K. Sonawane
+Sub Registrar
+Summon
+
+Trader
+Official records stamped • Digitally countersigned by Dr. Vikram Patil, IAS (APMC Divisional Commissioner) Page 1 of 3
+Institutional Ecosystem: e NAM Integrated • MahaDBT Portal •
+Maharashtra State Agricultural Marketing Board (MSAMB) • MSInS Startup Maharashtra Cell
+© 2024 AgriConnect. Smart India Hackathon &
+
+Government of Maharashtra. All Rights Reserved.
+Licensed APMC Buyer
+Nashik & Pune Mandi Divisions
+Dashboard
+Browse Marketplace Live
+My Offers & Escrow 4
+Purchase History & Gatepass
+Quality Assayer Reports
+Warehouse & Storage Locator
+Grievance & Dispute
+
+Redressal
+Buyer Profile & Trade Limit
+ACTIVE ESCROW VAULT
+₹18.40 L
+Available Credit: ₹45.0 L
+APMC Buyer Helpdesk: 1800-233-0244
+Rule 31 B Protected Trade
+BUYER JURISDICTION
+Government of Maharashtra • MSInS Smart India Hackathon | AgriMarket Central Oversight Grid
+| Buyer Trade Portal Search produce lots, mandi yards, lot IDs, 
+farmer FPOs...
+⌘K
+Procurement Cycle: Kharif Post Harvest 2024 • Nashik & Pune APMC Hubs • Instant Escrow
+
+Clearance Active
+Buyer Procurement
+
+Dashboard
+Tier 1
+
+Licensed
+Real time lot bidding, AI assayed produce
+
+discovery, and APMC regulated escrow settlements
+
+across certified Maharashtra agricultural nodes.
+Active Offers Sent Lots Won This Month
+6 Lots 18 Deals
+₹14.80 L escrow
+
+pledged
+142 MT weighed at
+
+e Dharaml
++2 this
+
+week
++28% vs
+
+last mo.
+AgriConnect
+Maharashtra APMC Unified Exchange Grid
+Browse Fresh Farm Lots
+AI assayed, APMC weighbridge verified listings directly from verified Maharashtra farmers &
+
+registered FPOs.
+Sort
+
+by:
+Arrival Recency (Latest First)
+Quality & Assayer Grade
+Grade A & 
+Premium 
+(Moisture < 12%)
+Active Criteria: Nashik Division Grade A Assayed Direct Farm Lot (≤ 50 km) Reset Filters
+Showing 4 of 148 active inspected lots
+Grade A Premium
+Commodity / Crop
+All Crops (Onion, 
+Soyabean, 
+Grapes, 
+Pomegranate)
+Grade A (96.4% Conformity)
+District & APMC Yard
+Nashik Hub 
+(Pimpalgaon, 
+Lasalgaon, 
+Dindori)
+Grade A+ (Oil Content 19.8%)
+Deposit Escrow Funds
+Total Spend (FY 2024
+25)
+₹62.45 L
+DBT cleared to 34
+
+farmers
+Avg ₹2,240 /
+
+Qtl
+e-NAM Sync: Active
+Kisan Helpline: 1800-180-1551 | English
+3
+APMC Lic #N 819
+Real Time Mandi Engine: 34 Active APMC
+
+Nodes
+APEDA Export Grade A
+Post Procurement Demand / RFQ
+Proximity Radius
+Wit
+hin 
+50 
+km
+Verified Trust Level
+Tier 1 Score 94/100
+Priority Yard
+
+Pass
+Zero
+
+Defaults
+AgroFresh Supply Chain Ltd
+• Verified
+Search
+#LOT-NSK 4920
+Nashik Red Onion
+Garwa High Storage Variety •
+120 Qtl
+ASKING RATE
+₹2,380 /
+Mandi
+
+Modal
+Qtl ₹2,250 /
+Qtl
+Santosh R. Shinde • Niphad Taluka
+Tier 1 Farmer
+
+(87/100)
+18 km •
+
+Pimpalgaon
+Harvested 2d ago • 11.2%
+
+Moisture (Lab Certified)
+Place Bid / Counter Offer
+View Assayer Certificate
+#LOT-AHM 3184
+Soyabean (JS 335)
+Machine Cleaned FAQ • 85 Qtl
+Govt MSP
+₹4,892 /
+Qtl Qtl
+Balasaheb Thorat • Sangamner FPO
+Verified FPO
+
+(92/100)
+42 km •
+
+Rahuri Yard
+Machine Cleaned • 9.8%
+
+Moisture
+Place Bid / Counter Offer
+View Assayer Certificate
+ASKING RATE
+₹4,650 /
+#LOT-NSK 8812
+Table Grapes
+
+(Thompson)
+Cold Chain Pre cooled • 40 Qtl
+Mandi
+
+Modal
+Qtl ₹4,300 /
+Qtl
+Eknath Shinde • Dindori Sub Yard
+GlobalGAP
+
+(95/100)
+24 km •
+
+Dindori Cold
+Brix 18°+ • Residue Tested
+
+Clean
+Place Bid / Counter Offer
+View Assayer Certificate
+ASKING RATE
+₹4,500 /
+#LOT-SLP 7201
+Pomegranate
+
+(Bhagwa)
+Export Packhouse Sorted • 60
+Qtl
+Mandi Modal
+₹6,900 /
+Qtl Qtl
+Ramesh Gaikwad • Solapur Cluster
+Top Producer
+
+(89/100)
+65 km •
+
+Solapur
+
+Yard
+Avg weight 250g+ • Zero
+
+blemishes
+Place Bid / Counter Offer
+View Assayer Certificate
+ASKING RATE
+₹7,200 /
+My Active Offers &
+
+Negotiation Threads
+Txn Ref /
+
+Lot ID
+Commodity &
+
+Volume
+Nashik Red Onion
+120 Qtl (Grade A
+Garwa)
+Soyabean (JS 335)
+95 Qtl (Machine
+Cleaned)
+Table Grapes
+
+(Thompson)
+40 Qtl (Cold Chain
+Export)
+Farmer
+
+Counterparty
+Santosh R.
+
+Shinde
+Niphad • 87/100
+Trust
+Balasaheb
+
+Thorat
+Sangamner FPO •
+92/100
+Eknath Shinde
+Dindori • 95/100
+Trust
+My Offer
+
+Price
+₹2,350 /
+
+Qtl
+Total: ₹2.82 L
+₹4,620 /
+
+Qtl
+Total: ₹4.38 L
+₹4,500 /
+
+Qtl
+Total: ₹1.80 L
+All Offers (4) Pending Response (1)
+Awaiting Escrow (1)
+Asking /
+
+Counter
+Countered by
+
+Farmer
+₹2,380 /
+
+Qtl
++₹30 / Qtl diff Expires in 4h 12m
+₹4,650 /
+
+Qtl
+Pending Farmer
+
+Review
+Original
+
+Asking Sent 2 hours ago
+₹4,500 /
+
+Qtl Offer Accepted!
+Agreed &
+
+Confirmed
+Escrow Lock Pending
+Countered (1)
+#AC
+TXN-
+
+8841
+Lot #LOT-
+
+NSK-4920
+#AC
+TXN-
+
+8845
+Lot #LOT-
+
+AHM 3184
+#AC
+TXN-
+
+8830
+Lot #LOT-
+
+NSK-8812
+4 Deals In
+
+Progress
+Status & Lifespan
+Accept Counter
+
+(₹2,380)
+Fund Escrow
+
+(₹1.80 L)
+Modify Offer
+Escrow Action
+#AC
+TXN-
+
+8819
+Lot #LOT-
+
+SLP 7201
+Ramesh
+
+Gaikwad
+₹7,150 /
+
+Qtl Pomegranate
+
+(Bhagwa) Solapur • 89/100 Escrow ₹3.57
+
+L Held 50 Qtl (First Transit) Trust
+Covered under APMC Rule 31 B Statutory Trade Arbitration Safeguard
+₹7,150 /
+
+Qtl
+Matched &
+
+Sealed
+Weighment
+
+Check
+At Solapur Gate 2
+View Full Purchase History & Invoices
+Track
+
+Gatepass
+Maharashtra APMC Electronic Escrow Protection STATUTORY
+Payouts to farmers are released only upon automated weighbridge slip and AI
+
+Assayer match confirmation at the Mandi gatepass. All accepted bids constitute
+
+legally binding purchase contracts under Maharashtra Agricultural Produce
+
+Marketing (Regulation) By Laws.
+Read By-Laws Arbitration Desk
+Institutional Links:
+Maharashtra • MSInS Startup Cell
+e NAM • MahaDBT • APMC © 2024 AgriConnect Maharashtra, Department of Agriculture & Smart India
+
+Hackathon. Terms of Agricultural Trade • APMC By Laws
+Government of Maharashtra • MSInS AgTech Hackathon | Kisan Call Center Helpline: 1800-180-1551 (Toll Free) मराठी / English
+Search mandi lots, commodities (Soybean, Cotton, Tur), assaying grade, or APMC yard...
+Buyer Portal / Browse Marketplace / Real time Farm Produce Exchange
+BUYER OPERATIONS
+e NAM Node: Pimpalgaon APMC Live MSAMB Digital Gateway 4.2
+Dashboard
+Active Inspected Lots Available Volume Live APMC Mandi Nodes
+Browse Marketplace 148 Lots 1,240 MT 34 Mandis
+My +18 boarded today Across 14 District Pods Zero Latency e NAM Feed Offers & Escrow 4
+Purchase History & Gatepass
+Quality Assayer Reports
+Warehouse & Storage
+
+Locator
+Grievance & Dispute
+
+Redressal
+Buyer Profile & Trade Limit
+/ दी e NAM Live Connected
+Escrow Guarantee
+Rule 31-B
+
+Protected
+MSAMB 100% Fund Hold
+Active Escrow Vault
+₹18.40 L
+Limit: ₹50.00 L MSAMB Verified
+AgriConnect
+Unified APMC Digital Yard
+Filter
+
+Produce
+
+Lots
+Reset
+
+All
+Digital FPO
+
+Pooling
+Aggregated high
+volume lots from
+
+verified Farmer
+
+Producer
+
+Organizations (FPOs)
+
+with pooled gatepass
+
+and bulk discount
+
+rates.
+Consolidated dispatch
+
+eligible
+CROP VARIETY
+
+(MAHARASHTRA FOCUS)
+Red Onion (Nashik
+
+Garwa) 42
+Soyabean (JS-335
+
+& 9305) 31
+Table Grapes
+
+(Thompson) 24
+Pomegranate
+
+(Bhagwa) 18
+Cotton (Long
+
+Staple) 15
+Sharbati Wheat
+
+(Maha 147) 18
+DISTRICT APMC MANDI
+
+YARDS
+Nashik APMC Network
+Pimpalgaon Baswant,
+
+Lasalgaon, Kalwan
+Pune APMC Yard
+Gultekdi Market Yard, Junnar,
+
+Manchar
+Ahmednagar APMC
+Rahuri Main, Sangamner,
+
+Kopargaon
+Nashik & Pimpalgaon Red Onion & 
+Soyabean
+Sort: Arrival Recency (Newest First)
+Active: Nashik & Ahmednagar Yards Grade A+ & Grade A FPO Pooled Lots Active
+Trust Score 85+ Clear All
+12 new harvest lots boarded this morning across Pimpalgaon &
+
+Rahuri yards. AI Assayer spectral purity certificates available for
+
+instant 1-click verification.
+Grade A
+
+(96.4% FAQ)
+Harvested
+
+2d ago
+APEDA
+
+Export
+
+Grade A
+0 2 C Cold
+
+Pre
+cooled
+Nashik Red Onion
+Table Grapes
+
+(Thompson)
+#LOT-
+
+NSK-
+
+4920
+Variety: Garwa
+
+High Storage •
+Seedless Export
+
+Quality
+#LOT-
+
+NSK-8812 •
+ASKING
+
+PRICE
+₹2,380 
+Qtl
+/ Qtl (12
+MT)
+Mandi Modal:
+
+₹2,250
+MSP Floor:
+
+₹1,850
+SS Santosh R. Shinde
+Niphad, Nashik
+
+(18 km)
+87/100
+MOISTURE
+11.2%
+Place Bid / Counter
+View AI Assayer Certificate
+AVG
+
+CALIBER
+55 mm
+LOT QUANTITY
+120 
+SPROUTING
+0.0%
+
+Clean
+Digital Pooled
+
+Lot • 14
+
+Farmers
+Soyabean
+
+(Yellow)
+JS-335 Machine
+
+Cleaned •
+Grade
+
+A+
+#POOL-
+
+AHM-9102
+ASKING PRICE
+
+(BULK)
+₹4,620 /
+Qtl (45 MT)
+₹80/Qtl
+
+volume
+
+discount
+
+applied
+e
+Dharamkanta
+
+Synced
+FPO Sangamner Taluka Agro FPO
+Rahuri Mandi
+
+Hub, Ahmednagar
+
+(42 km)
+92/100
+MOISTURE
+9.5%
+Place Pooled Counter
+
+Bid
+View 14 Farmer Share
+
+Manifest
+FOREIGN
+
+MATTER
+0.8%
+TOTAL BULK
+450 Qtl
+OIL
+
+CONTENT
+19.8%
+
+High
+APMC Lic #N 819 • Grade A Buyer
+AgroFresh Supply Chain Ltd
+ASKING PRICE
+₹4,500 /
+Qtl MT)
+Mandi
+
+Modal:
+
+₹4,300
+GlobalGAP
+
+Compliant
+ES Eknath B. Shinde
+Dindori Grape
+
+Belt, Nashik (24
+
+km)
+95/100
+SUGAR
+
+(BRIX)
+18.4
+High
+Place Bid / Counter
+Phytosanitary & Lab Pass
+Govt APMC Certified
+BERRY
+
+SIZE
+18 mm+
+LOT
+
+QUANTITY
+40 Qtl (4
+RESIDUE
+
+TEST
+0.0 PPM
+
+Pass
+AI ASSAYER GRADE
+Grade
+
+A+
+
+(Export)
+Grade A
+
+(FAQ)
+Grade B
+
+(Process)
+Grade C
+
+(Local)
+PRICE RANGE (₹ /
+
+QUINTAL)
+₹1,500 
+₹8,500
+Below
+
+MSP
+At
+
+Mandi
+
+Modal
+Export
+
+Tier
+LOT BATCH VOLUME
+20 50 Qtl
+50 - 200 Qtl
+Bulk >200 Qtl
+FARMER KYC &
+
+VERIFICATION
+Tier 1 Verified (Trust
+
+>85)
+MahaDBT / 7/12
+
+Land Synced
+Cold Storage Linked
+
+Lots
+Solapur APMC Yard
+Pandharpur Sub yard,
+
+Kurduwadi
+Jalgaon APMC
+
+Network
+Raver, Chopda, Bhusawal
+Grade A
+
+Premium
+Packhouse
+
+Graded
+Pomegranate
+
+(Bhagwa)
+Deep Red
+
+Export Arils
+#LOT-SLP-
+
+7201 •
+ASKING PRICE
+₹7,200 /
+Qtl
+Qtl (6
+MT)
+Mandi
+
+Modal:
+
+₹6,900
+Direct Farm
+
+Dispatch
+RG Ramesh Gaikwad
+Pandharpur,
+
+Solapur Yard (65
+
+km)
+89/100
+FRUIT
+
+MASS
+260g
+
+Avg
+Place Bid / Counter
+View Packhouse Spectral
+
+Scan
+ARIL
+
+COLOR
+Deep
+
+Ruby
+LOT
+
+QUANTITY
+60 
+RIND
+
+DEFECT
+<1%
+
+Clean
+Digital Pooled
+
+Lot • 8 Farmers
+FAQ
+1
+Sharbati Wheat
+
+(Golden)
+Grade FAQ 1
+
+Cleaned
+#POOL-
+
+PUN-3419 •
+ASKING
+
+PRICE
+₹2,950
+/ Qtl MT)
+Mandi
+
+Modal:
+
+₹2,920
+Pre-fumigated
+
+Bagged
+JPC Junnar Farmers Agro Co-Op
+Junnar Mandi
+
+Yard, Pune (52
+
+km)
+90/100
+MOISTURE
+10.1%
+Place Pooled Counter
+
+Bid
+View Collective Gatepass &
+
+Weight
+PROTEIN
+12.8%
+
+High
+320 
+TOTAL POOLED
+Qtl (32
+LUSTER
+
+TEST
+Natural
+
+Amber
+Grade A
+
+Fresh
+
+Harvest
+Plucked
+
+Today 06:00
+
+AM
+Green Chilli (G 4)
+Dark Green
+
+Spicy Long
+#LOT-JAL-
+
+5510 •
+ASKING
+
+PRICE
+₹3,400 / Qtl (3.5
+Qtl MT)
+Mandi Modal:
+
+₹3,300
+Crates Pre
+packed
+DP Dnyaneshwar Patil
+Raver APMC Yard,
+
+Jalgaon (78 km)
+86/100
+8-10 cm
+LENGTH
+Place Bid / Counter
+View Live Yard Video
+
+Sample
+PUNGENCY
+SHU
+
+45,000
+35 
+LOT
+
+QUANTITY
+TEXTURE
+Firm /
+
+Crisp
+Showing 1 6 of 148
+
+Verified Mandi Lots
+APMC Trade Protection Guarantee
+
+(Section 31 B)
+All transactions executed on this gateway are legally
+
+binding under the Maharashtra Agricultural Produce
+
+Marketing (Development and Regulation) Act. Escrow
+
+funds are secured in MSAMB treasury vaults and
+
+released only upon digital weighbridge certification and
+
+physical e gatepass clearance.
+1 2 3 ... 25
+Read APMC Escrow Bylaws
+Next Mandi Auction
+
+Reset: 14:00 IST
+© 2024 AgriConnect • Maharashtra State Agricultural Marketing
+
+Board (MSAMB)
+Department of Agriculture, Government of Maharashtra. All rights reserved.
+APMC Mandi Bylaws
+Kisan Call Center
+e NAM Guidelines Escrow Settlement Policy
+Active Escrow Vault
+₹18.40 L
+Trade Cap: ₹50.00 L
+MSAMB Verified Buyer APMC
+Dashboard
+Browse Marketplace
+My Offers & Escrow 4
+Purchase History &
+
+Gatepass
+Quality Assayer Reports
+Warehouse & Storage
+
+Locator
+Grievance & Dispute
+Buyer Profile & Limit
+AgriConnect
+Buyer Trade Portal
+36.8%
+Search mandi lots, commodities 
+(e.g., Soybean Yellow, Chana), or 
+APMC yard...
+Govt. of Maharashtra • e-NAM Enabled English
+Buyer Portal Browse Marketplace Fresh Produce Lots Lot #LOT-NSK 4920 (Nashik Red Onion) Back to Browse Marketplace
+3 Active Counter-Bids in Progress e-NAM Synced Gatepass Ready APMC Curing Shed 4 • Pre Inspected Lot
+Listing updated 18 mins ago
+Rabi Cured Crop Lot #LOT-NSK 4920
+Nashik Red Onion (Garwa Variety)
+High-storage indigenous Rabi harvest with thick skin protection, cured under
+
+regulated ventilation.
+Farmer Asking Price
+/ Quintal
+Grade A (FAQ) • 96.4% Conformity
+APMC Weighbridge: 120 Qtl (12 MT)
+Harvested 2 days ago • Pimpalgaon APMC Yard Shed 4
+Produce
+₹23.80 per kg • Total: ₹2,85,600
+₹2,380
+NIR Spectral Weighbridge e-Dharaml Stamp
+Kisan & APMC Helpline
+1800-180-1551
+360 Yard Video
+Submit Binding Offer
+Regulated under Maharashtra APMC Act
+
+Rule 31 B
+Your Offer Price per Quintal
+
+(₹)
+Fair
+
+Bracket
+₹ 2320
+₹60 below asking • Within fair trade
+
+APMC benchmark
+Quantity to Purchase
+
+(Quintals)
+Lot Max: 120
+
+Qtl
+Entire Lot (120
+
+Qtl)
+Partial Split (Min
+
+40 Qtl)
+120
+Delivery / Logistics Preference
+Farmer Asking Rate Mandi Modal Rate
+₹2,380 / Qtl
+Lot Total: ₹2,85,600
+Buyer Arranged Self-Pickup
+Pimpalgaon APMC Yard Shed 4 (Zero
+
+freight cost)
+AgriConnect Verified APMC
+
+Fleet
+Estimated: ₹3,600 / 12 MT to your
+
+depot
+₹2,250 / Qtl
+High: ₹2,420 / Qtl
+Direct Farmgate Dispatch
+Pickup directly from Niphad farmer
+
+warehouse
+APMC Modal
+
+(Pimpalgaon)
+₹2,250 +₹130
+
+(Quality
+
+Premium)
+Reflects cured storage
+
+grade premium
+Govt MSP Baseline
+₹1,850 28.6%
+
+Above MSP
+Minimum Support Price
+
+advisory
+Lot Net Tonnage
+120
+
+Qtl
+(12.0 Metric
+
+Tons)
+240 standard APMC bags
+Physical Lot Specifications
+Packaging Material
+Standard 50 kg APMC
+
+Jute Gunny Sacks (240
+
+bags)
+Commodity & Cultivar
+Red Onion (Garwa High
+Storage Cultivar)
+Lot Origin & Yard
+Pimpalgaon Baswant
+
+APMC Yard, Nashik
+Approx 18 km from your
+
+registered regional depot
+Harvest & Curing Date
+22 Nov 2024 (Harvested 2
+
+Days Ago)
+Produce Subtotal (120 Qtl
+
+@ ₹2,320) ₹2,78,400
+APMC Mandi Cess (1.0%) ₹2,784
+Weighbridge & Portico Fee ₹450
+Total Escrow
+
+Lock ₹2,81,634
+Escrow Vault:
+
+₹18.40 L
+Sufficient
+Offer Validity: Expires in 24 Hours
+
+(reverts automatically)
+Submit Offer & Lock
+
+Escrow (₹2,81,634)
+Accept Direct Asking
+
+Price (₹2,380 / Qtl)
+AI Quality Grading Certificate
+NIR Hyperspectral Assayed & Computer Vision Batch Sampled
+Grade A Verified
+farmer DBT only after digital weighbridge
+
+confirmation & APMC physical gatepass
+
+signoff.
+ 100% Escrow Protection. Funds released to
+96.4%
+AI Conformity
+Alternative Lots Nearby
+Moisture Content
+11.2%
+Safe storage threshold
+
+(< 12.0%)
+Average Caliber /
+
+Size
+55 mm
+Uniform Medium Large
+
+bulb
+Sprouting Rate
+0.0% Clean
+Zero premature
+
+shooting
+Nashik Red Onion
+
+(Garwa)
+Lot #LOT NSK 4932 • 80
+
+Qtl • Grade A
+₹2,340/Qtl
+Skin Color & Luster
+Ruby Crimson
+3 ply tight outer skin
+
+layer
+Defect / Rot Rate
+0.8%
+Well inside Grade A
+
+max limit (< 3.0%)
+Total Dry Matter
+13.8%
+High shelf life potential
+
+(6+ Mos)
+Farmer: Dilip Patil (Trust
+
+84)
+View Lot
+22 km
+
+away
+Lasalgaon Red
+
+Onion
+Lot #LOT LSG 5104 • 150
+
+Qtl • Grade A+
+₹2,450/Qtl
+Digitally certified by Dr. R. Kulkarni
+APMC Certified Assayer Lic #MH ASY 104 • e NAM Integrated Verification Hash:
+
+#7A9F 2024
+Lasalgaon Farmer
+
+Producer Org
+View Lot
+28 km
+
+away
+Download Lab Certificate (PDF) View NIR Spectral Scan
+Soyabean (JS-335
+
+Cleaned)
+Lot #LOT AHM-3184 • 85
+
+Qtl • Grade A+
+₹4,650/Qtl
+Santosh Rambhau Shinde Tier 1 Progressive Farmer
+Niphad, Nashik District, Maharashtra (18 km from Pimpalgaon
+
+APMC)
+Govt KYC & 7/12 Synced
+87 Trust Score 87/100
+Sangamner Agro FPO
+View Lot
+42 km away
+Lots Fulfilled
+42 Lots
+Fulfillment Rate
+98.4%
+Trade Disputes
+0 Active
+Portal Tenancy
+3+ Years
+MahaDBT Verified PM Kisan Aadhaar Linked Cold Chain Trained
+View Full Farmer Profile Message Farmer via AgriConnect
+Delivery, Storage & Gatepass Clearance
+Yard Storage Condition Same-Day Dispatch & Electronic
+
+Pass Stored under 
+ventilated curing
+
+shed, pre-inspected 
+by APMC
+
+yard inspector. Zero 
+exposure
+
+to ground humidity.
+APMC Electronic Gatepass
+
+generated automatically 
+upon
+
+escrow confirmation. Ready
+
+for immediate loading at 
+Shed
+
+#4.
+महारा शासन • GOVERNMENT OF MAHARASHTRA MSInS Smart India Hackathon Hub
+APMC OFFICER GRID
+Back to Grievance & Arbitration Dockets
+APMC ADMINISTRATION
+APMC Act Sec. 31 B Verified Dossier
+Overview
+Farmers Directory
+Verified Buyers & Traders
+Grievances & Arbitration 4
+Price Feeds & Mandis
+Escrow Audits & Settlement
+Reports & Analytics
+System Settings
+AgriMarket Central Oversight Grid Kisan Helpline: 1800-180-1551 (Toll Free)
+Node: Nashik Central APMC #MH NSK-04
+/ Grievances & Arbitration / Case Dossier #GRV 2024-0419
+Print Form 14 Certified Copy
+AgriConnect
+Maharashtra Agricultural Produce Market Committee Directorate
+Disputed Escrow Sum
+₹2,91,000
+100% Frozen in MSAMB Nodal
+DOCKET #GRV 2024-0419 Quality & Assayer Dispute
+Under Sub Divisional Hearing & Inspection
+Produce Lot Rejection & Escrow Lien Arbitration
+Deal Ref: #AC-TXN 8841 • Produce Lot: #LOT-NSK-4920 (Nashik Red Onion, 120 Qtl) •
+
+Mandi Node: Pimpalgaon Central Yard #MH-NSK-04
+Contract Value
+₹2,81,634
+120 Qtl @ ₹2,320/Qtl
+Tested Moisture
+11.2% FAQ Grade A Pass
+Buyer claims >14.0%
+APMC Divisional Commissioner
+Dr. Vikram Patil, IAS
+Lead Arbitrator
+Adv. S. Kulkarni
+Chief Mandi Arbitrator
+STATUTORY 48H SLA
+
+WARNING
+03h 12m Left
+Lodged: 28 Nov 2024,
+
+09:30 AM (Open 44h 48m)
+English
+Nashik APMC Node Secure
+Governed under Maharashtra APMC
+
+Regulation & Development Act, 1963
+Audit Hash: #MH 882A Active 24/7
+Case Summary & Statutory Rationale
+Buyer AgroFresh rejected the secondary batch of 40 Quintals Nashik Red
+
+Onion post-transit to their off-site packhouse, alleging excess 14.0% core
+
+moisture. Complainant Santosh Shinde has furnished government-certified
+
+NIR hyperspectral assayer documentation registering 11.2% moisture at the
+
+APMC Mandi gate. The buyer unilaterally withheld the balance payment of
+
+₹2,91,000 across the entire shipment. Escrow funds were immediately placed
+
+in statutory hold under Rule 31-B.
+SS
+Aadhaar: XXXX XXXX 3841 •
+Niphad, Nashik
+Land Holding (7/12
+
+e Record):
+4.8 Hectares
+
+(Gut #142/3)
+Platform Mandi
+
+History:
+42 lots fulfilled • 0
+
+defaults
+DBT Bank
+
+Settlement Link:
+SBI Pimpalgaon
+
+(A/C: ...9021)
+All 120 Qtl cleared gatepass
+
+weighment at 06:14 AM, 28 Nov
+Litigant Profiles & Trade
+
+Financials
+COMPLAINANT FARMER
+Santosh Rambhau
+
+Shinde
+87/100 Trust Score
+AF
+Corporate Buyer • Authorized
+Rep: Rajesh Mehta
+APMC Pledged
+
+Security Deposit:
+₹50,00,000
+
+(Solvent)
+Current Dispute
+
+Ratio:
+3.2% (2 open
+
+arbitrations)
+Escrow Lien
+
+Enforcement:
+Notice Issued
+
+28 Nov
+Refused batch 2 (40 Qtl) post un
+loading without APMC assayer
+COUNTERPARTY TRADER
+AgroFresh Supply
+
+Chain Ltd
+Grade A License #N-819
+APMC Reg. 1963 Sec. 12 Sub
+record
+Statutory Arbitrator
+Presiding Hearing Officer:
+Adv. S. Kulkarni (Chief Mandi 
+Arbitrator Assigned)
+Adv. S. Kulkarni
+Hearing Courtroom #2 •
+Pimpalgaon
+Escrow Lien
+
+Monitor
+SECURED LIEN TOTAL
+₹2,91,000.00
+State Nodal A/C #MSAMB ESC 4902
+Lien Legal Basis: APMC Reg. Rule 31-B
+Forfeiture Clock: 03h 12m remaining
+Auto Action on SLA: Tribunal Forfeiture
+Funds cannot be released without
+
+APMC Officer Form 14 Decree.
+FROZEN
+Mandi Evidence & Assayer Records
+Pimpalgaon Yard Shed #4 • 28 Nov 06:45 AM
+e-NAM Synced
+NIR Hyperspectral
+
+Assayer Cert #MH ASY
+104
+Certified by Dr. R. Kulkarni (Senior
+
+APMC Bio-Assayer).
+Moisture Probe Check: Passed
+Physical Lot Inspection Photo (Lot
+
+#LOT-NSK 4920) Core
+
+Moisture:
+11.2% (Norm:
+
+<12.0%) Geo-tagged photographic record
+
+verified by Mandi Inspector P.
+
+Deshmukh during electronic lot
+
+tagging.
+Average
+
+Caliber:
+55.4 mm (Grade A
+
+FAQ)
+Sprouting / Rot: 0.0% (Clean Batch)
+Download Stamp PDF Verify DSC GPS Authenticated View Full Res
+4 Verified Exhibits
+Officer
+
+Enforcement
+
+Orders
+JUDICIAL
+
+POWERS
+Execute statutory decree under the
+
+Maharashtra APMC Act. Direct actions
+
+immediately bind escrow clearing.
+Issue Direct DBT Order
+
+(Release ₹2.91L to Farmer)
+Summon Quality Assayer
+
+for Deposition
+Summon Licensed Trader
+
+(Sec. 43 Warning)
+Issue Final APMC Form 14
+
+Settlement Decree
+Escalate to District Magistrate Tribunal
+QR Verified
+Weighbridge Slip #WB
+DIN 892
+Mandi Terminal 3 Gross & Tare
+
+automated scales.
+Gross Vehicle Weight: 15,820 kg
+Tare Truck Weight: 3,780 kg
+Net Produce
+
+Weight:
+120.4 Qtl (Net Billed
+
+120.0 Qtl)
+View Weigh Slip Trace Sensor Log
+Contested
+Buyer Rejection Memo
+
+#AR-REJ 44
+Submitted by AgroFresh Depot
+
+Inward Quality Gate.
+Buyer Claimed
+
+Moisture:
+14.3% (Non
+conforming)
+Refusal
+
+Volume:
+40 Quintals (Batch
+
+2)
+Inspection
+
+Method:
+Uncalibrated
+
+Handheld Meter
+Inspect Memo Deposition Request
+Maharashtra APMC Act, 1963
+
+Legal Authority
+Decisions rendered via this grid
+
+are enforceable under Sections
+
+31-B, 40, and 43. Failure of the
+
+buyer to honor the decree within
+
+24 hours results in automatic
+
+trading license suspension and
+
+direct attachment of the
+
+₹50,00,000 security deposit.
+Legal Redressal
+
+Desk: Ext 4
+Toll-Free 1800
+233-0244
+Statutory Audit Trail & Case
+
+Minutes
+SYSTEM AUTOMATED Formal Grievance Lodged & Escrow Lien Triggered
+28 Nov 2024 • 09:30 AM
+Complainant Farmer Santosh Shinde submitted emergency rejection claim
+
+under APMC Rule 31-B. Automated lien applied: ₹2,91,000 secured into
+
+APMC State Nodal Escrow Account #MSAMB-ESC 4902. 48-hour statutory
+
+resolution timer activated.
+Chronological Ledger •
+
+Immutable
+MANDI INSPECTOR P. Deshmukh • Physical Site Inspection
+28 Nov 2024 • 11:15 AM
+Inspected the un-discharged 40 Quintal bags at AgroFresh regional
+
+consolidation depot. Lot tags were found intact with original APMC
+
+holographic seals uncompromised. Ordered immediate official joint re
+sampling with certified assayer.
+CHIEF ASSAYER Dr. R. Kulkarni • Re Testing Protocol
+29 Nov 2024 • 02:40 PM
+Completed five-point core penetration sampling across 10 random bags in
+
+the disputed 40 Qtl lot. Calibrated moisture reading: 11.4%. Result firmly
+
+complies with Maharashtra APMC Onion FAQ standard (≤12.0%). Handheld
+
+readings used by buyer declared invalid.
+BUYER LEGAL COUNSEL AgroFresh Rep Rajesh Mehta
+30 Nov 2024 • 08:15 AM
+Contesting re-test parameters. Claiming transport vehicle tarp suffered
+
+leak during overnight transit, resulting in dew accumulation. Requesting
+
+15% price renegotiation discount before clearing final settlement.
+Record Official APMC Order /
+
+Minute
+Public Regulatory
+
+Docket
+Internal In Camera
+
+Note
+Enter judicial observation, interim directive, or assayer witness requisition...
+Attach Certified Record Voice Dictation Post Official Entry
+ACTIVE ESCROW VAULT
+₹18.40 L
+Available Credit: ₹45.0 L
+Rule 31 B Protected Trade
+APMC Buyer Helpdesk: 1800 233 0244
+Buyer Jurisdiction
+Licensed APMC Buyer (Nashik & Pune
+
+Mandi Divisions)
+Dashboard
+Browse Marketplace LIVE
+My Offers & Escrow 4
+Purchase History & Gatepass
+Quality Assayer Reports
+Premium Sourcing
+
+Analytics PRO
+Warehouse & Storage Locator
+Grievance & Dispute
+Buyer Profile &
+
+Verification
+Government of Maharashtra • MSInS Smart India Hackathon • AgriMarket Central Oversight Grid e NAM Sync: Active
+Search mandi lots, commodities, farmers, or APMC yards...
+Buyer Portal / Account Settings / Buyer Profile & Verification Dossier
+APMC Sec 29 Licensed Institutional Buyer FULLY COMPLIANT
+FY 2024-25 ACTIVE
+Kisan Helpline: 1800-180-1551 (Toll Free) English
+3
+Step 13 • Buyer Credentialing & Verification Dossier
+AgriConnect Buyer Trade Portal
+Maharashtra APMC Unified Exchange Grid
+Auth No.
+
+2024/MH/881
+Verified Enterprise
+AgroFresh Supply Chain Pvt
+
+Ltd
+Commercial Mandi Aggregator &
+
+Institutional Processor
+CIN Number:U01100MH2018PTC309112
+Incorporated: May 2018 (Nashik, MH)
+Primary
+
+Contact:
+Rajesh Mehta
+Dir. Sourcing &
+
+Procurement
+REGISTERED APMC TRADE HUBS
+Pimpalgaon Central Mandi (#MH￾NSK-04)
+Vashi APMC Terminal Hub (#MH￾MUM-01)
+GRADE A MANDI
+
+OPERATOR
+AF
+INDIA
+Maharashtra State Agricultural Marketing Board (MSAMB) Central
+
+Repository Reference: MSAMB-REG-819-PMP
+Recent APMC Transacted Lots
+Direct farm gate and mandi platform
+
+procurement executed under unified APMC
+
+escrow.
+Audited Nov 2024
+On Time Farmer
+
+Payout
+99.4%
+Target: >95% • 0
+
+Defaults in 148 lots
+Delivery
+
+Completion Rate
+98.8%
+142 of 144
+
+dispatched lots
+
+cleared
+Avg Post Weigh
+
+Settlement
+2.4h
+Statutory limit: <24
+
+hours
+Arbitration Dispute
+
+Ratio
+0.6%
+1 Amicable APMC
+
+Rule 31 B fix
+Purchase History & Mandi Records 148
+Procurement Integrity & Mandi KPIs
+Verified by APMC Electronic Weighment Register (12 Month Rolling Record)
+Share
+
+Credential
+
+Link
+Filter
+
+Season:
+Kharif & Late Kharif 2024
+AgroFresh Supply Chain Ltd
+APMC Lic #N 819 • Grade A Buyer
+Ratings & Reviews from Farmers 4.9 ★
+Export Certified
+
+Profile PDF
+Licenses & Regulatory Docs 4 Verified Credit Limits & Escrow Audit
+MARKET INTEGRITY METRIC
+Mandi Trust Score Level 5 Pro
+Elite
+
+Mandi
+
+Tier
+Calculated
+
+across 148
+
+verified trades &
+
+RTGS spot
+
+disbursements.
+Top 4% in
+
+Maharashtra
+Institutional Credentials
+0
+Payment
+
+Defaults
+APMC Unified Trading
+
+License
+Lic #N-819 (Active till
+
+Mar 2026)
+Issuing Authority: MSAMB Pune
+
+Directorate
+KYC & Statutory Identity
+GSTIN: 27AABCA1234F1Z5
+PAN: AABCA1234F • MCA21 Live
+
+Auto Validated
+Nodal Escrow Gateway
+ICICI / MSAMB Clearing Grid
+Direct Beneficiary Transfer (DBT)
+
+instant payout route
+e-NAM National Portal
+
+Linked
+UTA: #NAM-MH-BUY-7741
+Integrated with Central DAC&FW
+
+Grid
+91
+/ 100
+Escrow
+
+Compliance
+100%
+Avg Weigh
+
+Clearance
+1.8h
+TXN
+
+ID &
+
+DATE
+COMMODITY
+
+& VARIETY
+FARMER / FPO
+
+COUNTERPARTY
+LOT
+
+WEIGHT
+CONTRACT
+
+VALUE
+SETTLEMENT
+
+STATUS
+SLIP &
+
+INVOICING
+#AC-
+
+TXN-
+
+8819
+29
+Nov
+2024 •
+Bhagwa
+
+Pomegranate
+Export Grade A
+(Packhouse
+Nashik)
+Ramesh
+
+Gaikwad
+Solapur District
+14:22
+#AC-
+
+TXN-
+
+8792
+25
+Nov
+2024 •
+Nashik Red
+
+Onion
+Garwa Variety •
+Size 55mm+
+Santosh
+
+Rambhau
+
+Shinde
+Niphad Mandi Yard
+11:05
+#AC-
+
+TXN-
+
+8740
+19
+Nov
+2024 •
+Soyabean JS
+335
+Machine Cleaned
+• <10% Moisture
+Sangamner
+
+Farmer
+
+Producer Co.
+Ahmednagar Hub
+16:40
+#AC-
+
+TXN-
+
+8695
+14
+Nov
+2024 •
+Sharbati
+
+Wheat
+Golden Premium
+Bold Grain
+Junnar Krushi
+
+FPO
+Pune North Hub
+09:18
+#AC-
+
+TXN-
+
+8620
+08
+Nov
+Thompson
+
+Seedless
+
+Grapes
+Cold Chain
+Eknath Shinde
+Dindori Mandi Hub
+2024 • Verified • 18 Brix
+12:50
+Showing 5 of 148 certified APMC settlements
+120.0
+
+Qtl
+12.0 MT
+450.0
+
+Qtl
+45.0 MT
+320.0
+
+Qtl
+32.0 MT
+50.0
+
+Qtl
+5.0 MT
+40.0
+
+Qtl
+4.0 MT
+Previous 1 2 3 Next
+₹20,79,000
+₹4,620/Qtl
+₹3,57,500
+₹7,150/Qtl
+₹2,81,634
+₹2,346/Qtl
+₹9,44,000
+₹2,950/Qtl
+₹1,80,000
+₹4,500/Qtl
+Escrow
+
+Released
+
+(DBT)
+Escrow
+
+Released
+
+(DBT)
+Escrow
+
+Released
+
+(DBT)
+Escrow
+
+Released
+
+(DBT)
+Escrow
+
+Released
+
+(DBT)
+WB
+892
+WB
+854
+WB
+801
+WB
+762
+WB
+710
+DESIGNATED SETTLEMENT ACCOUNT
+State Bank of India
+Commercial Banking Branch, Nashik
+Institutional Sourcing Capabilities
+Procurement capacity, certified cold chain linkages, and yard storage.
+IFSC: SBIN0004123 • A/C Ending ••••
+
+9021
+APMC Pledged
+
+Security Unencumbered
+₹50,00,000
+Rabi 2024-25 Active Procurement
+Nashik Cold Dedicated
+Storage Reefer Fleet
+Pimpalgaon
+
+Packhouse
+18 GPS Tracked
+
+Trucks
+Capacity: 4,500 MT
+
+(Controlled Temp)
+Zero Demurrage
+
+Yard Clearance
+Looking to contract high volume seasonal lots?
+
+AgroFresh engages in advance APMC notified
+
+tripartite forward contracts with registered
+
+FPOs.
+Initiate Direct FPO Inquiry
+On-Site Rapid
+Assaying
+NIR & Electronic
+
+Brix Scales
+15 Min Yard
+
+Testing SLA
+Maharashtra State Agricultural Marketing Board
+
+(MSAMB)
+Department of Agriculture • Government of
+
+Maharashtra
+APMC Mandi Bylaws • e NAM Guidelines •
+Rule 31 B Arbitration
+Escrow Settlement Policy •
+ACTIVE ESCROW VAULT
+₹18.40 L
+Available Credit: ₹45.0 L
+Rule 31 B Protected Trade
+APMC Buyer Helpdesk: 1800 233 0244
+Buyer Jurisdiction
+Licensed APMC Buyer (Nashik & Pune
+
+Mandi Divisions)
+Dashboard
+Browse Marketplace LIVE
+My Offers & Escrow 4
+Purchase History & Gatepass
+Quality Assayer Reports
+PREMIUM SOURCING
+
+ANALYTICS
+PRO
+Warehouse & Storage Locator
+Grievance & Dispute
+Buyer Profile & Verification
+Government of Maharashtra • MSInS Smart India Hackathon • AgriMarket Central Oversight Grid e NAM Sync: Active Kisan Helpline: 1800-180-1551 (Toll Free)
+3 Search mandi lots, commodities, farmers, or APMC yards...
+Step 14 • Advanced Mandi Sourcing & Predictive Analytics
+PREMIUM ENTERPRISE TIER
+Premium Buyer Analytics
+AgroFresh Supply Chain Ltd • Mandi Node Consolidation & AI Guided
+
+Farmgate Procurements
+Enterprise Plan Active
+Unlimited Next Renewal: Oct 2025 AI NIR lab report access, automated price forecasting, and direct farmgate priority
+
+matchmaking unlocked for Maharashtra APMC jurisdictions.
+English
+AgriConnect Buyer Trade Portal
+Maharashtra APMC Unified Exchange Grid
+TOTAL SOURCING
+
+VOLUME
+1,420 MT
++34.2% vs last quarter
+18 APMC Mandi nodes
+
+actively consolidating
+AVG. PRICE VS
+
+MODAL
+4.8%
+
+Below
+
+Modal
+Saved ₹14.85 Lakhs
+Through direct farmer
+
+bidding and lot pooling
+ACTIVE SUPPLIER
+
+NETWORK
+86
+
+Partners
+0 payment defaults to
+
+date
+Across 6 Western
+
+Maharashtra districts
+Live e-NAM API:
+
+Synchronized
+AgroFresh Supply Chain Ltd
+APMC Lic #N 819 • Grade A Buyer
+Updated 2m
+
+ago
+PRIORITY MATCH
+
+SCORE
+96.4%
+High-confidence AI fit
+Matched against moisture,
+
+grade & harvest date
+Export
+
+Report
+Priority Sourcing Filters (Enterprise Exclusive) Auto locking first 30 mins before general
+
+marketplace
+Algorithmic Lock Engine • Auto Escrow Trigger
+Set algorithmic matching thresholds to automatically lock and prioritize freshly boarded lots before public marketplace release.
+
+Incoming lots fulfilling these parameters directly route to your priority escrow inspection pool.
+Quality Grade Threshold Logistics Hub Radius ≤ 60 km Dynamic Max Price Ceiling
+Max ₹2,450 / Quintal Modal +5%
+State wide (150km)
+Filters lots certified via APMC NIR Assayer scan Auto pegged to e NAM APMC daily closing modal
+Anchored to Pimpalgaon Central Depots
+Grade A+ & Export Grade (≥95% Conformity)
+Nashik Hub (10km)
+7/12 Land Synced Farmers Only
+Verified against MahaBhulekh records
+Cold Storage & Packhouse Linked
+Pre cooling <4h from harvest timestamp
+e-NAM Weighbridge Certified
+Electronic tare & gross slip validation
+Filter matches 42 active lots across Pimpalgaon, Lasalgaon and Sangamner APMCs.
+Reset to Mandi Defaults Save & Apply Sourcing Filter
+Sourcing Trend & Price Intelligence
+Last 6 Months: AgroFresh Procured Rate vs. Maharashtra APMC
+
+Modal Benchmark
+AgroFresh Procured Rate
+2600
+2500
+2400
+2300
+2200
+Jun
+APMC Mandi Modal Benchmark
+Nov: ₹2,320 / Qtl
+₹60 below APMC modal
+₹/Quintal
+5.2% vs Modal
+Nashik Onion
+Jul
+Soyabean (Yellow)
+-4.1% vs Modal
+Aug Sep
+6.0% vs Modal
+Table Grapes
+Oct Nov
+District Distribution
+Volume split by regional procurement center
+Metric Tonnes (MT)
+Nashik Central / Pimpalgaon 580 MT (40.8%)
+Ahmednagar / Sangamner 390 MT (27.5%)
+Pune / Junnar 260 MT (18.3%)
+Solapur / Pandharpur 120 MT (8.5%)
+Jalgaon / Raver 70 MT (4.9%)
+Supply Chain Consolidation Insight
+72% of procurement consolidated 
+within 75
+
+km radius of Pimpalgaon central 
+depot,
+
+cutting secondary transit loss by 2.4%.
+Saved Supplier Lists & Priority FPO Partners
+4 Saved Farmer Producer Organizations & Progressive Growers with active seasonal availability
+TIER-1 FPO • 450 MT 4.9
+Sangamner Taluka
+
+Agri FPO
+Sangamner, Ahmednagar
+
+(42 km)
+Crops: Soyabean (JS-335),
+
+Sharbati Wheat
+Trust Score:
+
+92/100
+Govt
+
+Audited
+Available
+
+Lots:
+2 Batches (450
+
+Qtl)
+Send RFQ View Lots
+PROGRESSIVE MASTER
+
+FARMER 4.8
+Santosh Rambhau
+
+Shinde
+Niphad, Nashik (18 km)
+Crops: Nashik Red Onion
+
+(Garwa), Grapes
+Trust Score:
+
+87/100
+7/12
+
+Synced
+Available
+
+Lots:
+1 Lot Ready
+
+(120 Qtl)
+Direct Offer View Lots
+EXPORT CERTIFIED
+
+FPO 4.95
+Junnar Horticulture
+
+Co.
+Junnar, Pune (65 km)
+Crops: Bhagwa
+
+Pomegranate, Baby Corn
+Trust Score:
+
+94/100 GlobalGAP
+Available
+
+Lots:
+3 Batches (320
+
+Qtl)
+Send RFQ View Lots
+Export List (CSV)
+APEDA COLD CHAIN
+
+PARTNER 5.0
+Dindori Grape
+
+Collective
+Dindori, Nashik (24 km)
+Crops: Thompson Seedless
+
+Grapes
+Trust Score:
+
+95/100
+Cold Storage
+
+Sync
+Available
+
+Lots:
+2 Pre-Cooled
+
+(80 Qtl)
+Direct Offer View Lots
+Maharashtra State Agricultural Marketing Board
+
+(MSAMB)
+Department of Agriculture • Government of
+
+Maharashtra
+APMC Mandi Bylaws • e NAM Guidelines •
+Rule 31 B Arbitration
+Escrow Settlement Policy •

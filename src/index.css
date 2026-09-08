@@ -1,0 +1,547 @@
+/* =========================================================
+   AgriConnect Official Design System — Modern Glassmorphism & Web 2.0
+   Blending frosted-glass panels with tactile glossy gradients and rounded accents
+   Government of Maharashtra & Maharashtra State Innovation Society
+   ========================================================= */
+
+:root {
+  /* Surfaces & Glassmorphism */
+  --bg-app: #f0fdf4;
+  --bg-page: rgba(248, 250, 252, 0.85);
+  --bg-card: rgba(255, 255, 255, 0.78);
+  --bg-card-hover: rgba(255, 255, 255, 0.92);
+  --bg-sidebar: rgba(255, 255, 255, 0.82);
+  --bg-sidebar-active: rgba(236, 253, 245, 0.85);
+
+  /* Frosted Glass Highlights & Borders */
+  --border-glass: rgba(255, 255, 255, 0.8);
+  --border-glass-subtle: rgba(226, 232, 240, 0.75);
+  --border-subtle: rgba(226, 232, 240, 0.8);
+  --border-card: rgba(255, 255, 255, 0.75);
+  --border-strong: #cbd5e1;
+  --border-green: rgba(187, 247, 208, 0.85);
+
+  /* Primary Brand - Deep Forest & Leaf Green */
+  --primary: #15803d;
+  --primary-hover: #166534;
+  --primary-light: #dcfce7;
+  --primary-accent: #16a34a;
+
+  /* Secondary Accents */
+  --accent-saffron: #ea580c;
+  --accent-saffron-light: #ffedd5;
+  --accent-amber: #d97706;
+  --accent-amber-light: #fef3c7;
+  --accent-blue: #0284c7;
+  --accent-blue-light: #e0f2fe;
+  --accent-red: #dc2626;
+  --accent-red-light: #fee2e2;
+
+  /* Text Hierarchy */
+  --text-title: #0f172a;
+  --text-main: #1e293b;
+  --text-secondary: #475569;
+  --text-muted: #64748b;
+  --text-light: #94a3b8;
+
+  /* Typography */
+  --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Elevations & Glass Depth Shadows */
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 2px 4px rgba(15, 23, 42, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+  --shadow-md: 0 8px 24px -4px rgba(15, 23, 42, 0.07), 0 2px 6px -2px rgba(0, 0, 0, 0.04);
+  --shadow-lg: 0 16px 36px -6px rgba(15, 23, 42, 0.09), 0 6px 12px -4px rgba(0, 0, 0, 0.05);
+  --shadow-glass: 0 8px 32px 0 rgba(15, 23, 42, 0.05), inset 0 1px 1px 0 rgba(255, 255, 255, 0.85);
+  --shadow-glass-float: 0 12px 36px -4px rgba(15, 23, 42, 0.08), inset 0 1px 1.5px 0 rgba(255, 255, 255, 0.95);
+
+  /* Radii - Smooth modern roundedness */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  /* Organic layered gradient background for glassmorphism to blur against */
+  background: 
+    radial-gradient(at 8% 12%, rgba(20, 184, 166, 0.11) 0px, transparent 48%),
+    radial-gradient(at 92% 14%, rgba(34, 197, 94, 0.12) 0px, transparent 48%),
+    radial-gradient(at 50% 48%, rgba(56, 189, 248, 0.06) 0px, transparent 55%),
+    radial-gradient(at 85% 88%, rgba(16, 185, 129, 0.09) 0px, transparent 50%),
+    radial-gradient(at 15% 90%, rgba(13, 148, 136, 0.10) 0px, transparent 50%),
+    #f1f5f9;
+  background-attachment: fixed;
+  color: var(--text-main);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--text-title);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* =========================================================
+   Glassmorphic Card Panels
+   ========================================================= */
+.panel {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-glass);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease, border-color 0.2s ease;
+  position: relative;
+}
+
+.panel:hover {
+  box-shadow: var(--shadow-glass-float);
+  border-color: rgba(255, 255, 255, 0.95);
+}
+
+/* Frosted Glass Floating Card */
+.glass-card {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 
+    0 10px 30px -5px rgba(15, 23, 42, 0.06),
+    0 2px 4px rgba(0, 0, 0, 0.02),
+    inset 0 1px 1px 0 rgba(255, 255, 255, 0.9);
+  border-radius: var(--radius-lg);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.glass-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    0 16px 36px -4px rgba(15, 23, 42, 0.09),
+    inset 0 1px 1px 0 rgba(255, 255, 255, 1);
+}
+
+/* Glass KPI metric box (for hero cards and stats grids) */
+.hero-glass-kpi {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 14px;
+  padding: 14px 16px;
+  box-shadow: 
+    inset 0 1px 1px rgba(255, 255, 255, 0.35),
+    0 6px 16px rgba(0, 0, 0, 0.12);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+}
+
+.hero-glass-kpi:hover {
+  background: rgba(255, 255, 255, 0.17);
+  transform: translateY(-2px);
+  box-shadow: 
+    inset 0 1px 1.5px rgba(255, 255, 255, 0.45),
+    0 10px 22px rgba(0, 0, 0, 0.18);
+}
+
+/* =========================================================
+   Web 2.0 Tactile Glossy Badges & Status Pills
+   ========================================================= */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 11px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  border-radius: var(--radius-full);
+  letter-spacing: 0.02em;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.65), 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: all 0.15s ease;
+}
+
+.badge-green {
+  background: linear-gradient(180deg, #ecfdf5 0%, #dcfce7 100%);
+  color: #15803d;
+  border: 1px solid rgba(187, 247, 208, 0.9);
+}
+
+.badge-saffron {
+  background: linear-gradient(180deg, #fff7ed 0%, #ffedd5 100%);
+  color: #c2410c;
+  border: 1px solid rgba(254, 215, 170, 0.9);
+}
+
+.badge-amber {
+  background: linear-gradient(180deg, #fffbeb 0%, #fef3c7 100%);
+  color: #b45309;
+  border: 1px solid rgba(253, 230, 138, 0.9);
+}
+
+.badge-blue {
+  background: linear-gradient(180deg, #f0f9ff 0%, #e0f2fe 100%);
+  color: #0369a1;
+  border: 1px solid rgba(186, 230, 253, 0.9);
+}
+
+.badge-red {
+  background: linear-gradient(180deg, #fef2f2 0%, #fee2e2 100%);
+  color: #b91c1c;
+  border: 1px solid rgba(254, 202, 202, 0.9);
+}
+
+.badge-gray {
+  background: linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%);
+  color: #475569;
+  border: 1px solid rgba(226, 232, 240, 0.9);
+}
+
+/* =========================================================
+   Web 2.0 Glossy Tactile Buttons
+   ========================================================= */
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.btn-primary {
+  background: linear-gradient(180deg, #16a34a 0%, #15803d 50%, #166534 100%);
+  color: #ffffff;
+  font-weight: 700;
+  padding: 9px 20px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  box-shadow: 
+    inset 0 1px 1px 0 rgba(255, 255, 255, 0.55),
+    inset 0 -1px 2px 0 rgba(0, 0, 0, 0.2),
+    0 4px 10px rgba(21, 128, 61, 0.3),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.btn-primary:hover {
+  background: linear-gradient(180deg, #22c55e 0%, #16a34a 50%, #15803d 100%);
+  transform: translateY(-1.5px);
+  box-shadow: 
+    inset 0 1px 1.5px 0 rgba(255, 255, 255, 0.7),
+    inset 0 -1px 2px 0 rgba(0, 0, 0, 0.2),
+    0 6px 16px rgba(21, 128, 61, 0.4),
+    0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary:active {
+  transform: translateY(1px);
+  box-shadow: 
+    inset 0 2px 4px 0 rgba(0, 0, 0, 0.3),
+    0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-secondary {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 60%, #f1f5f9 100%);
+  color: var(--text-main);
+  font-weight: 700;
+  padding: 8px 18px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(203, 213, 225, 0.75);
+  box-shadow: 
+    inset 0 1px 1px 0 rgba(255, 255, 255, 0.95),
+    inset 0 -1px 1px 0 rgba(0, 0, 0, 0.04),
+    0 3px 8px rgba(15, 23, 42, 0.05);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.btn-secondary:hover {
+  background: linear-gradient(180deg, #ffffff 0%, #ffffff 60%, #f8fafc 100%);
+  border-color: #94a3b8;
+  transform: translateY(-1.5px);
+  box-shadow: 
+    inset 0 1px 1.5px 0 rgba(255, 255, 255, 1),
+    0 6px 14px rgba(15, 23, 42, 0.08);
+}
+
+.btn-secondary:active {
+  transform: translateY(1px);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-saffron {
+  background: linear-gradient(180deg, #f97316 0%, #ea580c 50%, #c2410c 100%);
+  color: #ffffff;
+  font-weight: 700;
+  padding: 9px 20px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  box-shadow: 
+    inset 0 1px 1px 0 rgba(255, 255, 255, 0.55),
+    inset 0 -1px 2px 0 rgba(0, 0, 0, 0.2),
+    0 4px 10px rgba(234, 88, 12, 0.35),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.btn-saffron:hover {
+  background: linear-gradient(180deg, #fb923c 0%, #f97316 50%, #ea580c 100%);
+  transform: translateY(-1.5px);
+  box-shadow: 
+    inset 0 1px 1.5px 0 rgba(255, 255, 255, 0.7),
+    0 6px 16px rgba(234, 88, 12, 0.45);
+}
+
+.btn-saffron:active {
+  transform: translateY(1px);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-blue {
+  background: linear-gradient(180deg, #3b82f6 0%, #2563eb 50%, #1d4ed8 100%);
+  color: #ffffff;
+  font-weight: 700;
+  padding: 9px 20px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  box-shadow: 
+    inset 0 1px 1px 0 rgba(255, 255, 255, 0.55),
+    inset 0 -1px 2px 0 rgba(0, 0, 0, 0.2),
+    0 4px 10px rgba(37, 99, 235, 0.35),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+.btn-blue:hover {
+  background: linear-gradient(180deg, #60a5fa 0%, #3b82f6 50%, #2563eb 100%);
+  transform: translateY(-1.5px);
+  box-shadow: 
+    inset 0 1px 1.5px 0 rgba(255, 255, 255, 0.7),
+    0 6px 16px rgba(37, 99, 235, 0.45);
+}
+
+.btn-blue:active {
+  transform: translateY(1px);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* =========================================================
+   Web 2.0 Glossy Segmented Controls & Pills
+   ========================================================= */
+.glossy-segmented-control {
+  background: rgba(241, 245, 249, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(203, 213, 225, 0.75);
+  border-radius: 10px;
+  padding: 3px;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
+  display: inline-flex;
+  align-items: center;
+}
+
+.glossy-segmented-item {
+  border-radius: 7px;
+  padding: 6px 14px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  transition: all 0.16s ease;
+  border: none;
+  cursor: pointer;
+  color: #64748b;
+  background: transparent;
+}
+
+.glossy-segmented-item.active {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  color: #0f172a;
+  box-shadow: 
+    inset 0 1px 0.5px rgba(255, 255, 255, 1),
+    0 2px 6px rgba(15, 23, 42, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+/* =========================================================
+   Tables with Glassmorphism
+   ========================================================= */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.85rem;
+}
+
+.data-table th {
+  padding: 12px 16px;
+  font-weight: 700;
+  color: var(--text-muted);
+  font-size: 0.74rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+  background: rgba(248, 250, 252, 0.7);
+}
+
+.data-table td {
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(241, 245, 249, 0.9);
+  color: var(--text-main);
+  transition: background 0.15s ease;
+}
+
+.data-table tr:hover td {
+  background: rgba(248, 250, 252, 0.8);
+}
+
+/* Smooth Slide In */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-slide-in {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* =========================================================
+   Mandi Live Feed Marquee (Continuous Right-to-Left Ticker)
+   ========================================================= */
+.mandi-ticker-container {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mandi-ticker-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(248, 250, 252, 0.98);
+  padding: 3px 14px 3px 0;
+  z-index: 4;
+  flex-shrink: 0;
+  font-weight: 800;
+  color: #15803d;
+  font-size: 0.74rem;
+  box-shadow: 10px 0 16px -2px rgba(248, 250, 252, 1);
+  letter-spacing: 0.03em;
+}
+
+.mandi-ticker-viewport {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  display: flex;
+  mask-image: linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent);
+}
+
+.mandi-ticker-track {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  width: max-content;
+  white-space: nowrap;
+  animation: mandiMarqueeRightToLeft 32s linear infinite;
+  will-change: transform;
+}
+
+.mandi-ticker-container:hover .mandi-ticker-track {
+  animation-play-state: paused;
+}
+
+@keyframes mandiMarqueeRightToLeft {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.mandi-ticker-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  font-size: 0.76rem;
+  color: var(--text-secondary);
+}
+
+.mandi-ticker-item strong {
+  color: var(--text-title);
+  font-weight: 700;
+}
+
+.mandi-ticker-change-pos {
+  color: #15803d;
+  font-weight: 700;
+}
+
+.mandi-ticker-change-neg {
+  color: #dc2626;
+  font-weight: 700;
+}
+
+.mandi-ticker-sep {
+  color: #cbd5e1;
+  font-size: 0.7rem;
+  margin-left: 6px;
+}
+
+/* =========================================================
+   Clean Vernacular Translation Layer (Zero Google Banners)
+   ========================================================= */
+.goog-te-banner-frame, 
+.goog-te-banner-frame.skiptranslate, 
+iframe.goog-te-banner-frame,
+.goog-te-gadget,
+#goog-gt-tt, 
+.goog-te-balloon-frame {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+body {
+  top: 0px !important;
+  position: static !important;
+}
+
+.goog-text-highlight {
+  background: none !important;
+  box-shadow: none !important;
+}
+
+font {
+  background: transparent !important;
+  box-shadow: none !important;
+}
