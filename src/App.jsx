@@ -30,6 +30,7 @@ import Step19DeliveriesDispatch from './screens/Step19DeliveriesDispatch';
 import AdminPortal from './screens/admin/AdminPortal';
 import Step22FieldAgentPortal from './screens/agent/Step22FieldAgentPortal';
 import Step23ByProductBuyerPortal from './screens/buyer/Step23ByProductBuyerPortal';
+import Step24ByProductBuyerLogin from './screens/buyer/Step24ByProductBuyerLogin';
 
 function MainApp() {
   const { authUser, toasts, removeToast, switchRole, lang, setLang } = useAgri();
@@ -303,6 +304,15 @@ function MainApp() {
             lang={lang} 
             byProductTab={byProductTab}
             setByProductTab={setByProductTab}
+          />
+        );
+      case 24:
+        return (
+          <Step24ByProductBuyerLogin 
+            setStep={setStep} 
+            setTerminal={setRole} 
+            setRole={setRole} 
+            lang={lang} 
           />
         );
       default:

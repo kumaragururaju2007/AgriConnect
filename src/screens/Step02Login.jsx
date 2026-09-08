@@ -60,6 +60,20 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
     businessType: 'Commercial Mandi Aggregator & Institutional Processor'
   });
 
+  // By-Product / Biomass Buyer Registration State
+  const [byProductBuyerData, setByProductBuyerData] = useState({
+    companyName: 'Maha BioEnergy & Pellets Ltd',
+    gstin: '27AABCM8812K1Z8',
+    industryCategory: 'Bio-CNG (CBG) & Briquette Manufacturing',
+    plantDistrict: 'Nashik',
+    contactPerson: 'Sanjay Deshpande',
+    email: 'procurement@mahabiofuels.in',
+    phone: '+91 98220 77192',
+    password: 'password123',
+    monthlyDemandMT: 450,
+    escrowAccount: '39481029481'
+  });
+
   // Driver / Transporter Registration State
   const [driverData, setDriverData] = useState({
     name: 'Rajesh Vitthal Patil',
@@ -93,6 +107,19 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
       if (setRole) setRole('agent');
       if (openFieldAgentPortal) openFieldAgentPortal();
       else setStep(22);
+      return;
+    }
+
+    if (selectedRole === 'byproduct_buyer') {
+      setIsSubmitting(true);
+      await loginUser(
+        { usernameOrEmail: loginIdentifier, password: loginPassword },
+        'buyer'
+      );
+      setIsSubmitting(false);
+      if (setTerminal) setTerminal('apmc');
+      if (setRole) setRole('buyer');
+      setStep(23); // By-Product Buyer Portal
       return;
     }
 
@@ -180,6 +207,11 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
       await registerUser(driverData, 'driver');
       setTerminal('driver');
       setStep(20);
+    } else if (selectedRole === 'byproduct_buyer') {
+      await registerUser(byProductBuyerData, 'buyer');
+      setTerminal('apmc');
+      setRole('buyer');
+      setStep(23);
     } else {
       await registerUser(buyerData, 'buyer');
       setTerminal('apmc');
@@ -201,6 +233,13 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
     setAuthMode('login');
     setLoginIdentifier('procurement@agrofresh.in');
     setLoginPassword('password123');
+  };
+
+  const fillDemoByProductBuyer = () => {
+    setSelectedRole('byproduct_buyer');
+    setAuthMode('login');
+    setLoginIdentifier('procurement@mahabiofuels.in');
+    setLoginPassword('biofuel1234');
   };
 
   const fillDemoDriver = () => {
@@ -260,6 +299,12 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
           </button>
           <button 
             type="button"
+            onClick={fillDemoByProductBuyer}
+            style={{ background: '#ecfdf5', border: '1px solid #047857', color: '#047857', padding: '5px 14px', borderRadius: 6, fontSize: '0.78rem', fontWeight: 800 }}>
+            🌿 Demo By-Product / Biomass Buyer (Maha BioEnergy)
+          </button>
+          <button 
+            type="button"
             onClick={fillDemoDriver}
             style={{ background: '#eff6ff', border: '1px solid #2563eb', color: '#1d4ed8', padding: '5px 14px', borderRadius: 6, fontSize: '0.78rem', fontWeight: 800 }}>
             🚚 Demo Transportation (Rajesh Patil - MH 15)
@@ -282,7 +327,7 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
       {/* Main Authentication Container */}
       <div className="panel" style={{ padding: '32px' }}>
         
-        {/* Step A: Role Selection (Farmer vs Buyer vs Driver vs Field Agent vs Admin) */}
+        {/* Step A: Role Selection (Farmer vs Buyer vs ByProduct Buyer vs Driver vs Field Agent vs Admin) */}
         <div style={{ marginBottom: 24 }}>
           <label style={{ display: 'block', fontSize: '0.8rem', fontWeight: 700, color: '#64748b', textTransform: 'uppercase', marginBottom: 10 }}>
             1. Select Your Gateway Role (तुमची भूमिका निवडा)
@@ -328,6 +373,32 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
                   </div>
                   <div style={{ fontSize: '0.75rem', color: '#64748b' }}>
                     Procure lots, bid on pools, lock escrow contracts & track dispatch
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div 
+              onClick={() => {
+                setSelectedRole('byproduct_buyer');
+                setLoginIdentifier('procurement@mahabiofuels.in');
+                setLoginPassword('biofuel1234');
+              }}
+              style={{
+                padding: '16px', borderRadius: 10, cursor: 'pointer',
+                background: selectedRole === 'byproduct_buyer' ? '#ecfdf5' : '#ffffff',
+                border: selectedRole === 'byproduct_buyer' ? '2px solid #047857' : '1px solid #e2e8f0',
+                transition: 'all 0.15s ease', boxShadow: selectedRole === 'byproduct_buyer' ? 'var(--shadow-sm)' : 'none'
+              }}
+            >
+              <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 4 }}>
+                <span style={{ fontSize: '1.6rem' }}>🌿</span>
+                <div>
+                  <div style={{ fontWeight: 800, fontSize: '1.05rem', color: selectedRole === 'byproduct_buyer' ? '#047857' : '#0f172a' }}>
+                    By-Product Buyer (बायोमास खरेदीदार)
+                  </div>
+                  <div style={{ fontSize: '0.75rem', color: '#64748b' }}>
+                    Source sugarcane trash, onion skin, cotton stalk lots for CBG & pellets
                   </div>
                 </div>
               </div>
@@ -888,6 +959,100 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
                   </div>
                 </div>
               </div>
+            ) : selectedRole === 'byproduct_buyer' ? (
+              /* By-Product / Biomass Buyer Registration Fields */
+              <div>
+                <div style={{ background: '#ecfdf5', border: '1px solid #a7f3d0', borderRadius: 8, padding: '12px 16px', marginBottom: 18, fontSize: '0.82rem', color: '#065f46' }}>
+                  <strong>🏭 Industrial Biomass & Biofuel Aggregation:</strong> Direct farmgate bidding for sugarcane trash, onion peel, cotton stalk and soyabean straw lots with integrated tipper logistics.
+                </div>
+
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14, marginBottom: 14 }}>
+                  <div>
+                    <label style={{ display: 'block', fontSize: '0.78rem', fontWeight: 700, color: '#334155', marginBottom: 4 }}>Processing Enterprise Name</label>
+                    <input 
+                      type="text" 
+                      value={byProductBuyerData.companyName}
+                      onChange={(e) => setByProductBuyerData({ ...byProductBuyerData, companyName: e.target.value })}
+                      required
+                      placeholder="उदा. Maha BioEnergy & Pellets Ltd"
+                      style={{ width: '100%', padding: '9px 12px', background: '#f8fafc', border: '1px solid #cbd5e1', borderRadius: 6, fontSize: '0.85rem' }} 
+                    />
+                  </div>
+
+                  <div>
+                    <label style={{ display: 'block', fontSize: '0.78rem', fontWeight: 700, color: '#334155', marginBottom: 4 }}>GSTIN Number</label>
+                    <input 
+                      type="text" 
+                      value={byProductBuyerData.gstin}
+                      onChange={(e) => setByProductBuyerData({ ...byProductBuyerData, gstin: e.target.value.toUpperCase() })}
+                      required
+                      placeholder="27AABCM8812K1Z8"
+                      style={{ width: '100%', padding: '9px 12px', background: '#f8fafc', border: '1px solid #cbd5e1', borderRadius: 6, fontSize: '0.85rem', fontWeight: 700 }} 
+                    />
+                  </div>
+
+                  <div>
+                    <label style={{ display: 'block', fontSize: '0.78rem', fontWeight: 700, color: '#334155', marginBottom: 4 }}>Authorized Sourcing Officer</label>
+                    <input 
+                      type="text" 
+                      value={byProductBuyerData.contactPerson}
+                      onChange={(e) => setByProductBuyerData({ ...byProductBuyerData, contactPerson: e.target.value })}
+                      required
+                      placeholder="Sanjay Deshpande"
+                      style={{ width: '100%', padding: '9px 12px', background: '#f8fafc', border: '1px solid #cbd5e1', borderRadius: 6, fontSize: '0.85rem' }} 
+                    />
+                  </div>
+
+                  <div>
+                    <label style={{ display: 'block', fontSize: '0.78rem', fontWeight: 700, color: '#334155', marginBottom: 4 }}>Official Mobile</label>
+                    <input 
+                      type="text" 
+                      value={byProductBuyerData.phone}
+                      onChange={(e) => setByProductBuyerData({ ...byProductBuyerData, phone: e.target.value })}
+                      required
+                      placeholder="+91 98220 77192"
+                      style={{ width: '100%', padding: '9px 12px', background: '#f8fafc', border: '1px solid #cbd5e1', borderRadius: 6, fontSize: '0.85rem' }} 
+                    />
+                  </div>
+
+                  <div>
+                    <label style={{ display: 'block', fontSize: '0.78rem', fontWeight: 700, color: '#334155', marginBottom: 4 }}>Corporate Email ID</label>
+                    <input 
+                      type="email" 
+                      value={byProductBuyerData.email}
+                      onChange={(e) => setByProductBuyerData({ ...byProductBuyerData, email: e.target.value })}
+                      required
+                      placeholder="procurement@mahabiofuels.in"
+                      style={{ width: '100%', padding: '9px 12px', background: '#f8fafc', border: '1px solid #cbd5e1', borderRadius: 6, fontSize: '0.85rem' }} 
+                    />
+                  </div>
+
+                  <div>
+                    <label style={{ display: 'block', fontSize: '0.78rem', fontWeight: 700, color: '#334155', marginBottom: 4 }}>Monthly Biomass Demand (MT)</label>
+                    <input 
+                      type="number" 
+                      value={byProductBuyerData.monthlyDemandMT}
+                      onChange={(e) => setByProductBuyerData({ ...byProductBuyerData, monthlyDemandMT: Number(e.target.value) })}
+                      required
+                      placeholder="450"
+                      style={{ width: '100%', padding: '9px 12px', background: '#f8fafc', border: '1px solid #cbd5e1', borderRadius: 6, fontSize: '0.85rem' }} 
+                    />
+                  </div>
+
+                  <div style={{ gridColumn: 'span 2' }}>
+                    <label style={{ display: 'block', fontSize: '0.78rem', fontWeight: 700, color: '#334155', marginBottom: 4 }}>Industrial Bio-Energy Sector</label>
+                    <select 
+                      value={byProductBuyerData.industryCategory}
+                      onChange={(e) => setByProductBuyerData({ ...byProductBuyerData, industryCategory: e.target.value })}
+                      style={{ width: '100%', padding: '9px 12px', background: '#ffffff', border: '1px solid #cbd5e1', borderRadius: 6, fontSize: '0.85rem' }}>
+                      <option value="Bio-CNG (CBG) & Briquette Manufacturing">Bio-CNG (CBG) & Briquette Manufacturing</option>
+                      <option value="Industrial Biomass Pellets & Bio-Coal">Industrial Biomass Pellets & Bio-Coal</option>
+                      <option value="Agro-Paper & Corrugated Packaging Pulp">Agro-Paper & Corrugated Packaging Pulp</option>
+                      <option value="Ethanol Distilleries & Bio-Refineries">Ethanol Distilleries & Bio-Refineries</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
             ) : (
               /* Buyer Registration Fields */
               <div>
@@ -987,10 +1152,13 @@ export default function Step02Login({ setStep, setTerminal, setRole, lang, setLa
             <button 
               type="submit"
               disabled={isSubmitting}
-              className={selectedRole === 'farmer' ? 'btn-primary' : selectedRole === 'driver' ? 'btn-blue' : 'btn-saffron'} 
-              style={{ width: '100%', justifyContent: 'center', padding: '12px', fontSize: '0.95rem', borderRadius: 8, marginTop: 10 }}
+              className={selectedRole === 'farmer' ? 'btn-primary' : selectedRole === 'driver' ? 'btn-blue' : selectedRole === 'byproduct_buyer' ? 'btn-primary' : 'btn-saffron'} 
+              style={{
+                width: '100%', justifyContent: 'center', padding: '12px', fontSize: '0.95rem', borderRadius: 8, marginTop: 10,
+                background: selectedRole === 'byproduct_buyer' ? 'linear-gradient(135deg, #047857 0%, #065f46 100%)' : undefined
+              }}
             >
-              <span>{isSubmitting ? 'Registering into PostgreSQL...' : `Complete Registration as ${selectedRole === 'farmer' ? 'Farmer' : selectedRole === 'driver' ? 'Accredited Transporter' : 'Buyer'}`}</span>
+              <span>{isSubmitting ? 'Registering into PostgreSQL...' : `Complete Registration as ${selectedRole === 'farmer' ? 'Farmer' : selectedRole === 'driver' ? 'Accredited Transporter' : selectedRole === 'byproduct_buyer' ? 'Industrial Biomass Buyer' : 'Buyer'}`}</span>
               <ArrowRight size={16} />
             </button>
 
