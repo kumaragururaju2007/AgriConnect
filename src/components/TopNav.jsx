@@ -97,9 +97,9 @@ export default function TopNav({
       boxShadow: '0 4px 20px -2px rgba(15, 23, 42, 0.05)' 
     }}>
       {/* Top Green Institutional Ribbon */}
-      <div style={{ background: '#14532d', color: '#f0fdf4', padding: '4px 20px', fontSize: '0.75rem' }}>
-        <div style={{ maxWidth: 1600, margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 8 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+      <div style={{ background: '#14532d', color: '#f0fdf4', padding: '4px 16px', fontSize: '0.75rem', whiteSpace: 'nowrap', overflowX: 'auto', WebkitOverflowScrolling: 'touch' }}>
+        <div style={{ maxWidth: 1600, margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'nowrap', gap: 16 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexShrink: 0, whiteSpace: 'nowrap' }}>
             <span style={{ fontWeight: 700, display: 'flex', alignItems: 'center', gap: 4 }}>
               🏛️ Government of Maharashtra
             </span>
@@ -110,7 +110,7 @@ export default function TopNav({
             </span>
           </div>
 
-          <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12, flexShrink: 0, whiteSpace: 'nowrap' }}>
             <span style={{ display: 'flex', alignItems: 'center', gap: 4, color: '#86efac' }}>
               <PhoneCall size={11} /> {t.kisanCallCenter}
             </span>
